@@ -1,7 +1,7 @@
 <?php
 include './routes.php';
 
-$phone_number = '+917388211116';
+$phone_number = '+910000000000';
 
 $noindex = '<meta name="robots" content="noindex, nofollow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
     <link rel="shortcut icon" href="'.get_url().'images/our-service-your-satisfaction.png" type="image/x-icon" />
