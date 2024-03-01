@@ -1,0 +1,17 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-f
+Options -Indexes
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+
+
+#COMMON PAGES
+RewriteRule ^about-us([/]?)$ about-us.php [NC,L]
+RewriteRule ^gallery([/]?)$ gallery.php [NC,L]
+RewriteRule ^booking([/]?)$ booking.php [NC,L]
+RewriteRule ^blog([/]?)$ blog.php [NC,L]
+RewriteRule ^contact-us([/]?)$ contact-us.php [NC,L]
+RewriteRule ^our-message([/]?)$ our-message.php [NC,L]
+RewriteRule ^location([/]?)$ location.php [NC,L]
+RewriteRule ^page-faq([/]?)$ page-faq.php [NC,L]
