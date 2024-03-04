@@ -372,7 +372,10 @@ a {
 
     .overlay-txt {
         font-size: 10vw;
+        right: auto;
+        left: 2%;
     }
+    
 
     .overlay-txt p {
         margin: 0 0 10px 0;
