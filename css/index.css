@@ -76,6 +76,7 @@
 .grid-item{
     width: auto;
     height: auto;
+    border-radius: 5px;
     margin: 3% 0;
     border:1px solid #36454F;
 }
@@ -144,7 +145,7 @@
 .price-rate{
     width: 100%;
     height: 170px;
-    background-color: var(--border);
+    background-color: #F7F7F7;
     font-size: 2.1rem;
     display: grid;align-items: center;
     margin: 0;
