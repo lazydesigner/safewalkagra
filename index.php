@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet" async>
     <?=$noindex ?>
     <title>Agra Escorts 0000000000 | Safewalk Network 24/7</title>
     <meta name="description" content="We offer top class Agra escorts at cash payment. All type of escorts available like Housewife, college girls, Russian models, etc">
@@ -37,7 +37,7 @@
             <div class="overlay-txt">
                 <p>Best Escorts Providers</p> <span>Safe Walk Agra</span>
             </div>
-            <video autoplay muted>
+            <video id="myVideo" autoplay muted>
                 <source src="./images/mp4-teressa1.mp4" type="video/mp4">
             </video>
         </div>
@@ -317,7 +317,24 @@
     </section>
     
     <?php include './footer.php' ?>
+    <script>
+    window.onload = function() {
+        var video = document.getElementById('myVideo');
+        // var placeholder = document.getElementById('video-placeholder');
 
+        // Show video when it's loaded
+        video.oncanplay = function() {
+            video.style.display = 'block';
+            // placeholder.style.display = 'none';
+        };
+
+        // If video fails to load, show image
+        video.onerror = function() {
+            video.style.display = 'none';
+            // placeholder.style.display = 'block';
+        };
+    };
+</script>
 
 </body>
 
