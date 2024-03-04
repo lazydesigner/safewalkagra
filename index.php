@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"  rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');" async>
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"  rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');" async> -->
     <?=$noindex ?>
     <title>Agra Escorts 0000000000 | Safewalk Network 24/7</title>
     <meta name="description" content="We offer top class Agra escorts at cash payment. All type of escorts available like Housewife, college girls, Russian models, etc">
@@ -25,6 +25,9 @@
     <link rel="stylesheet" href="<?= get_url() ?>css/index.css">
     <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css">
     <style>
+        body{
+            font-family:Arial, Helvetica, sans-serif;
+        }
 .content-section .content-area a{
     font-weight: bold;color: var(--link-color);
 }</style>
