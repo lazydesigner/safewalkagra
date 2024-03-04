@@ -58,6 +58,9 @@
     color: white;
     width: 70%;
 }
+.content-section a{
+    font-weight: bold;color: var(--link-color);
+}
 .small-div-to-contact .below-text h3{margin: 0;}
 .small-div-to-contact .below-text p{margin: 0;font-size: small;font-weight: 600;}
 .small-div-to-contact .below-button{
