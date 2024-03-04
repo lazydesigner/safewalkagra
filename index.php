@@ -24,6 +24,10 @@
     <!-- apart -->
     <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css">
     <link rel="stylesheet" href="<?= get_url() ?>css/index.css">
+    <style>
+.content-section .content-area a{
+    font-weight: bold;color: var(--link-color);
+}</style>
 </head>
 
 <body>
