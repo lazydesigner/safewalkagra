@@ -22,8 +22,8 @@
     <meta name="twitter:description" content="We offer top class Agra escorts at cash payment. All type of escorts available like Housewife, college girls, Russian models, etc" />
     <link rel="canonical" href="<?= get_url() ?>" />
     <!-- apart -->
-    <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css">
     <link rel="stylesheet" href="<?= get_url() ?>css/index.css">
+    <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css">
     <style>
 .content-section .content-area a{
     font-weight: bold;color: var(--link-color);
