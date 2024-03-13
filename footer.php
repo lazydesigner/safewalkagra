@@ -10,12 +10,12 @@
                 <div class="footer-col">
                     <p>TAGS</p>
                     <ul>
-                        <li>Best Escort Service in Goa</li>
-                        <li>Independent call Girls in Goa</li>
-                        <li>Celebrity Escorts Service in Goa</li>
-                        <li>High Profile Escorts In Goa</li>
-                        <li>Escort Goa</li>
-                        <li>Best Escort in Goa</li>
+                        <li>Best Escort Service in Agra</li>
+                        <li>Independent call Girls in Agra</li>
+                        <li>Celebrity Escorts Service in Agra</li>
+                        <li>High Profile Escorts In Agra</li>
+                        <li>Escort Agra</li>
+                        <li>Best Escort in Agra</li>
                     </ul>
                 </div>
                 <div class="footer-col">
