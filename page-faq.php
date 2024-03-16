@@ -120,6 +120,41 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
 
         });
     </script>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "How can you book call girls in Agra?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Booking call girls in Agra is not a tricky process and you should land on the relative websites. Click on the profile of your favorite actor and book their service in one mouse click."
+    }
+  },{
+    "@type": "Question",
+    "name": "What are the rates of the Agra call girls?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The rate for call girls in Agar is not the same. It depends on various key factors what model and how long time to conduct the intercourse session."
+    }
+  },{
+    "@type": "Question",
+    "name": "Is it safe to hire call girls In Agra?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Hiring the call girls in Agra would be great if you have the full investigation regarding this service. Otherwise, you might come in the cop's company."
+    }
+  },{
+    "@type": "Question",
+    "name": "What types of Agra escort service provide you?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "While you are looking forward the Agra escort service, you can find the service page. Here, you can gain oral sex and other related service as well."
+    }
+  }]
+}
+</script>
 </body>
 
 </html>
