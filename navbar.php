@@ -16,31 +16,31 @@
             </div>
 
             <div class="list-of-links" id="list-of-links">
-                <a href="<?=get_url()?>" class="home">
+                <a aria-label="navlink" href="<?=get_url()?>" id="homelink" class="home">
                     <div>Home</div>
                 </a>
-                <a href="<?=get_url()?>about-us">
+                <a aria-label="navlink" href="<?=get_url()?>about-us.html">
                     <div>About us</div>
                 </a>
-                <a href="<?=get_url()?>gallery">
+                <a aria-label="navlink" href="<?=get_url()?>gallery.html">
                     <div>Gallery</div>
                 </a>
-                <a href="<?=get_url()?>booking">
+                <a aria-label="navlink" href="<?=get_url()?>booking.html">
                     <div>Booking</div>
                 </a>
-                <a href="<?=get_url()?>blog">
+                <a aria-label="navlink" href="<?=get_url()?>blog.html">
                     <div>Blog</div>
                 </a>
-                <a href="<?=get_url()?>contact-us">
+                <a aria-label="navlink" href="<?=get_url()?>contact-us.html">
                     <div>Contact us</div>
                 </a>
-                <a href="<?=get_url()?>our-message">
+                <a aria-label="navlink" href="<?=get_url()?>our-message.html">
                     <div>Our Message</div>
                 </a>
-                <a href="<?=get_url()?>location">
+                <a aria-label="navlink" href="<?=get_url()?>location.html">
                     <div>Location</div>
                 </a>
-                <a href="<?=get_url()?>page-faq">
+                <a aria-label="navlink" href="<?=get_url()?>page-faq.html">
                     <div>faq</div>
                 </a>
             </div>

@@ -21,12 +21,12 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
     <meta property="og:type" content="website" />
     <meta property="og:title" content="FAQ Pages | Safewalk Network 24/7" />
     <meta property="og:description" content="We offer top class Agra escorts at cash payment. All type of escorts available like Housewife, college girls, Russian models, etc" />
-    <meta property="og:url" content="<?= get_url() ?>" />
+    <meta property="og:url" content="<?= get_url() ?>page-faq.html" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="FAQ Pages | Safewalk Network 24/7" />
     <meta name="twitter:description" content="We offer top class Agra escorts at cash payment. All type of escorts available like Housewife, college girls, Russian models, etc" />
-    <link rel="canonical" href="<?= get_url() ?>" />
+    <link rel="canonical" href="<?= get_url() ?>page-faq.html" />
     <!-- apart -->
     <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css">
     <style>
@@ -59,6 +59,7 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
             transition: .25s;
         }
     </style>
+    <?=$schema ?>
 </head>
 
 <body>

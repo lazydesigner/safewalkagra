@@ -42,9 +42,9 @@
             <div class="container footer-bottom-flex">
                 <small>&copy; Copyright 2024. All Rights Reserved.</small>
                 <div>
-                    <a href=""><small>FAQ's</small></a>
-                    <a href=""><small>Sitemap</small></a>
-                    <a href=""><small>Contact Us</small></a>
+                    <a href="<?=get_url()?>page-faq.html"><small>FAQ's</small></a>
+                    <a href="<?=get_url()?>sitemap.xml"><small>Sitemap</small></a>
+                    <a href="<?=get_url()?>contact-us.html"><small>Contact Us</small></a>
                     <a href="">DMCA</a>
                 </div>
             </div>
@@ -83,4 +83,19 @@
             window.scrollTo({top: 0,
       behavior: 'smooth'})
         })
+
+        const navlinks = document.querySelectorAll('a[aria-label="navlink"]')
+        navlinks.forEach((links)=>{
+            links.addEventListener('mouseover',()=>{
+                links.classList.add('home')
+                document.getElementById('homelink').classList.remove('home')
+            })
+            document.getElementById('homelink').addEventListener('mouseover',()=>{document.getElementById('homelink').classList.add('home')})
+            links.addEventListener('mouseleave',()=>{
+                links.classList.remove('home')
+                document.getElementById('homelink').classList.add('home')
+            })
+        })
+
+
     </script>

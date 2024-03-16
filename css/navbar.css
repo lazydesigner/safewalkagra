@@ -116,7 +116,7 @@ a {
     position: relative;
 }
 
-.list-of-links a::after {
+.list-of-links .home::after {
     content: '';
     width: 100%;
     height: 3px;
@@ -125,20 +125,21 @@ a {
     display: none;
     top: -3px;
     left: 0;
+    /* transition:1s; */
 }
 
-.list-of-links a.home::after {
+.list-of-links .home::after {
     display: block;
 }
 
-.list-of-links a:hover::after {
+/* .list-of-links a:hover::after {
     display: block;
 }
 
 .list-of-links a:not(.home):hover::after~a.home::after {
     display: none;
     background-color: green;
-}
+} */
 .safewalkheading{
     width: 100%;
     height: auto;

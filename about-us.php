@@ -15,14 +15,15 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="About us | Safewalk Network 24/7" />
     <meta property="og:description" content="We offer top class Agra escorts at cash payment. All type of escorts available like Housewife, college girls, Russian models, etc" />
-    <meta property="og:url" content="<?= get_url() ?>" />
+    <meta property="og:url" content="<?= get_url() ?>about-us.html" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="About us | Safewalk Network 24/7" />
     <meta name="twitter:description" content="We offer top class Agra escorts at cash payment. All type of escorts available like Housewife, college girls, Russian models, etc" />
-    <link rel="canonical" href="<?= get_url() ?>" />
+    <link rel="canonical" href="<?= get_url() ?>about-us.html" />
     <!-- apart -->
     <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css">
+    <?=$schema ?>
 </head>
 
 <body>
