@@ -34,15 +34,16 @@ $phone_number = 0000000000;
             color: var(--link-color);
         }
 
-        .container p {
+        .content-section .container p {
             font-size: 1.1rem;
             line-height: 30px;
         }
 
-        .container ul li {
+        .content-section .container ul li {
             font-size: 1.1rem;
             margin: 1% 0;
         }
+        .content-area-img{padding: 2%;}
     </style>
     <?=$schema ?>
 </head>
@@ -63,7 +64,9 @@ $phone_number = 0000000000;
                 <p>Once you spend your valuable time with this sloppy female, they provide you the incredible enjoyment.  They have the epicure attitude for doing the romance as long as you want. We have a plethora of experienced College call girls in Agra to find the great champion in your girlfriend experience as well. Do not compare this escort to normal girls as they have the solid affection to satisfy your intimacy desire. In other words, they offer you the high quality of love you deserve. </p>
             </div>
             <div class="content-area">
-                <img src="" alt="">
+                <div class="content-area-img">
+                <img src="<?=get_url() ?>images/kamayani  college escorts.png" width="100%" height="100%" loading="lazy" alt="">
+                </div>
             </div>
         </div>
     </section>
@@ -74,7 +77,9 @@ $phone_number = 0000000000;
                 <p>Do you have a sure idea of how to access the entire physical desire fulfillment? Needless to say, getting the same level of erotic practice gives real-time enjoyment as you see in your dream. That’s why it is fair to take the loyal suck doll to permit you long time penetration. Why do you trap in average sensual experience even though you find far better intimacy players?  It is high time to give your imagination to fine touch to book a VIP escort for tonight.  Now, you have the positive affirmation to make your normal night into an extraordinary night.  While staying with you, she figured out what sexual dose you require.</p>
             </div>
             <div class="content-area">
-                <img src="" alt="">
+                <div class="content-area-img">
+                <img src="<?=get_url() ?>images/Avanya college girl.png" width="100%" height="100%" loading="lazy" alt="">
+                </div>
             </div>
         </div>
     </section>
@@ -96,7 +101,9 @@ $phone_number = 0000000000;
                 <p>If you have the obsession to do this nude action with a hot and skinny partner, then you can have insight into the group of Agra College call girls. We ensure this concern that the presence of hot tweaks your sexual desire.  Book this perfect body figure for doing unstoppable sexual fun. The attraction of our sexy girl inspires you to do sexual appetites as you can. Our sexual Agra girls work in such a way to recall our service again and again. Call us today to get brief information.</p>
             </div>
             <div class="content-area">
-                <img src="" alt="">
+                <div class="content-area-img">
+                <img src="<?=get_url() ?>images/Dolly Sharma college escorts.png" width="100%" height="100%" loading="lazy" alt="">
+                </div>
             </div>
         </div>
     </section>

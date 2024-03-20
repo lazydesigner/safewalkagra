@@ -1,5 +1,6 @@
 <?php
-include $_SERVER['DOCUMENT_ROOT'].'/routes.php';
+include $_SERVER['DOCUMENT_ROOT'].'/safewalkagra.com/routes.php';
+// include $_SERVER['DOCUMENT_ROOT'].'/routes.php';
 
 $phone_number = '+910000000000';
 

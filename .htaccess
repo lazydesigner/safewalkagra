@@ -22,4 +22,7 @@ RewriteRule ^our-message.html([/]?)$ our-message.php [NC,L]
 RewriteRule ^location.html([/]?)$ location.php [NC,L]
 RewriteRule ^page-faq.html([/]?)$ page-faq.php [NC,L]
 RewriteRule ^call-girls-in-agra.html([/]?)$ call-girls-in-agra.php [NC,L]
+
+#CATEGORY
 RewriteRule ^college-escorts-in-agra.html([/]?)$ category/college-escorts-in-agra.php [NC,L]
+RewriteRule ^russian-escorts-in-goa.html([/]?)$ category/russian-escorts-in-goa.php [NC,L]

@@ -199,11 +199,13 @@ $phone_number = 0000000000;
         <p>No many how much work you evolved, your mind suddenly stuck on making the love session only. It means you are in quest of exceptional quality extramarital affairs that you hardly retain from your girlfriend and religion. Do not equal this incidence that our trained Agra escort provides you the sensation beam as you ever thought. That’s why your preference is to select the high-profile Agra escort. They cater with extraordinary skills to let you concisely love requests.</p>
 
         <div class="long-profiles">
-            <div class="long-profile-img"></div>
+            <div class="long-profile-img">
+                <img src="./images/ahana russian escort.png" width="100%" height="100%" loading="lazy" alt="A russian escort girl sitting on the bed wearing black nighty dress">
+            </div>
             <div class="long-profile-txt">
-                <h3>Lorem ipsum dolor sit amet.</h3>
-                <p class="just-two-line">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde amet eaque ex eos atque nam quia veniam? Quaerat laborum quae dolore distinctio sequi illo aliquam odio! Quis consequuntur doloribus architecto?</p>
-                <small>Profile Name | 24 years</small>
+                <h3>Call me Russian blonde to enjoy the mind-blowing sensual experience</h3>
+                <p class="just-two-line">I Am Ahana and have the sincerity to expose my love beam. My age is 24 years, and fond of the conversations young boys and gentlemen.  Book my escort service if you cannot take your mind to do the immense love game with the strange women.  By birth, I belong to the Russian category and hold the blessing record to please many horny people. It is up to you how you can treat me for your sensual purpose.  I have not expressed any objection to the multiple attempts for the romance. Now, you can take me in your arms, and enjoy your private moment as much as you can.</p>
+                <small>Ahana | 24 years</small>
                 <div class="long-profile-btn">
                     <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
                     <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
@@ -211,11 +213,13 @@ $phone_number = 0000000000;
             </div>
         </div>
         <div class="long-profiles">
-            <div class="long-profile-img"></div>
+            <div class="long-profile-img">
+            <img src="./images/Julia russian escort.png" width="100%" height="100%" loading="lazy" alt="A russian escort girl wearing black net panty standing lean to the wall">
+            </div>
             <div class="long-profile-txt">
-                <h3>Lorem ipsum dolor sit amet.</h3>
-                <p class="just-two-line">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde amet eaque ex eos atque nam quia veniam? Quaerat laborum quae dolore distinctio sequi illo aliquam odio! Quis consequuntur doloribus architecto?</p>
-                <small>Profile Name | 24 years</small>
+                <h3>Join the company of Russian escort to make your day much different</h3>
+                <p class="just-two-line">I am Julia, and fall in the Russian category.  I know this fact that I am awaiting personality for many horny guys how to explore more happiness in their life. I am your ideal partner if you are looking forward to adorable and soft-touch hot call girls to fulfill your fetish dream. I am quite young and hold the full-fledged stamina to bear the sensual pleasure of many people.</p>
+                <small>Julia | 23 years</small>
                 <div class="long-profile-btn">
                     <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
                     <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
@@ -223,11 +227,13 @@ $phone_number = 0000000000;
             </div>
         </div>
         <div class="long-profiles">
-            <div class="long-profile-img"></div>
+            <div class="long-profile-img">
+            <img src="./images/Shalini russian girl.png" width="100%" height="100%" loading="lazy" alt="A russian escorts girl lying on the bed wearing black bra">
+            </div>
             <div class="long-profile-txt">
-                <h3>Lorem ipsum dolor sit amet.</h3>
-                <p class="just-two-line">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde amet eaque ex eos atque nam quia veniam? Quaerat laborum quae dolore distinctio sequi illo aliquam odio! Quis consequuntur doloribus architecto?</p>
-                <small>Profile Name | 24 years</small>
+                <h3>Chase your erotic dream with super active Russian escort performer  </h3>
+                <p class="just-two-line">Are you eager to live your life in your condition?  Then, you do not mind taking the hot call girls service In Agra. I am Shalini and have the 34 C figure. Once you have insight into my body figure, you cannot control for making the love-making session. So, you should leave your hesitation, and enjoy the exciting loving companion in my hot body.</p>
+                <small>Shalini | 25 years</small>
                 <div class="long-profile-btn">
                     <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
                     <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
@@ -235,11 +241,13 @@ $phone_number = 0000000000;
             </div>
         </div>
         <div class="long-profiles">
-            <div class="long-profile-img"></div>
+            <div class="long-profile-img">
+            <img src="./images/Dolly Sharma college escorts.png" width="100%" height="100%" loading="lazy" alt=" a college call girl wearing while color bra lying on bed showing this small tits ">
+            </div>
             <div class="long-profile-txt">
-                <h3>Lorem ipsum dolor sit amet.</h3>
-                <p class="just-two-line">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde amet eaque ex eos atque nam quia veniam? Quaerat laborum quae dolore distinctio sequi illo aliquam odio! Quis consequuntur doloribus architecto?</p>
-                <small>Profile Name | 24 years</small>
+                <h3>Get In touch with an Agra college escort to enjoy the real pleasure of sexual desire</h3>
+                <p class="just-two-line">I am Dolly Sharma, and live in a modern city namely Agra.  Here, I come to retain a high-quality education to do something that excels in my life.  But, the expanses of this city are not as normal as other cities require.  In am, 21 years old, and fair skin hypnotizes me lustfully.  For the sake of earning potential income, I land in the women’s prostitution.</p>
+                <small>Dolly Sharma | 21 years</small>
                 <div class="long-profile-btn">
                     <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
                     <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
@@ -247,11 +255,111 @@ $phone_number = 0000000000;
             </div>
         </div>
         <div class="long-profiles">
-            <div class="long-profile-img"></div>
+            <div class="long-profile-img">
+            <img src="./images/Avanya college call girl.png" width="100%" height="100%" loading="lazy" alt="Avanya college call girl standing on stairs wearing black bra and grey pants to get fucked by mens">
+            </div>
             <div class="long-profile-txt">
-                <h3>Lorem ipsum dolor sit amet.</h3>
-                <p class="just-two-line">Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde amet eaque ex eos atque nam quia veniam? Quaerat laborum quae dolore distinctio sequi illo aliquam odio! Quis consequuntur doloribus architecto?</p>
-                <small>Profile Name | 24 years</small>
+                <h3>Spend quality with the Agra College going escort for a nonstop sensual experience</h3>
+                <p class="just-two-line">Do not think you as you a useless person as your spouse and loving girlfriend leave your company.  I, Avanya, am doing my graduation in Bachelor of Science from Agra College University. But, I become sad as I Become alone. To get the right solution to the problem, I become a part-time employee of the resulting escort agency. After engaging in this service, I can benefit from the dual-level service.</p>
+                <small>Avanya | 23 years</small>
+                <div class="long-profile-btn">
+                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
+                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
+                </div>
+            </div>
+        </div>
+        <div class="long-profiles">
+            <div class="long-profile-img">
+            <img src="./images/kamayani  college escorts.png" width="100%" height="100%" loading="lazy" alt="A college escort girl wearing black dress">
+            </div>
+            <div class="long-profile-txt">
+                <h3>Capture your dream of having a romance with a young college girl</h3>
+                <p class="just-two-line">Why do you feel tired and want to access real-time enjoyment?  I kamayani is a dedicated call girl living in the tourist hub of Agra. I have the full command of how to treat the lustful man. Now, you do not mind more what you ask for the sexual urge. I am always ready to provide you the invincible sexual sensation.?</p>
+                <small>kamayani | 24 years</small>
+                <div class="long-profile-btn">
+                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
+                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
+                </div>
+            </div>
+        </div>
+        <div class="long-profiles">
+            <div class="long-profile-img">
+            <img src="./images/Ritika idependent girl.png" width="100%" height="100%" loading="lazy" alt="A independent escort girl sitting on the sofa wearing black dress showing her big boobs">
+            </div>
+            <div class="long-profile-txt">
+                <h3>Appealing of the Independent escort to absorb in happiness aura</h3>
+                <p class="just-two-line">Hi, young guys, I am Ritika for providing your external affairs service and does not let you tense for establishing a personal relationship.  Since I love to meet with a young buddy, I work as an independent escort in Agra.</p>
+                <small>Ritika | 27 years</small>
+                <div class="long-profile-btn">
+                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
+                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
+                </div>
+            </div>
+        </div>
+        <div class="long-profiles">
+            <div class="long-profile-img">
+            <img src="./images/jasleen Kaur call girl service.png" width="100%" height="100%" loading="lazy" alt="a hot punjabi call girl wearing blue coat looking sexy and beautiful">
+            </div>
+            <div class="long-profile-txt">
+                <h3>Book Hot Independent escort for experiencing the delightful experience</h3>
+                <p class="just-two-line">I am jasleen Kaur, and want to meet everyone to take different actions. I am the relaxing feeling of intimating with a lustful person. Do not feel degraded as you are looking forward to the pampering of the pleasing girl. My naughty body is always in the condition to begin the sensual body part.</p>
+                <small>jasleen Kaur | 25 years</small>
+                <div class="long-profile-btn">
+                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
+                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
+                </div>
+            </div>
+        </div>
+        <div class="long-profiles">
+            <div class="long-profile-img">
+            <img src="./images/Anshiat pandey escorts service.png" width="100%" height="100%" loading="lazy" alt="A russian escort girl sitting on a chair wearing black dress">
+            </div>
+            <div class="long-profile-txt">
+                <h3>Remove your all stress by booking my house escort service in Agra</h3>
+                <p class="just-two-line">I am Anshiat pandey, and people referred to me as the reedy cheek and bouncy personality for securing ultimate pleasure.  I am a housewife, and my age is 35 years, and know the real meaning of intimacy. ?</p>
+                <small>Anshiat pandey | 35 years</small>
+                <div class="long-profile-btn">
+                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
+                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
+                </div>
+            </div>
+        </div>
+        <div class="long-profiles">
+            <div class="long-profile-img">
+            <img src="./images/Akannki housewife call girl.png" width="100%" height="100%" loading="lazy" alt="A Housewife escort girl standing near mirror taking phone and she is wearing creem color dress">
+            </div>
+            <div class="long-profile-txt">
+                <h3>Conduct your romance trip with an affluent housewife escort In Agra </h3>
+                <p class="just-two-line">Feeling the romance vibes is the choice of everyone. If so, then you should connect with me. By the way, you can call me your sweetheart as you keep the desire to make the relationship with me.  People know me as the Akannki for catering to your physical needs.  </p>
+                <small>Akannki | 23 years</small>
+                <div class="long-profile-btn">
+                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
+                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
+                </div>
+            </div>
+        </div>
+        <div class="long-profiles">
+            <div class="long-profile-img">
+            <img src="./images/Afsana model call girl service.png" width="100%" height="100%" loading="lazy" alt="A russian model escort red bickney standing near pool">
+            </div>
+            <div class="long-profile-txt">
+                <h3>Get the amazing sensual experience in the lap of a Model escort in Agra</h3>
+                <p class="just-two-line">I am Afsana, and have a curiosity about the lustful person. I love to like how my hot body helps provide you with the most suitable loving experience. Do not run towards the general girls as they do not perfect puppets for feeding your fantasy requirement. If you can expand your budget more, then you can hire me to cater to your physical desire. I never disappoint you when it comes to making a relationship.  ?</p>
+                <small>Afsana | 27 years</small>
+                <div class="long-profile-btn">
+                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
+                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
+                </div>
+            </div>
+        </div>
+        <div class="long-profiles">
+            <div class="long-profile-img">
+            <img src="./images/Puja model call girl.png" width="100%" height="100%" loading="lazy" alt="A Model escort girl sitting on the chair wearing black nighty dress">
+            </div>
+            <div class="long-profile-txt">
+                <h3>Accept the treatment of Agra Model escort to expose the best sensual version</h3>
+                <p class="just-two-line">I am Puja, and like to glaze on the upper surface of the lustful person. I have a concise feeling about how to please their customer. My good-looking and bold personality lets you align how to serve you better. Since my appealing body lets you do more, I am always curious about romantic experiences as well.</p>
+                <small>Puja | 25 years</small>
                 <div class="long-profile-btn">
                     <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
                     <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
@@ -377,7 +485,7 @@ $phone_number = 0000000000;
 
         });
     </script>
- type="application/ld+json">
+    <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
@@ -411,7 +519,7 @@ $phone_number = 0000000000;
     }
   }]
 }
-</script>    <script
+</script>
 </body>
 
 </html>

@@ -95,66 +95,138 @@
     <div class="container">
         <div class="grid-of-profiles">
             <div class="grid-item">
-                <div class="profiles">
+               <a href=""><div class="profiles">
+                    <img src="./images/ahana russian escort.png" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
                             <span>
-                                <p>Noza</p>
+                                <p>Ahana</p>
                                 <button>RUSSIAN MODEL</button>
                             </span>
                         </div>
-                    </div>
+                    </div></a>
                 </div>
             </div>
             <div class="grid-item">
-                <div class="profiles">
+            <a href=""> <div class="profiles">
+                    <img src="./images/Julia russian escort.png" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
-                            <p>Noza</p>
+                            <p>Julia</p>
                             <button>RUSSIAN MODEL</button>
                         </div>
                     </div>
-                </div>
+                </div></a>
             </div>
             <div class="grid-item">
-                <div class="profiles">
+            <a href=""><div class="profiles">
+                    <img src="./images/Shalini russian Escort.png" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
-                            <p>Noza</p>
+                            <p>Shalini</p>
                             <button>RUSSIAN MODEL</button>
                         </div>
                     </div>
-                </div>
+                </div></a>
             </div>
             <div class="grid-item">
-                <div class="profiles">
+            <a href=""><div class="profiles">
+                    <img src="./images/Dolly Sharma college escorts.png" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
-                            <p>Noza</p>
-                            <button>RUSSIAN MODEL</button>
+                            <p>Dolly Sharma</p>
+                            <button>COLLEGE ESCORT</button>
                         </div>
                     </div>
-                </div>
+                </div></a>
             </div>
             <div class="grid-item">
-                <div class="profiles">
+            <a href=""><div class="profiles">
+                    <img src="./images/Avanya college call girl.png" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
-                            <p>Noza</p>
-                            <button>RUSSIAN MODEL</button>
+                            <p>Avanya</p>
+                            <button>COLLEGE ESCORT</button>
                         </div>
                     </div>
-                </div>
+                </div></a>
             </div>
             <div class="grid-item">
-                <div class="profiles">
+            <a href=""><div class="profiles">
+                    <img src="./images/kamayani  college escorts.png" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
-                            <p>Noza</p>
-                            <button>RUSSIAN MODEL</button>
+                            <p>kamayani</p>
+                            <button>COLLEGE ESCORT</button>
                         </div>
                     </div>
-                </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href=""><div class="profiles">
+                    <img src="./images/Ritika escorts.png" width="100%" height="100%" alt="Independent Escort">
+                    <div class="profile-band">
+                        <div>
+                            <p>Ritika</p>
+                            <button>INDEPENDENT ESCORT</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href=""><div class="profiles">
+                    <img src="./images/jasleen Kaur call girl service.png" width="100%" height="100%" alt="Independent Escort service">
+                    <div class="profile-band">
+                        <div>
+                            <p>jasleen Kaur</p>
+                            <button>INDEPENDENT ESCORT</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href=""><div class="profiles">
+                    <img src="./images/Anshiat pandey escorts service.png" width="100%" height="100%" alt="Housewife Escort">
+                    <div class="profile-band">
+                        <div>
+                            <p>Anshiat pandey</p>
+                            <button>HOUSEWIFE ESCORT</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href=""><div class="profiles">
+                    <img src="./images/Akannki housewife call girl.png" width="100%" height="100%" alt="Housewife escort Provider">
+                    <div class="profile-band">
+                        <div>
+                            <p>Akannki</p>
+                            <button>HOUSEWIFE ESCORT</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href=""><div class="profiles">
+                    <img src="./images/Afsana model call girl service.png" width="100%" height="100%" alt="model Escort">
+                    <div class="profile-band">
+                        <div>
+                            <p>Afsana</p>
+                            <button>MODEL ESCORT</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href=""><div class="profiles">
+                    <img src="./images/Puja model call girl.png" width="100%" height="100%" alt="Russian Model Escort">
+                    <div class="profile-band">
+                        <div>
+                            <p>Puja</p>
+                            <button>MODEL ESCORT</button>
+                        </div>
+                    </div>
+                </div></a>
             </div>
         </div>
     </div>
