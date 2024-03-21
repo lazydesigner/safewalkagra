@@ -111,15 +111,27 @@
                 <div class="blog-card">
                     <a href=""><div class="blog-image"></div></a>
                     <div class="blog-heading">
-                        <a href=""><h2>Lorem ipsum dolor sit amet.</h2></a>
+                        <a href="<?=get_url() ?>blogs/top-model-escorts-in-agra.html"><h2>Enjoy your exciting party nights with Model escorts in Agra</h2></a>
                     </div>
                     <div class="blog-para">
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut porro molestiae, beatae iste perferendis accusantium nisi doloremque nam quos maiores odit! Magnam quidem nemo suscipit, amet laudantium enim! Dolorem aut nulla labore distinctio voluptates voluptatem quisquam nam, ipsum error corporis illo laboriosam. Harum in sequi soluta laboriosam dolore amet esse.</p>
+                        <p>Many people debate this statement about how to gain satisfaction as they cross the maturity age. Never keep the bewildered aura as you have to select a suitable kinky partner. Needless to say, model escorts In Agra become the right companion to stimulation. Once they come into this association, they have a different feeling.</p>
                     </div>
                     <div class="blog-read-more"><a href=""><button aria-label="see what is inside this blog">READ MORE</button></a></div>
                 </div>
             </div>
             <div class="grid-items">
+                <div class="blog-card">
+                    <a href=""><div class="blog-image"></div></a>
+                    <div class="blog-heading">
+                        <a href="<?=get_url() ?>blogs/benefits-of-hiring-high-profile-escorts-in-agra.html"><h2>Glance over the sure benefits of hiring high profile escort In Agra</h2></a>
+                    </div>
+                    <div class="blog-para">
+                        <p>While residing in urban life, you need to take care of everything from to bottom level.  Caring for your sensual desire is one of the best practices to prevent your happiness. So, you should try your best loving and caring in the dynamic world. If you want to bring a twist to your personal affairs, then you must hire high profile escort in Agra. They have full confidence in how to take men in their lap to feel them something special.</p>
+                    </div>
+                    <div class="blog-read-more"><a href=""><button aria-label="see what is inside this blog">READ MORE</button></a></div>
+                </div>
+            </div>
+            <!-- <div class="grid-items">
                 <div class="blog-card">
                     <a href=""><div class="blog-image"></div></a>
                     <div class="blog-heading">
@@ -142,19 +154,7 @@
                     </div>
                     <div class="blog-read-more"><a href=""><button aria-label="see what is inside this blog">READ MORE</button></a></div>
                 </div>
-            </div>
-            <div class="grid-items">
-                <div class="blog-card">
-                    <a href=""><div class="blog-image"></div></a>
-                    <div class="blog-heading">
-                        <a href=""><h2>Lorem ipsum dolor sit amet.</h2></a>
-                    </div>
-                    <div class="blog-para">
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut porro molestiae, beatae iste perferendis accusantium nisi doloremque nam quos maiores odit! Magnam quidem nemo suscipit, amet laudantium enim! Dolorem aut nulla labore distinctio voluptates voluptatem quisquam nam, ipsum error corporis illo laboriosam. Harum in sequi soluta laboriosam dolore amet esse.</p>
-                    </div>
-                    <div class="blog-read-more"><a href=""><button aria-label="see what is inside this blog">READ MORE</button></a></div>
-                </div>
-            </div>
+            </div> -->
         </div>
     </div>
 
