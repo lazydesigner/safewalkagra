@@ -97,7 +97,7 @@
         <div class="grid-of-blogs">
             <div class="grid-items">
                 <div class="blog-card">
-                    <a href=""><div class="blog-image"></div></a>
+                    <a href="<?=get_url() ?>blogs/top-model-escorts-in-agra.html"><div class="blog-image"></div></a>
                     <div class="blog-heading">
                         <a href="<?=get_url() ?>blogs/top-model-escorts-in-agra.html"><h2>Enjoy your exciting party nights with Model escorts in Agra</h2></a>
                     </div>
@@ -109,7 +109,7 @@
             </div>
             <div class="grid-items">
                 <div class="blog-card">
-                    <a href=""><div class="blog-image"></div></a>
+                    <a href="<?=get_url() ?>blogs/benefits-of-hiring-high-profile-escorts-in-agra.html"><div class="blog-image"></div></a>
                     <div class="blog-heading">
                         <a href="<?=get_url() ?>blogs/benefits-of-hiring-high-profile-escorts-in-agra.html"><h2>Glance over the sure benefits of hiring high profile escort In Agra</h2></a>
                     </div>
