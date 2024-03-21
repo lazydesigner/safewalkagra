@@ -99,18 +99,6 @@
                 <div class="blog-card">
                     <a href=""><div class="blog-image"></div></a>
                     <div class="blog-heading">
-                        <a href=""><h2>Lorem ipsum dolor sit amet.</h2></a>
-                    </div>
-                    <div class="blog-para">
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut porro molestiae, beatae iste perferendis accusantium nisi doloremque nam quos maiores odit! Magnam quidem nemo suscipit, amet laudantium enim! Dolorem aut nulla labore distinctio voluptates voluptatem quisquam nam, ipsum error corporis illo laboriosam. Harum in sequi soluta laboriosam dolore amet esse.</p>
-                    </div>
-                    <div class="blog-read-more"><a href=""><button aria-label="see what is inside this blog">READ MORE</button></a></div>
-                </div>
-            </div>
-            <div class="grid-items">
-                <div class="blog-card">
-                    <a href=""><div class="blog-image"></div></a>
-                    <div class="blog-heading">
                         <a href="<?=get_url() ?>blogs/top-model-escorts-in-agra.html"><h2>Enjoy your exciting party nights with Model escorts in Agra</h2></a>
                     </div>
                     <div class="blog-para">
@@ -131,7 +119,20 @@
                     <div class="blog-read-more"><a href=""><button aria-label="see what is inside this blog">READ MORE</button></a></div>
                 </div>
             </div>
-            <!-- <div class="grid-items">
+            <!-- 
+            <div class="grid-items">
+                <div class="blog-card">
+                    <a href=""><div class="blog-image"></div></a>
+                    <div class="blog-heading">
+                        <a href=""><h2>Lorem ipsum dolor sit amet.</h2></a>
+                    </div>
+                    <div class="blog-para">
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut porro molestiae, beatae iste perferendis accusantium nisi doloremque nam quos maiores odit! Magnam quidem nemo suscipit, amet laudantium enim! Dolorem aut nulla labore distinctio voluptates voluptatem quisquam nam, ipsum error corporis illo laboriosam. Harum in sequi soluta laboriosam dolore amet esse.</p>
+                    </div>
+                    <div class="blog-read-more"><a href=""><button aria-label="see what is inside this blog">READ MORE</button></a></div>
+                </div>
+            </div>
+            <div class="grid-items">
                 <div class="blog-card">
                     <a href=""><div class="blog-image"></div></a>
                     <div class="blog-heading">
