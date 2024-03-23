@@ -200,8 +200,9 @@ $phone_number = 0000000000;
 
         <div class="long-profiles">
             <div class="long-profile-img">
-                <img src="./images/ahana russian escort.png" width="100%" height="100%" loading="lazy" alt="A russian escort girl sitting on the bed wearing black nighty dress">
-            </div>
+            <a href="<?=get_url() ?>models/russian-escort-in-agra-ahana.html">
+                <img src="./images/ahana russian escort.png" width="100%" height="100%" loading="lazy" alt="A russian escort girl sitting on the bed wearing black nighty dress">            
+                </a></div>
             <div class="long-profile-txt">
                 <h3>Call me Russian blonde to enjoy the mind-blowing sensual experience</h3>
                 <p class="just-two-line">I Am Ahana and have the sincerity to expose my love beam. My age is 24 years, and fond of the conversations young boys and gentlemen.  Book my escort service if you cannot take your mind to do the immense love game with the strange women.  By birth, I belong to the Russian category and hold the blessing record to please many horny people. It is up to you how you can treat me for your sensual purpose.  I have not expressed any objection to the multiple attempts for the romance. Now, you can take me in your arms, and enjoy your private moment as much as you can.</p>
@@ -214,7 +215,7 @@ $phone_number = 0000000000;
         </div>
         <div class="long-profiles">
             <div class="long-profile-img">
-            <img src="./images/Julia russian escort.png" width="100%" height="100%" loading="lazy" alt="A russian escort girl wearing black net panty standing lean to the wall">
+            <a href="<?=get_url() ?>models/best-price-russian-call-girl-in-agra.html"><img src="./images/Julia russian escort.png" width="100%" height="100%" loading="lazy" alt="A russian escort girl wearing black net panty standing lean to the wall"></a>
             </div>
             <div class="long-profile-txt">
                 <h3>Join the company of Russian escort to make your day much different</h3>
@@ -228,7 +229,7 @@ $phone_number = 0000000000;
         </div>
         <div class="long-profiles">
             <div class="long-profile-img">
-            <img src="./images/Shalini russian girl.png" width="100%" height="100%" loading="lazy" alt="A russian escorts girl lying on the bed wearing black bra">
+            <a href="<?=get_url() ?>models/shalini-premium-bdsm-escort.html"><img src="./images/Shalini russian girl.png" width="100%" height="100%" loading="lazy" alt="A russian escorts girl lying on the bed wearing black bra"></a>
             </div>
             <div class="long-profile-txt">
                 <h3>Chase your erotic dream with super active Russian escort performer  </h3>
@@ -242,7 +243,7 @@ $phone_number = 0000000000;
         </div>
         <div class="long-profiles">
             <div class="long-profile-img">
-            <img src="./images/Dolly Sharma college escorts.png" width="100%" height="100%" loading="lazy" alt=" a college call girl wearing while color bra lying on bed showing this small tits ">
+            <a href="<?=get_url() ?>models/young-college-call-girl-in-agra.html"><img src="./images/Dolly Sharma college escorts.png" width="100%" height="100%" loading="lazy" alt=" a college call girl wearing while color bra lying on bed showing this small tits "></a>
             </div>
             <div class="long-profile-txt">
                 <h3>Get In touch with an Agra college escort to enjoy the real pleasure of sexual desire</h3>
@@ -256,7 +257,7 @@ $phone_number = 0000000000;
         </div>
         <div class="long-profiles">
             <div class="long-profile-img">
-            <img src="./images/Avanya college call girl.png" width="100%" height="100%" loading="lazy" alt="Avanya college call girl standing on stairs wearing black bra and grey pants to get fucked by mens">
+            <a href="<?=get_url() ?>models/avanya-college-escort-in-agra.html"><img src="./images/Avanya college call girl.png" width="100%" height="100%" loading="lazy" alt="Avanya college call girl standing on stairs wearing black bra and grey pants to get fucked by mens"></a>
             </div>
             <div class="long-profile-txt">
                 <h3>Spend quality with the Agra College going escort for a nonstop sensual experience</h3>
@@ -270,7 +271,7 @@ $phone_number = 0000000000;
         </div>
         <div class="long-profiles">
             <div class="long-profile-img">
-            <img src="./images/kamayani  college escorts.png" width="100%" height="100%" loading="lazy" alt="A college escort girl wearing black dress">
+            <a href="<?=get_url() ?>models/high-profile-escort-in-agra-kamayani.html"><img src="./images/kamayani  college escorts.png" width="100%" height="100%" loading="lazy" alt="A college escort girl wearing black dress"></a>
             </div>
             <div class="long-profile-txt">
                 <h3>Capture your dream of having a romance with a young college girl</h3>
@@ -284,7 +285,7 @@ $phone_number = 0000000000;
         </div>
         <div class="long-profiles">
             <div class="long-profile-img">
-            <img src="./images/Ritika idependent girl.png" width="100%" height="100%" loading="lazy" alt="A independent escort girl sitting on the sofa wearing black dress showing her big boobs">
+            <a href="<?=get_url() ?>models/independent-escort-service-in-agra.html"><img src="./images/Ritika idependent girl.png" width="100%" height="100%" loading="lazy" alt="A independent escort girl sitting on the sofa wearing black dress showing her big boobs"></a>
             </div>
             <div class="long-profile-txt">
                 <h3>Appealing of the Independent escort to absorb in happiness aura</h3>
@@ -298,7 +299,7 @@ $phone_number = 0000000000;
         </div>
         <div class="long-profiles">
             <div class="long-profile-img">
-            <img src="./images/jasleen Kaur call girl service.png" width="100%" height="100%" loading="lazy" alt="a hot punjabi call girl wearing blue coat looking sexy and beautiful">
+            <a href="<?=get_url() ?>models/best-punjabi-call-girl-in-agra.html"><img src="./images/jasleen Kaur call girl service.png" width="100%" height="100%" loading="lazy" alt="a hot punjabi call girl wearing blue coat looking sexy and beautiful"></a>
             </div>
             <div class="long-profile-txt">
                 <h3>Book Hot Independent escort for experiencing the delightful experience</h3>
@@ -312,7 +313,7 @@ $phone_number = 0000000000;
         </div>
         <div class="long-profiles">
             <div class="long-profile-img">
-            <img src="./images/Anshiat pandey escorts service.png" width="100%" height="100%" loading="lazy" alt="A russian escort girl sitting on a chair wearing black dress">
+            <a href="<?=get_url() ?>models/mature-housewife-escort-near-agra.html"><img src="./images/Anshiat pandey escorts service.png" width="100%" height="100%" loading="lazy" alt="A russian escort girl sitting on a chair wearing black dress"></a>
             </div>
             <div class="long-profile-txt">
                 <h3>Remove your all stress by booking my house escort service in Agra</h3>
@@ -326,7 +327,7 @@ $phone_number = 0000000000;
         </div>
         <div class="long-profiles">
             <div class="long-profile-img">
-            <img src="./images/Akannki housewife call girl.png" width="100%" height="100%" loading="lazy" alt="A Housewife escort girl standing near mirror taking phone and she is wearing creem color dress">
+            <a href="<?=get_url() ?>models/akannki-is-a-premium-mature-milf.html"><img src="./images/Akannki housewife call girl.png" width="100%" height="100%" loading="lazy" alt="A Housewife escort girl standing near mirror taking phone and she is wearing creem color dress"></a>
             </div>
             <div class="long-profile-txt">
                 <h3>Conduct your romance trip with an affluent housewife escort In Agra </h3>
@@ -340,7 +341,7 @@ $phone_number = 0000000000;
         </div>
         <div class="long-profiles">
             <div class="long-profile-img">
-            <img src="./images/Afsana model call girl service.png" width="100%" height="100%" loading="lazy" alt="A russian model escort red bickney standing near pool">
+            <a href="<?=get_url() ?>models/best-model-escort-in-agra.html"><img src="./images/Afsana model call girl service.png" width="100%" height="100%" loading="lazy" alt="A russian model escort red bickney standing near pool"></a>
             </div>
             <div class="long-profile-txt">
                 <h3>Get the amazing sensual experience in the lap of a Model escort in Agra</h3>
@@ -354,7 +355,7 @@ $phone_number = 0000000000;
         </div>
         <div class="long-profiles">
             <div class="long-profile-img">
-            <img src="./images/Puja model call girl.png" width="100%" height="100%" loading="lazy" alt="A Model escort girl sitting on the chair wearing black nighty dress">
+            <a href="<?=get_url() ?>models/agra-escort-service-provider-puja.html"><img src="./images/Puja model call girl.png" width="100%" height="100%" loading="lazy" alt="A Model escort girl sitting on the chair wearing black nighty dress"></a>
             </div>
             <div class="long-profile-txt">
                 <h3>Accept the treatment of Agra Model escort to expose the best sensual version</h3>

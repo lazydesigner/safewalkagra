@@ -32,3 +32,19 @@ RewriteRule ^russian-escorts-in-goa.html([/]?)$ category/russian-escorts-in-goa.
 #BLOGS
 RewriteRule ^blogs/top-model-escorts-in-agra.html([/]?)$ blogs/top-model-escorts-in-agra.php [NC,L]
 RewriteRule ^blogs/benefits-of-hiring-high-profile-escorts-in-agra.html([/]?)$ blogs/benefits-of-hiring-high-profile-escorts-in-agra.php [NC,L]
+RewriteRule ^blogs/independent-agra-escorts-near-me.html([/]?)$ blogs/Independent-agra-escorts-near-me.php [NC,L]
+RewriteRule ^blogs/how-model-escorts-committed-to-friends.html([/]?)$ blogs/how-model-escorts-committed-to-friends.php [NC,L]
+
+#PROFILES
+RewriteRule ^models/agra-escort-service-provider-puja.html([/]?)$ profiles/agra-escort-service-provider-puja.php [NC,L]         
+RewriteRule ^models/akannki-is-a-premium-mature-milf.html([/]?)$ profiles/akannki-is-a-premium-mature-milf.php [NC,L]         
+RewriteRule ^models/avanya-college-escort-in-agra.html([/]?)$ profiles/avanya-college-escort-in-agra.php [NC,L]         
+RewriteRule ^models/best-model-escort-in-agra.html([/]?)$ profiles/best-model-escort-in-agra.php [NC,L]         
+RewriteRule ^models/best-price-russian-call-girl-in-agra.html([/]?)$ profiles/best-price-russian-call-girl-in-agra.php [NC,L]         
+RewriteRule ^models/best-punjabi-call-girl-in-agra.html([/]?)$ profiles/best-punjabi-call-girl-in-agra.php [NC,L]         
+RewriteRule ^models/high-profile-escort-in-agra-kamayani.html([/]?)$ profiles/high-profile-escort-in-agra-kamayani.php [NC,L]         
+RewriteRule ^models/independent-escort-service-in-agra.html([/]?)$ profiles/independent-escort-service-in-agra.php [NC,L]         
+RewriteRule ^models/mature-housewife-escort-near-agra.html([/]?)$ profiles/mature-housewife-escort-near-agra.php [NC,L]         
+RewriteRule ^models/russian-escort-in-agra-ahana.html([/]?)$ profiles/russian-escort-in-agra-ahana.php [NC,L]         
+RewriteRule ^models/shalini-premium-bdsm-escort.html([/]?)$ profiles/shalini-premium-bdsm-escort.php [NC,L]         
+RewriteRule ^models/young-college-call-girl-in-agra.html([/]?)$ profiles/young-college-call-girl-in-agra.php [NC,L]         

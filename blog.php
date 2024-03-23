@@ -41,13 +41,13 @@
         }
         .blog-image{
             width: 100%;
-            aspect-ratio: 5/4;
-            background-color: lightgrey;
+            aspect-ratio: 5/5;
         }
         .blog-image img{
             width: 100%;
             height: 100%;
             object-fit: cover;
+            object-position: top;
         }
         .blog-heading h2{
             font-weight: 600;
@@ -97,7 +97,9 @@
         <div class="grid-of-blogs">
             <div class="grid-items">
                 <div class="blog-card">
-                    <a href="<?=get_url() ?>blogs/top-model-escorts-in-agra.html"><div class="blog-image"></div></a>
+                    <a href="<?=get_url() ?>blogs/top-model-escorts-in-agra.html"><div class="blog-image">
+                        <img src="./images/11.png" width="100%" height="100%" alt="">
+                    </div></a>
                     <div class="blog-heading">
                         <a href="<?=get_url() ?>blogs/top-model-escorts-in-agra.html"><h2>Enjoy your exciting party nights with Model escorts in Agra</h2></a>
                     </div>
@@ -109,7 +111,9 @@
             </div>
             <div class="grid-items">
                 <div class="blog-card">
-                    <a href="<?=get_url() ?>blogs/benefits-of-hiring-high-profile-escorts-in-agra.html"><div class="blog-image"></div></a>
+                    <a href="<?=get_url() ?>blogs/benefits-of-hiring-high-profile-escorts-in-agra.html"><div class="blog-image">
+                    <img src="./images/17.png" width="100%" height="100%" alt="">
+                    </div></a>
                     <div class="blog-heading">
                         <a href="<?=get_url() ?>blogs/benefits-of-hiring-high-profile-escorts-in-agra.html"><h2>Glance over the sure benefits of hiring high profile escort In Agra</h2></a>
                     </div>
@@ -119,32 +123,37 @@
                     <div class="blog-read-more"><a href="<?=get_url() ?>blogs/benefits-of-hiring-high-profile-escorts-in-agra.html"><button aria-label="see what is inside this blog">READ MORE</button></a></div>
                 </div>
             </div>
-            <!-- 
+            
             <div class="grid-items">
                 <div class="blog-card">
-                    <a href=""><div class="blog-image"></div></a>
+                    <a href="<?= get_url() ?>blogs/how-model-escorts-committed-to-friends.html"><div class="blog-image">
+                        <img src="./images/home1.png" width="100%" height="100%" alt="">
+                    </div></a>
                     <div class="blog-heading">
-                        <a href=""><h2>Lorem ipsum dolor sit amet.</h2></a>
+                        <a href="<?= get_url() ?>blogs/how-model-escorts-committed-to-friends.html"><h2>How can a model escort commit to friendship?</h2></a>
                     </div>
                     <div class="blog-para">
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut porro molestiae, beatae iste perferendis accusantium nisi doloremque nam quos maiores odit! Magnam quidem nemo suscipit, amet laudantium enim! Dolorem aut nulla labore distinctio voluptates voluptatem quisquam nam, ipsum error corporis illo laboriosam. Harum in sequi soluta laboriosam dolore amet esse.</p>
+                        <p>Staying mute and lonely is not a good way to live your life according to your terms and conditions. From per logical point of view, staying static is one of the hurdles to get progress in your life. Reviving your subconscious mind is imperative for you, and you should seek a cooperating friend to share their grief and ongoing troubles in your life.</p>
                     </div>
-                    <div class="blog-read-more"><a href=""><button aria-label="see what is inside this blog">READ MORE</button></a></div>
+                    <div class="blog-read-more"><a href="<?= get_url() ?>blogs/how-model-escorts-committed-to-friends.html"><button aria-label="see what is inside this blog">READ MORE</button></a></div>
                 </div>
             </div>
+
             <div class="grid-items">
                 <div class="blog-card">
-                    <a href=""><div class="blog-image"></div></a>
+                    <a href="<?=get_url() ?>blogs/independent-agra-escorts-near-me.html"><div class="blog-image">
+                        <img src="./images/Ritika independent escorts.png" width="100%" height="100%" alt="">
+                    </div></a>
                     <div class="blog-heading">
-                        <a href=""><h2>Lorem ipsum dolor sit amet.</h2></a>
+                        <a href="<?=get_url() ?>blogs/independent-agra-escorts-near-me.html"><h2>Find reliable Independent escorts in Agra to find a sensation of gratitude</h2></a>
                     </div>
                     <div class="blog-para">
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut porro molestiae, beatae iste perferendis accusantium nisi doloremque nam quos maiores odit! Magnam quidem nemo suscipit, amet laudantium enim! Dolorem aut nulla labore distinctio voluptates voluptatem quisquam nam, ipsum error corporis illo laboriosam. Harum in sequi soluta laboriosam dolore amet esse.</p>
+                        <p>In Agra, many people tend to come to see the sightseeing of Agra to ensure everything is well. Taj Mahal is one of the best attractions that call many foreign and Indian tourists as well. Now, you do not frustrate me more, and capture the stormy night with an independent Agra escort near me. Have you ever thought why this female sounds better for your fantasy fulfilled? They do not show mimics while going into the relationship.</p>
                     </div>
-                    <div class="blog-read-more"><a href=""><button aria-label="see what is inside this blog">READ MORE</button></a></div>
+                    <div class="blog-read-more"><a href="<?=get_url() ?>blogs/independent-agra-escorts-near-me.html"><button aria-label="see what is inside this blog">READ MORE</button></a></div>
                 </div>
             </div>
-            <div class="grid-items">
+                       <!--  <div class="grid-items">
                 <div class="blog-card">
                     <a href=""><div class="blog-image"></div></a>
                     <div class="blog-heading">

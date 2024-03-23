@@ -30,7 +30,9 @@
         }
 .content-section .content-area a{
     font-weight: bold;color: var(--link-color);
-}</style>
+}.content-area{padding: 1%;}
+.content-area img{object-fit: contain;}
+</style>
 <?=$schema ?>
 </head>
 
@@ -65,7 +67,7 @@
                 <p>We plan your fantasy moment with the sure plan and provide you with the proper service in the 5-start escort service. Now, you have the proper authority to enhance your pleasure with a dedicated escort service. Our Independent escort service is designed in such a way that you hardly peep into other escort services. We bet you this fact that our fetish and recreation experience is second to none. Anyway, we come in the escort business to fade out the depression rate among the youth.  Once you find the foreplay service, your happy hormone ignites automatically.</p>
             </div>
             <div class="content-area">
-                <img src="" alt="">
+                <img src="./images/home5.png" width="100%" height="100%" alt="">
             </div>
         </div>
     </section>
@@ -95,7 +97,7 @@
     <div class="container">
         <div class="grid-of-profiles">
             <div class="grid-item">
-               <a href=""><div class="profiles">
+               <a href="<?=get_url()?>models/russian-escort-in-agra-ahana.html"><div class="profiles">
                     <img src="./images/ahana russian escort.png" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
@@ -104,11 +106,11 @@
                                 <button>RUSSIAN MODEL</button>
                             </span>
                         </div>
-                    </div></a>
-                </div>
+                    </div>
+                </div></a>
             </div>
             <div class="grid-item">
-            <a href=""> <div class="profiles">
+            <a href="<?=get_url()?>models/best-price-russian-call-girl-in-agra.html"> <div class="profiles">
                     <img src="./images/Julia russian escort.png" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
@@ -119,18 +121,18 @@
                 </div></a>
             </div>
             <div class="grid-item">
-            <a href=""><div class="profiles">
+            <a href="<?=get_url()?>models/shalini-premium-bdsm-escort.html"><div class="profiles">
                     <img src="./images/Shalini russian Escort.png" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
                             <p>Shalini</p>
-                            <button>RUSSIAN MODEL</button>
+                            <button>BDSM</button>
                         </div>
                     </div>
                 </div></a>
             </div>
             <div class="grid-item">
-            <a href=""><div class="profiles">
+            <a href="<?=get_url() ?>models/young-college-call-girl-in-agra.html"><div class="profiles">
                     <img src="./images/Dolly Sharma college escorts.png" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
@@ -141,7 +143,7 @@
                 </div></a>
             </div>
             <div class="grid-item">
-            <a href=""><div class="profiles">
+            <a href="<?=get_url() ?>models/avanya-college-escort-in-agra.html"><div class="profiles">
                     <img src="./images/Avanya college call girl.png" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
@@ -152,18 +154,18 @@
                 </div></a>
             </div>
             <div class="grid-item">
-            <a href=""><div class="profiles">
+            <a href="<?=get_url() ?>models/high-profile-escort-in-agra-kamayani.html"><div class="profiles">
                     <img src="./images/kamayani  college escorts.png" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
                             <p>kamayani</p>
-                            <button>COLLEGE ESCORT</button>
+                            <button>HIGH PROFILE</button>
                         </div>
                     </div>
                 </div></a>
             </div>
             <div class="grid-item">
-            <a href=""><div class="profiles">
+            <a href="<?=get_url() ?>models/independent-escort-service-in-agra.html"><div class="profiles">
                     <img src="./images/Ritika escorts.png" width="100%" height="100%" alt="Independent Escort">
                     <div class="profile-band">
                         <div>
@@ -174,18 +176,18 @@
                 </div></a>
             </div>
             <div class="grid-item">
-            <a href=""><div class="profiles">
-                    <img src="./images/jasleen Kaur call girl service.png" width="100%" height="100%" alt="Independent Escort service">
+            <a href="<?=get_url() ?>models/best-punjabi-call-girl-in-agra.html"><div class="profiles">
+                    <img src="./images/jasleen Kaur call girl service.png" width="100%" height="100%" alt="punjabi Escort service">
                     <div class="profile-band">
                         <div>
                             <p>jasleen Kaur</p>
-                            <button>INDEPENDENT ESCORT</button>
+                            <button>PUNJABI</button>
                         </div>
                     </div>
                 </div></a>
             </div>
             <div class="grid-item">
-            <a href=""><div class="profiles">
+            <a href="<?=get_url() ?>models/mature-housewife-escort-near-agra.html"><div class="profiles">
                     <img src="./images/Anshiat pandey escorts service.png" width="100%" height="100%" alt="Housewife Escort">
                     <div class="profile-band">
                         <div>
@@ -196,7 +198,7 @@
                 </div></a>
             </div>
             <div class="grid-item">
-            <a href=""><div class="profiles">
+            <a href="<?=get_url() ?>models/akannki-is-a-premium-mature-milf.html"><div class="profiles">
                     <img src="./images/Akannki housewife call girl.png" width="100%" height="100%" alt="Housewife escort Provider">
                     <div class="profile-band">
                         <div>
@@ -207,7 +209,7 @@
                 </div></a>
             </div>
             <div class="grid-item">
-            <a href=""><div class="profiles">
+            <a href="<?=get_url() ?>models/best-model-escort-in-agra.html"><div class="profiles">
                     <img src="./images/Afsana model call girl service.png" width="100%" height="100%" alt="model Escort">
                     <div class="profile-band">
                         <div>
@@ -218,7 +220,7 @@
                 </div></a>
             </div>
             <div class="grid-item">
-            <a href=""><div class="profiles">
+            <a href="<?=get_url() ?>models/agra-escort-service-provider-puja.html"><div class="profiles">
                     <img src="./images/Puja model call girl.png" width="100%" height="100%" alt="Russian Model Escort">
                     <div class="profile-band">
                         <div>
@@ -240,7 +242,7 @@
                 <p>Our Agra escort does more than the common girl and teaches you the way how to live a carefree life. By the way, physical feeling intimates you are internally happy. Book our hot Agra escort as you become an active relationship companion.</p>
             </div>
             <div class="content-area">
-                <img src="" alt="">
+                <img src="./images/home1.png" width="100%" height="100%" alt="">
             </div>
         </div>
     </section>
@@ -252,7 +254,7 @@
                 <p>Anyway, you become fearless about making the relationship and sustain the quiet happiness during your relationship deal. From time to time, you never yes to in-call and out-call. As per the situation, your decision changes to be intimate with the bold-faced girl. No matter what type of relationship service you looking for, we provide you with a mind-blowing satisfaction experience.  We are aware of the biological fact that the sizzling requirements of all persons are not the same.</p>
             </div>
             <div class="content-area">
-                <img src="" alt="">
+                <img src="./images/home2.png" width="100%" height="100%" alt="">
             </div>
         </div>
     </section>
@@ -338,7 +340,7 @@
                 </div> -->
             </div>
             <div class="content-area">
-                <img src="" alt="">
+                <img src="./images/home3.png" width="100%" height="100%" alt="">
             </div>
         </div>
     </section>
@@ -351,7 +353,7 @@
                 <p>After a while, you cannot escape from the process of hiring a lovely Agra escort to change your mood. Our Independent escort is never fed up to make multiple episodes of the fuck and fun. Now, you must take your time to conduct which beauty profiles. Anyway, you delight to serve your erotic.</p>
             </div>
             <div class="content-area">
-                <img src="" alt="">
+                <img src="./images/home4.png" width="100%" height="100%" alt="">
             </div>
         </div>
     </section>

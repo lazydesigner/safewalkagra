@@ -10,10 +10,10 @@
                 <div class="footer-col">
                     <p>TAGS</p>
                     <ul>
-                        <li>Best Escort Service in Agra</li>
-                        <li>Independent call Girls in Agra</li>
-                        <li>Celebrity Escorts Service in Agra</li>
-                        <li>High Profile Escorts In Agra</li>
+                        <li><a href="<?=get_url() ?>blogs/top-model-escorts-in-agra.html">Top Model Escorts in Agra</a></li>
+                        <li><a href="<?=get_url() ?>blogs/benefits-of-hiring-high-profile-escorts-in-agra.html">Benefits of Hiring High Profile Escorts in Agra</a></li>
+                        <li><a href="<?=get_url() ?>blogs/independent-agra-escorts-near-me.html">Independent Agra Escorts Near Me</a></li>
+                        <li><a href="<?= get_url() ?>blogs/how-model-escorts-committed-to-friends.html">How Model Escorts Committed to Friends</a></li>
                         <li>Escort Agra</li>
                         <li>Best Escort in Agra</li>
                     </ul>

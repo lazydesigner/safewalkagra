@@ -200,6 +200,7 @@ a {
     margin: 3% 0;
     color: #395563;
 }
+.footer-col ul li a{color: #395563;}
 .footer-col:nth-child(1){
     flex: 1 0 31%;
     padding: 0 ;
