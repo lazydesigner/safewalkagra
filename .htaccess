@@ -26,6 +26,7 @@ RewriteRule ^call-girls-in-agra.html([/]?)$ call-girls-in-agra.php [NC,L]
 #CATEGORY
 RewriteRule ^college-escorts-in-agra.html([/]?)$ category/college-escorts-in-agra.php [NC,L]
 RewriteRule ^russian-escorts-in-goa.html([/]?)$ category/russian-escorts-in-goa.php [NC,L]
+RewriteRule ^celebrity-escorts-service-in-agra.html([/]?)$ category/celebrity-escorts-service-in-agra.php [NC,L]
 
 
 
@@ -34,6 +35,7 @@ RewriteRule ^blogs/top-model-escorts-in-agra.html([/]?)$ blogs/top-model-escorts
 RewriteRule ^blogs/benefits-of-hiring-high-profile-escorts-in-agra.html([/]?)$ blogs/benefits-of-hiring-high-profile-escorts-in-agra.php [NC,L]
 RewriteRule ^blogs/independent-agra-escorts-near-me.html([/]?)$ blogs/Independent-agra-escorts-near-me.php [NC,L]
 RewriteRule ^blogs/how-model-escorts-committed-to-friends.html([/]?)$ blogs/how-model-escorts-committed-to-friends.php [NC,L]
+RewriteRule ^blogs/dirty-divas-from-safewalkagra.html([/]?)$ blogs/dirty-divas-from-safewalkagra.php [NC,L]
 
 #PROFILES
 RewriteRule ^models/agra-escort-service-provider-puja.html([/]?)$ profiles/agra-escort-service-provider-puja.php [NC,L]         

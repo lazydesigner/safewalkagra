@@ -14,7 +14,7 @@
                         <li><a href="<?=get_url() ?>blogs/benefits-of-hiring-high-profile-escorts-in-agra.html">Benefits of Hiring High Profile Escorts in Agra</a></li>
                         <li><a href="<?=get_url() ?>blogs/independent-agra-escorts-near-me.html">Independent Agra Escorts Near Me</a></li>
                         <li><a href="<?= get_url() ?>blogs/how-model-escorts-committed-to-friends.html">How Model Escorts Committed to Friends</a></li>
-                        <li>Escort Agra</li>
+                        <li><a href="<?=get_url() ?>blogs/dirty-divas-from-safewalkagra.html">Urge for the Dirty Divas to maintain the sexual pleasure</a></li>
                         <li>Best Escort in Agra</li>
                     </ul>
                 </div>

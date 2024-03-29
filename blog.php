@@ -153,18 +153,18 @@
                     <div class="blog-read-more"><a href="<?=get_url() ?>blogs/independent-agra-escorts-near-me.html"><button aria-label="see what is inside this blog">READ MORE</button></a></div>
                 </div>
             </div>
-                       <!--  <div class="grid-items">
+                        <div class="grid-items">
                 <div class="blog-card">
-                    <a href=""><div class="blog-image"></div></a>
+                    <a href="<?=get_url() ?>blogs/14.png"><div class="blog-image"></div></a>
                     <div class="blog-heading">
-                        <a href=""><h2>Lorem ipsum dolor sit amet.</h2></a>
+                        <a href="<?=get_url() ?>blogs/dirty-divas-from-safewalkagra.html"><h2>Urge for the Dirty Divas to maintain the sexual pleasure</h2></a>
                     </div>
                     <div class="blog-para">
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut porro molestiae, beatae iste perferendis accusantium nisi doloremque nam quos maiores odit! Magnam quidem nemo suscipit, amet laudantium enim! Dolorem aut nulla labore distinctio voluptates voluptatem quisquam nam, ipsum error corporis illo laboriosam. Harum in sequi soluta laboriosam dolore amet esse.</p>
+                        <p>Finding a loving and caring partner is not difficult for you if you approach the right strategy for this purpose.  Do not feel restless as you have to make the fantasy game with the respective partner. First and foremost thing to explore your desire for a potential and passionate escort. How can you enjoy the sexual game a lot? The suitable criterion for this purpose is to have both parties follow the unstable instruction as well. Getting the cooperation of the usual practice leads you to the verge of more enjoyment.  For example, Bondage, and BDSM are the main key aspects for knowing the real benefits of doing mature sexual acts.</p>
                     </div>
-                    <div class="blog-read-more"><a href=""><button aria-label="see what is inside this blog">READ MORE</button></a></div>
+                    <div class="blog-read-more"><a href="<?=get_url() ?>blogs/dirty-divas-from-safewalkagra.html"><button aria-label="see what is inside this blog">READ MORE</button></a></div>
                 </div>
-            </div> -->
+            </div>
         </div>
     </div>
 
