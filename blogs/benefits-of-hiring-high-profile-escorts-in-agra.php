@@ -17,12 +17,12 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Agra Escorts 0000000000 | Safewalk Network 24/7" />
     <meta property="og:description" content="We offer top class Agra escorts at cash payment. All type of escorts available like Housewife, college girls, Russian models, etc" />
-    <meta property="og:url" content="<?= get_url() ?>blogs/top-model-escorts-in-agra.html" />
+    <meta property="og:url" content="<?= get_url() ?>blogs/benefits-of-hiring-high-profile-escorts-in-agra.html" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Agra Escorts 0000000000 | Safewalk Network 24/7" />
     <meta name="twitter:description" content="We offer top class Agra escorts at cash payment. All type of escorts available like Housewife, college girls, Russian models, etc" />
-    <link rel="canonical" href="<?= get_url() ?>blogs/top-model-escorts-in-agra.html" />
+    <link rel="canonical" href="<?= get_url() ?>blogs/benefits-of-hiring-high-profile-escorts-in-agra.html" />
     <!-- apart -->
     <link rel="stylesheet" href="<?= get_url() ?>css/index.css">
     <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css">
@@ -166,54 +166,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p>Apart from making relationships, they are polite and eager to know what you want from here body. So, you do not restless how can they pamper you in the private session? They strive hard to provide a high satisfaction rate.</p>
 
 
-        <section class="price-section">
-            <div class="price-heading">
-                <h3>SAFE WALK AGRA <strong>PRICE</strong></h3>
-            </div>
-            <div class="price">
-                <div class="price-flex">
-                    <div class="price-list">
-                        <div class="session-timing">
-                            <h4>1 Hours 1 Sessions (Depends on Profile)</h4>
-                        </div>
-                        <div class="price-rate">
-                            <span><strong>&#8377;8,9999 / &#8377;14,9999 / &#8377;19,9999 </strong>
-                                <p>1 HOURS</p>
-                            </span>
-                        </div>
-                        <div class="price-partition" style="border-bottom: 1px solid var(--border);"><small>1 HOURS 1 SESSION</small></div>
-                        <div class="price-partition"><small>&#8377;8,999 - &#8377;19,999</small></div>
-                        <div class="price-partition"><button>Call</button></div>
-                    </div>
-                    <div class="price-list">
-                        <div class="session-timing">
-                            <h4>3 Hours 2 Sessions (Depends on Profile)</h4>
-                        </div>
-                        <div class="price-rate">
-                            <span><strong>&#8377;18,9999 / &#8377;23,9999 / &#8377;33,9999 </strong>
-                                <p>3 HOURS</p>
-                            </span>
-                        </div>
-                        <div class="price-partition" style="border-bottom: 1px solid var(--border);"><small>3 HOURS 2 SESSION</small></div>
-                        <div class="price-partition"><small>&#8377;18,999 - &#8377;33,999</small></div>
-                        <div class="price-partition"><button>BOOK NOW</button></div>
-                    </div>
-                    <div class="price-list">
-                        <div class="session-timing">
-                            <h4>Full Night 3 Sessions (Depends on Profile)</h4>
-                        </div>
-                        <div class="price-rate">
-                            <span><strong>&#8377;23,9999 / &#8377;33,9999 / &#8377;48,9999 </strong>
-                                <p>3 HOURS</p>
-                            </span>
-                        </div>
-                        <div class="price-partition" style="border-bottom: 1px solid var(--border);"><small>Full Night</small></div>
-                        <div class="price-partition"><small>&#8377;23,999 - &#8377;48,999</small></div>
-                        <div class="price-partition"><button>WHATSAPP</button></div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <?php include './common-price.php' ?>
 
         <h2>Energize your body with High profile Agra Escort Service</h2>
         <p>If you do not have sex for a long time, then you become lethargic as well. But, you should take pleasure in your account. Skipping the fantasy action does not sound like a great option for your personal life. If you do not find a real-time partner, then you should reach out to, High profile Agra Escort Service.  The emphasis on hot call girls is on priority as they never disappoint in offering incredible sexual slots.</p>

@@ -220,10 +220,41 @@
                         </a>
                     </div>
                     <div class="blog-para">
-                        <p>Why do you become disturbed more as much frustration is going on in your life? One should follow a specific routine in their life to feel delight. Do you have a sure idea what should you have to do for this purpose? Finding the cool company of smiling girls brings the utmost relaxation in your life.  The tons of happiness dwell in young and energetic girls whose access is under your control. They have in-depth passion and imagination to quench their sexual thirst.  
-</p>
+                        <p>Why do you become disturbed more as much frustration is going on in your life? One should follow a specific routine in their life to feel delight. Do you have a sure idea what should you have to do for this purpose? Finding the cool company of smiling girls brings the utmost relaxation in your life.  The tons of happiness dwell in young and energetic girls whose access is under your control. They have in-depth passion and imagination to quench their sexual thirst.  </p>
                     </div>
                     <div class="blog-read-more"><a href="<?= get_url() ?>blogs/enjoy-unlimited-love-session-with-young-escorts.html"><button aria-label="see what is inside this blog">READ MORE</button></a></div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="blog-card">
+                    <a href="<?= get_url() ?>blogs/feel-safe-at-home-with-our-service.html">
+                        <div class="blog-image"> <img src="./images/Avanya.png" loading="lazy" width="100%" height="100%" alt=""></div>
+                    </a>
+                    <div class="blog-heading">
+                        <a href="<?= get_url() ?>blogs/feel-safe-at-home-with-our-service.html">
+                            <h2> Feel safe to take some precautions while selecting an escort service</h2>
+                        </a>
+                    </div>
+                    <div class="blog-para">
+                        <p>Are you crazy about making a worthy relationship with a loving personality girl? If you keep this wish for a long time, then you do not be silent about this perspective.  Taking an erotic vibe experience is not easy for you. So, do not be careless and appoint a professional and amateur girl to complete your desire.</p>
+                    </div>
+                    <div class="blog-read-more"><a href="<?= get_url() ?>blogs/feel-safe-at-home-with-our-service.html"><button aria-label="see what is inside this blog">READ MORE</button></a></div>
+                </div>
+            </div>
+            <div class="grid-items">
+                <div class="blog-card">
+                    <a href="<?= get_url() ?>blogs/safewalk-agra-and-other-agencies.html">
+                        <div class="blog-image"> <img src="./images/Ritika.png" loading="lazy" width="100%" height="100%" alt=""></div>
+                    </a>
+                    <div class="blog-heading">
+                        <a href="<?= get_url() ?>blogs/safewalk-agra-and-other-agencies.html">
+                            <h2> What aspect make safewalk apart from other escort agency?</h2>
+                        </a>
+                    </div>
+                    <div class="blog-para">
+                        <p>Are you thinking of filtering the name of the specific escort agency for personal pleasure? But, you do not know how to do this.  By the way, the presence of different escort age changes your mindset a lot.  If you looking forward to the outstanding charm in your personal life, then you do not negotiate the concerning key aspects. No matter where you reside, personal pleasure matter a lot.</p>
+                    </div>
+                    <div class="blog-read-more"><a href="<?= get_url() ?>blogs/safewalk-agra-and-other-agencies.html"><button aria-label="see what is inside this blog">READ MORE</button></a></div>
                 </div>
             </div>
         </div>

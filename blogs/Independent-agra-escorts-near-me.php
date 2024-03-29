@@ -169,54 +169,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p>During the entry point, these hot sluts gaze at your body.  They never forget to provide precedential respect at any cost. If you are eager to regularize your practice for weight loss in a secret way, then doing the fantasy exercise with this hot and sexy female is not a bad idea for you. Even though these girls are new, they provide you with all the formalities to entice you. Now, there is no way to regularize your body form.  We are the most suitable destination to live the incidence of the pounding. Do not live in imagination, and transform it into reality.</p>
 
 
-        <section class="price-section">
-            <div class="price-heading">
-                <h3>SAFE WALK AGRA <strong>PRICE</strong></h3>
-            </div>
-            <div class="price">
-                <div class="price-flex">
-                    <div class="price-list">
-                        <div class="session-timing">
-                            <h4>1 Hours 1 Sessions (Depends on Profile)</h4>
-                        </div>
-                        <div class="price-rate">
-                            <span><strong>&#8377;8,9999 / &#8377;14,9999 / &#8377;19,9999 </strong>
-                                <p>1 HOURS</p>
-                            </span>
-                        </div>
-                        <div class="price-partition" style="border-bottom: 1px solid var(--border);"><small>1 HOURS 1 SESSION</small></div>
-                        <div class="price-partition"><small>&#8377;8,999 - &#8377;19,999</small></div>
-                        <div class="price-partition"><button>Call</button></div>
-                    </div>
-                    <div class="price-list">
-                        <div class="session-timing">
-                            <h4>3 Hours 2 Sessions (Depends on Profile)</h4>
-                        </div>
-                        <div class="price-rate">
-                            <span><strong>&#8377;18,9999 / &#8377;23,9999 / &#8377;33,9999 </strong>
-                                <p>3 HOURS</p>
-                            </span>
-                        </div>
-                        <div class="price-partition" style="border-bottom: 1px solid var(--border);"><small>3 HOURS 2 SESSION</small></div>
-                        <div class="price-partition"><small>&#8377;18,999 - &#8377;33,999</small></div>
-                        <div class="price-partition"><button>BOOK NOW</button></div>
-                    </div>
-                    <div class="price-list">
-                        <div class="session-timing">
-                            <h4>Full Night 3 Sessions (Depends on Profile)</h4>
-                        </div>
-                        <div class="price-rate">
-                            <span><strong>&#8377;23,9999 / &#8377;33,9999 / &#8377;48,9999 </strong>
-                                <p>3 HOURS</p>
-                            </span>
-                        </div>
-                        <div class="price-partition" style="border-bottom: 1px solid var(--border);"><small>Full Night</small></div>
-                        <div class="price-partition"><small>&#8377;23,999 - &#8377;48,999</small></div>
-                        <div class="price-partition"><button>WHATSAPP</button></div>
-                    </div>
-                </div>
-            </div>
-        </section>
+        <?php include './common-price.php' ?>
 
         <div class="blog-image-box">
              <img src="../images/home1.png" width="100%" height="100%" alt="">

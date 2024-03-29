@@ -343,7 +343,7 @@ a {
         column-gap: 0;
         grid-auto-rows: 500px;
     }
-
+    .blog-image-box{width: 60%!important;}
     /* NAVBAR BELOW */
     .small-div-to-contact {
         height: auto;
