@@ -15,7 +15,7 @@
                         <li><a href="<?=get_url() ?>blogs/independent-agra-escorts-near-me.html">Independent Agra Escorts Near Me</a></li>
                         <li><a href="<?= get_url() ?>blogs/how-model-escorts-committed-to-friends.html">How Model Escorts Committed to Friends</a></li>
                         <li><a href="<?=get_url() ?>blogs/dirty-divas-from-safewalkagra.html">Urge for the Dirty Divas to maintain the sexual pleasure</a></li>
-                        <li>Best Escort in Agra</li>
+                        <li><a href="<?=get_url() ?>blogs/find-best-female-companion-in-agra.html">Meet with the astonishing blonde of the Agra escort service</a></li>
                     </ul>
                 </div>
                 <div class="footer-col">
