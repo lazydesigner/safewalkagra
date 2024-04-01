@@ -257,6 +257,22 @@
                     <div class="blog-read-more"><a href="<?= get_url() ?>blogs/safewalk-agra-and-other-agencies.html"><button aria-label="see what is inside this blog">READ MORE</button></a></div>
                 </div>
             </div>
+            <div class="grid-items">
+                <div class="blog-card">
+                    <a href="<?= get_url() ?>blogs/how-vip-escort-service-will-give-full-satisfaction.html">
+                        <div class="blog-image"> <img src="./images/18.png" loading="lazy" width="100%" height="100%" alt=""></div>
+                    </a>
+                    <div class="blog-heading">
+                        <a href="<?= get_url() ?>blogs/how-vip-escort-service-will-give-full-satisfaction.html">
+                            <h2>how-vip-escort-service-will-give-full-satisfaction</h2>
+                        </a>
+                    </div>
+                    <div class="blog-para">
+                        <p>Escort service is quite common in the current generation as people have the broad choice to make extramarital affairs. But, you know the exact reason behind this doing the best experience. While making the intimacy step with someone else, they know the sensitive part of their sizzling body. As a result, they can figure out how can particular escort service sounds perfect to nourish their sexual urge.  The moral of the story is that all people do not like the same level of sexual experience.  For instance, VIP Escort is the best substitute for the high ticket customer. They never make the blunder to impress their respected customer with the aim of fulfillment.</p>
+                    </div>
+                    <div class="blog-read-more"><a href="<?= get_url() ?>blogs/how-vip-escort-service-will-give-full-satisfaction.html"><button aria-label="see what is inside this blog">READ MORE</button></a></div>
+                </div>
+            </div>
         </div>
     </div>
 

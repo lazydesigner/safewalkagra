@@ -40,6 +40,7 @@ RewriteRule ^blogs/find-best-female-companion-in-agra.html([/]?)$ blogs/find-bes
 RewriteRule ^blogs/enjoy-unlimited-love-session-with-young-escorts.html([/]?)$ blogs/enjoy-unlimited-love-session-with-young-escorts.php [NC,L]
 RewriteRule ^blogs/feel-safe-at-home-with-our-service.html([/]?)$ blogs/feel-safe-at-home-with-our-service.php [NC,L]
 RewriteRule ^blogs/safewalk-agra-and-other-agencies.html([/]?)$ blogs/safewalk-agra-and-other-agencies.php [NC,L]
+RewriteRule ^blogs/how-vip-escort-service-will-give-full-satisfaction.html([/]?)$ blogs/how-vip-escort-service-will-give-full-satisfaction.php [NC,L]
 
 #PROFILES
 RewriteRule ^models/agra-escort-service-provider-puja.html([/]?)$ profiles/agra-escort-service-provider-puja.php [NC,L]         
@@ -53,4 +54,9 @@ RewriteRule ^models/independent-escort-service-in-agra.html([/]?)$ profiles/inde
 RewriteRule ^models/mature-housewife-escort-near-agra.html([/]?)$ profiles/mature-housewife-escort-near-agra.php [NC,L]         
 RewriteRule ^models/russian-escort-in-agra-ahana.html([/]?)$ profiles/russian-escort-in-agra-ahana.php [NC,L]         
 RewriteRule ^models/shalini-premium-bdsm-escort.html([/]?)$ profiles/shalini-premium-bdsm-escort.php [NC,L]         
-RewriteRule ^models/young-college-call-girl-in-agra.html([/]?)$ profiles/young-college-call-girl-in-agra.php [NC,L]         
+RewriteRule ^models/young-college-call-girl-in-agra.html([/]?)$ profiles/young-college-call-girl-in-agra.php [NC,L]      
+
+#LOCATIONS
+RewriteRule ^location/fatehabad-road.html([/]?)$ location/fatehabad-road.php [NC,L]    
+RewriteRule ^location/kamla-nagar.html([/]?)$ location/kamla-nagar.php [NC,L]    
+RewriteRule ^location/sikandra.html([/]?)$ location/sikandra.php [NC,L]    
