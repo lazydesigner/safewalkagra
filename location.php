@@ -244,6 +244,54 @@
                     </div>
                 </div>
             </a>
+            <a href="<?= get_url() ?>location/dayal-bagh.html">
+                <div class="grid-items-one">
+                    <div class="grid-band">
+                        <p>Dayal Bagh</p>
+                        <button>Escrots</button>
+                    </div>
+                </div>
+            </a>
+            <a href="<?= get_url() ?>location/trans-yamuna-colony.html">
+                <div class="grid-items-one">
+                    <div class="grid-band">
+                        <p>Trans Yamuna Colony</p>
+                        <button>Escrots</button>
+                    </div>
+                </div>
+            </a>
+            <a href="<?= get_url() ?>location/khandari.html">
+                <div class="grid-items-one">
+                    <div class="grid-band">
+                        <p>Khandari</p>
+                        <button>Escrots</button>
+                    </div>
+                </div>
+            </a>
+            <a href="<?= get_url() ?>location/idgah-colony.html">
+                <div class="grid-items-one">
+                    <div class="grid-band">
+                        <p>Idgah Colony</p>
+                        <button>Escrots</button>
+                    </div>
+                </div>
+            </a>
+            <a href="<?= get_url() ?>location/raja-ki-mandi.html">
+                <div class="grid-items-one">
+                    <div class="grid-band">
+                        <p>Raja Ki Mandi</p>
+                        <button>Escrots</button>
+                    </div>
+                </div>
+            </a>
+            <a href="<?= get_url() ?>location/taj-ganj.html">
+                <div class="grid-items-one">
+                    <div class="grid-band">
+                        <p>Taj Ganj</p>
+                        <button>Escrots</button>
+                    </div>
+                </div>
+            </a>
         </div>
     </div>
 
