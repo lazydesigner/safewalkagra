@@ -151,6 +151,8 @@
             margin: 5% 0;
         }
 
+        .location-grid a{margin: 2% 0;}
+
         .grid-items-one {
             width: auto;
             height: 100%;
