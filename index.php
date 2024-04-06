@@ -53,7 +53,7 @@
                 <p>Call Us For further details</p>
             </div>
             <div class="below-button">
-                <button>+91 00000000000</button>
+                <button><?=$phone_number ?></button>
             </div>
         </div>
 
@@ -90,7 +90,7 @@
                 <p>Call Us For further details</p>
             </div>
             <div class="below-button">
-                <button>+91 00000000000</button>
+                <button><?=$phone_number ?></button>
             </div>
         </div>
     </div>

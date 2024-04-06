@@ -188,7 +188,7 @@
                 <p>Call Us For further details</p>
             </div>
             <div class="below-button">
-                <button>+91 <?= $phone_number ?></button>
+                <button><?= $phone_number ?></button>
             </div>
         </div>
     </div>
