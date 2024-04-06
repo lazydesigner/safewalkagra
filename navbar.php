@@ -40,7 +40,7 @@
                 <a aria-label="navlink" href="<?=get_url()?>location.html">
                     <div>Location</div>
                 </a>
-                <a aria-label="navlink" href="<?=get_url()?>page-faq.html">
+                <a aria-label="navlink" href="<?=get_url()?>asked-question.html">
                     <div>faq</div>
                 </a>
             </div>

@@ -1,8 +1,8 @@
 <?php
 // include $_SERVER['DOCUMENT_ROOT'].'/safewalkagra.com/routes.php';
-include $_SERVER['DOCUMENT_ROOT'].'/routes.php';
+// include $_SERVER['DOCUMENT_ROOT'].'/routes.php';
 
-$phone_number = '+918933044044';
+$phone_number = '+918953263365';
 
 $noindex = '<meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
     <link rel="shortcut icon" href="'.get_url().'images/our-service-your-satisfaction.png" type="image/x-icon" />

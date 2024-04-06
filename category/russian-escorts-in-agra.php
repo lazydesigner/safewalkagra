@@ -19,12 +19,12 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Attach with Russian call girls in Agra to drench your mind" />
     <meta property="og:description" content="Free from loneliness hot and bold Russian escorts in Agra is a perfect match to provide fun-oriented moments." />
-    <meta property="og:url" content="<?= get_url() ?>russian-escorts-in-goa.html" />
+    <meta property="og:url" content="<?= get_url() ?>russian-escorts-in-agra.html" />
     <meta property="og:site_name" content="Escort" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Attach with Russian call girls in Agra to drench your mind" />
     <meta name="twitter:description" content="Free from loneliness hot and bold Russian escorts in Agra is a perfect match to provide fun-oriented moments." />
-    <link rel="canonical" href="<?= get_url() ?>russian-escorts-in-goa.html" />
+    <link rel="canonical" href="<?= get_url() ?>russian-escorts-in-agra.html" />
     <!-- apart -->
     <link rel="stylesheet" href="<?= get_url() ?>css/index.css">
     <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css?v=1">

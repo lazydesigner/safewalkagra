@@ -94,7 +94,7 @@
         .price {
             width: 100%;
             height: 800px;
-            background-image: url('../images/High profile models.webp');
+            background-image: url('./images/High profile models.webp');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% auto;
@@ -197,7 +197,7 @@
     <div class="safewalkheading">
         <div class="video-below-text">
             <div class="below-text">
-                <h1>Goa Escorts | Gallery You get only what you see</h1>
+                <h1>Agra Escorts | Gallery You get only what you see</h1>
                 <p>Call Us For further details</p>
             </div>
             <div class="below-button">

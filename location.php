@@ -46,7 +46,7 @@
         .price {
             width: 100%;
             height: 800px;
-            background-image: url('../images/High profile models.webp');
+            background-image: url('./images/High profile models.webp');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% auto;
@@ -157,18 +157,24 @@
             width: auto;
             height: 100%;
             /* background-color: var(--link-color); */
-            border: 1px solid var(--link-color);
+            /* border: 1px solid var(--link-color); */
             margin: 3% 0;
             border-radius: 5px;
             display: grid;
             align-items: center;
+            position: relative;
             cursor: pointer;
+            overflow: hidden;
         }
 
         .grid-items-one img {
             width: 100%;
             height: 100%;
-            object-fit: contain;
+            position: absolute;
+            inset: 0;
+            object-fit: cover;
+            transition: .2s;
+            z-index: -1;
         }
 
         .grid-items-one:hover img {
@@ -224,6 +230,7 @@
         <div class="location-grid">
             <a href="<?= get_url() ?>location/fatehabad-road.html">
                 <div class="grid-items-one">
+                    <img src="./images/fatehabad road.webp" alt="fatehabad road">
                     <div class="grid-band">
                         <p>Fatehabad Road</p>
                         <button>Escrots</button>
@@ -232,6 +239,7 @@
             </a>
             <a href="<?= get_url() ?>location/kamla-nagar.html">
                 <div class="grid-items-one">
+                    <img src="./images/kamla nagar.webp" alt="kamla nagar">
                     <div class="grid-band">
                         <p>Kamla Nagar</p>
                         <button>Escrots</button>
@@ -240,6 +248,7 @@
             </a>
             <a href="<?= get_url() ?>location/sikandra.html">
                 <div class="grid-items-one">
+                    <img src="./images/sikandra.webp" alt="Sikandra">
                     <div class="grid-band">
                         <p>Sikandra</p>
                         <button>Escrots</button>
@@ -248,6 +257,7 @@
             </a>
             <a href="<?= get_url() ?>location/dayal-bagh.html">
                 <div class="grid-items-one">
+                    <img src="./images/dayal bagh.webp" alt="dayal bagh">
                     <div class="grid-band">
                         <p>Dayal Bagh</p>
                         <button>Escrots</button>
@@ -256,6 +266,7 @@
             </a>
             <a href="<?= get_url() ?>location/trans-yamuna-colony.html">
                 <div class="grid-items-one">
+                    <img src="./images/trans yamuna.webp" alt="Trans Yamuna Colony">
                     <div class="grid-band">
                         <p>Trans Yamuna Colony</p>
                         <button>Escrots</button>
@@ -264,6 +275,7 @@
             </a>
             <a href="<?= get_url() ?>location/khandari.html">
                 <div class="grid-items-one">
+                    <img src="./images/khandari.webp" alt="Khandari">
                     <div class="grid-band">
                         <p>Khandari</p>
                         <button>Escrots</button>
@@ -272,6 +284,7 @@
             </a>
             <a href="<?= get_url() ?>location/idgah-colony.html">
                 <div class="grid-items-one">
+                    <img src="./images/idgah.webp" alt="Idgah Colony">
                     <div class="grid-band">
                         <p>Idgah Colony</p>
                         <button>Escrots</button>
@@ -280,6 +293,7 @@
             </a>
             <a href="<?= get_url() ?>location/raja-ki-mandi.html">
                 <div class="grid-items-one">
+                    <img src="./images/raja ki mandi.webp" alt="Raja Ki Mandi">
                     <div class="grid-band">
                         <p>Raja Ki Mandi</p>
                         <button>Escrots</button>
@@ -288,6 +302,7 @@
             </a>
             <a href="<?= get_url() ?>location/taj-ganj.html">
                 <div class="grid-items-one">
+                    <img src="./images/taj ganj.webp" alt="Taj Ganj">
                     <div class="grid-band">
                         <p>Taj Ganj</p>
                         <button>Escrots</button>

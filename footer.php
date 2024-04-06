@@ -6,7 +6,7 @@
                     <p>Category</p>
                     <ul>
                         <li><a href="<?=get_url() ?>college-escorts-in-agra.html">College Escorts In Agra</a></li>
-                        <li><a href="<?=get_url() ?>russian-escorts-in-goa.html">Russian Escorts In Goa</a></li>
+                        <li><a href="<?=get_url() ?>russian-escorts-in-agra.html">Russian Escorts In Agra</a></li>
                         <li><a href="<?=get_url() ?>celebrity-escorts-service-in-agra.html">Celebrity Escorts Service In Agra</a></li>
                     </ul>
                 </div>
@@ -46,7 +46,7 @@
             <div class="container footer-bottom-flex">
                 <small>&copy; Copyright 2024. All Rights Reserved.</small>
                 <div>
-                    <a href="<?=get_url()?>page-faq.html"><small>FAQ's</small></a>
+                    <a href="<?=get_url()?>asked-question.html"><small>FAQ's</small></a>
                     <a href="<?=get_url()?>sitemap.xml"><small>Sitemap</small></a>
                     <a href="<?=get_url()?>contact-us.html"><small>Contact Us</small></a>
                 </div>

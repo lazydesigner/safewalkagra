@@ -114,7 +114,22 @@
     </div>
     <div class="container">
         <div class="message-flex">
-            <div class="message-info"></div>
+            <div class="message-info">
+            <p><b>Dear Visitors,</b></p>
+
+<p>Welcome to Safe walk Agra web portal</p>
+
+<p>We have been in Escort service Since last 2 decades. We have served more than 20K unique clients with 4.7 star rating on an average.</p>
+
+<p>Nowadays, It is very common to hear about fake customers, fake providers, and frauds by different escorts. So we have a grievance form here where you can share all your problems. Our local agents are always ready to listen and solve it as soon as possible.</p>
+
+<p>Safewalk is a reputed agency working in Bangalore, Goa and Agra. We need to take care of our customers and their issues.</p>
+
+<p>If you feel Cheated by any means you can contact our head office. We will be there to solve the issues as soon as possible. Feel free and comfortable to contact via this form with solid proofs like  Screenshot, payment proofs etc. If this is about the bad behaviour of our escort then we might ask for a video or audio recording. Safewalkagra is a reputed agency in India, we make loyal and privileged customers. </p>
+
+<p>We secure your identity and personal information</p>
+
+            </div>
             <div class="message-form">
                 <h2>Contact <span style="font-weight: normal;">Us</span></h2>
                 <p>Feel free to ask for details, don't save any questions!</p>
