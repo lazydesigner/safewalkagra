@@ -38,6 +38,7 @@
     margin: 3% 0;
     border-radius: 5px;
     border:1px solid #36454F;
+    position: relative;
 }
 .profiles{
     width: 100%;
@@ -45,6 +46,13 @@
     display: grid;
     align-items: center;
     cursor: pointer;
+    position: relative;
+}
+
+.profiles img{
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
 .profile-band{
