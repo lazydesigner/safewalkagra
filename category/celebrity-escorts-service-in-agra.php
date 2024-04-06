@@ -27,7 +27,7 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
     <link rel="canonical" href="<?= get_url() ?>celebrity-escorts-service-in-agra.html" />
     <!-- apart -->
     <link rel="stylesheet" href="<?= get_url() ?>css/index.css">
-    <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css">
+    <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css?v=1">
     <style>
          .content-section .content-area a {
             font-weight: bold;

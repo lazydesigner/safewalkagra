@@ -305,44 +305,47 @@
             <div class="price-flex">
                 <div class="price-list">
                     <div class="session-timing">
-                        <h4>1 Hours 1 Sessions (Depends on Profile)</h4>
+                        <h4>1 Shot</h4>
                     </div>
                     <div class="price-rate">
-                        <span><strong>&#8377;8,9999 / &#8377;14,9999 / &#8377;19,9999 </strong>
-                            <p>1 HOURS</p>
+                        <span><strong>&#8377;3000 / &#8377;50000 / &#8377;,10000 </strong>
+                            <p>1 SESSION</p>
                         </span>
                     </div>
-                    <div class="price-partition" style="border-bottom: 1px solid var(--border);"><small>1 HOURS 1 SESSION</small></div>
-                    <div class="price-partition"><small>&#8377;8,999 - &#8377;19,999</small></div>
+                    <div class="price-partition" style="border-bottom: 1px solid var(--border);"><small>1 HOURS 1 Shot</small></div>
+                    <div class="price-partition"><small>&#8377;3000 - &#8377;10,000</small></div>
                     <div class="price-partition"><button>Call</button></div>
                 </div>
                 <div class="price-list">
                     <div class="session-timing">
-                        <h4>3 Hours 2 Sessions (Depends on Profile)</h4>
+                        <h4>2 Shots</h4>
                     </div>
                     <div class="price-rate">
-                        <span><strong>&#8377;18,9999 / &#8377;23,9999 / &#8377;33,9999 </strong>
-                            <p>3 HOURS</p>
+                        <span><strong>&#8377;6000 / &#8377;10,000 / &#8377;15,000 </strong>
+                            <p>2 SESSIONS</p>
                         </span>
                     </div>
-                    <div class="price-partition" style="border-bottom: 1px solid var(--border);"><small>3 HOURS 2 SESSION</small></div>
-                    <div class="price-partition"><small>&#8377;18,999 - &#8377;33,999</small></div>
+                    <div class="price-partition" style="border-bottom: 1px solid var(--border);"><small>3 HOURS 2 SHOTS</small></div>
+                    <div class="price-partition"><small>&#8377;6000 - &#8377;15,000</small></div>
                     <div class="price-partition"><button>BOOK NOW</button></div>
                 </div>
                 <div class="price-list">
                     <div class="session-timing">
-                        <h4>Full Night 3 Sessions (Depends on Profile)</h4>
+                        <h4>Full Night</h4>
                     </div>
                     <div class="price-rate">
-                        <span><strong>&#8377;23,9999 / &#8377;33,9999 / &#8377;48,9999 </strong>
-                            <p>3 HOURS</p>
+                        <span><strong>&#8377;10,000 / &#8377;20,000 / &#8377;30,000</strong>
+                            <p>3 SHOTS</p>
                         </span>
                     </div>
                     <div class="price-partition" style="border-bottom: 1px solid var(--border);"><small>Full Night</small></div>
-                    <div class="price-partition"><small>&#8377;23,999 - &#8377;48,999</small></div>
+                    <div class="price-partition"><small>&#8377;10,000 - &#8377;30,000</small></div>
                     <div class="price-partition"><button>WHATSAPP</button></div>
                 </div>
             </div>
+        </div>
+        <div class="price-heading">
+            <h3>ABOUT <strong>SAFE WALK AGRA</strong></h3>
         </div>
     </section>
     <?php include './footer.php' ?>

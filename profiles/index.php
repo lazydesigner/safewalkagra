@@ -8,7 +8,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
-    <?= $noindex ?>
+    <meta name="robots" content="noindex, nofollow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+    <link rel="shortcut icon" href="'.get_url().'images/our-service-your-satisfaction.png" type="image/x-icon" />
     <title>Profiles | Safewalk Network 24/7</title>
     <meta name="description" content="We offer top class Agra escorts at cash payment. All type of escorts available like Housewife, college girls, Russian models, etc">
     <meta property="og:locale" content="en_US" />

@@ -27,7 +27,7 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
     <link rel="canonical" href="<?= get_url() ?>russian-escorts-in-goa.html" />
     <!-- apart -->
     <link rel="stylesheet" href="<?= get_url() ?>css/index.css">
-    <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css">
+    <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css?v=1">
     <style>
          .content-section .content-area a {
             font-weight: bold;
@@ -67,7 +67,7 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
             </div>
             <div class="content-area">
                 <div class="content-area-img">
-                <img src="<?=get_url() ?>images/Julia russian escort.png" width="100%" height="100%" loading="lazy" alt="">
+                <a href="<?=get_url() ?>models/best-price-russian-call-girl-in-agra.html"><img src="<?=get_url() ?>images/Julia russian escort.png" width="100%" height="100%" loading="lazy" alt=""></a>
                 </div>
             </div>
         </div>
@@ -81,7 +81,7 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
             </div>
             <div class="content-area">
                 <div class="content-area-img">
-                <img src="<?=get_url() ?>images/ahana russian escort.png" width="100%" height="100%" loading="lazy" alt="">
+                <a href="<?=get_url() ?>models/russian-escort-in-agra-ahana.html"><img src="<?=get_url() ?>images/ahana russian escort.png" width="100%" height="100%" loading="lazy" alt=""></a>
                 </div>
             </div>
         </div>
@@ -118,7 +118,7 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
                 <p>So, you do not dare to think about how to accomplish your personal affairs sections. In other words, you should come to the gateway of erotic websites to choose your favorite Russian escort model. Do not be upset about how to dare the beautiful babe to become their dating partner. Once you select your favorite Russian escort, they are yes to say you all dirty desires. So, you do not cultivate the uncertainty of playing all intercourse and fun drama.  GO ahead with the real-time practice of hiring a Russian escort in Agra.</p>
                 <ul>
                     <li>Browse our website with the intention of mind-blowing action.</li>
-                    <li>Navigate to the profile section.</li>
+                    <li>Navigate to the <a href="<?=get_url() ?>models/russian-escort-in-agra-ahana.html">Russian profile</a> section.</li>
                     <li>Pick your favorite girl, and select the best one.</li>
                     <li>After that, you can book a promising escort for real enjoyment.</li>
                     <li> They will come on you on your doorstep to seduce you.</li> 

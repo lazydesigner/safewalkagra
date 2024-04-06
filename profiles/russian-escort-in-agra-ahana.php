@@ -357,54 +357,7 @@ I have a curvy figure and long body to impress you and a like-minded person. As 
         </div>
     </div>
 
-    <section class="price-section">
-        <div class="price-heading">
-            <h3>Safe Walk Agra <strong>PRICE</strong></h3>
-        </div>
-        <div class="price">
-            <div class="price-flex">
-                <div class="price-list">
-                    <div class="session-timing">
-                        <h4>1 Sessions</h4>
-                    </div>
-                    <div class="price-rate">
-                        <span><strong>&#8377;14,9999</strong>
-                            <p>1 HOUR</p>
-                        </span>
-                    </div>
-                    <div class="price-partition" style="border-bottom: 1px solid var(--border);"><small>1 HOURS 1 SESSION</small></div>
-                    <div class="price-partition"><small>&#8377;14,999 - &#8377;to 14,999</small></div>
-                    <div class="price-partition"><button>Call</button></div>
-                </div>
-                <div class="price-list">
-                    <div class="session-timing">
-                        <h4>2 Sessions</h4>
-                    </div>
-                    <div class="price-rate">
-                        <span><strong>&#8377;23,9999</strong>
-                            <p>3 HOURS</p>
-                        </span>
-                    </div>
-                    <div class="price-partition" style="border-bottom: 1px solid var(--border);"><small>3 HOURS 2 SESSION</small></div>
-                    <div class="price-partition"><small>&#8377;18,999 - &#8377;23,999</small></div>
-                    <div class="price-partition"><button>BOOK NOW</button></div>
-                </div>
-                <div class="price-list">
-                    <div class="session-timing">
-                        <h4>3 Sessions</h4>
-                    </div>
-                    <div class="price-rate">
-                        <span><strong>&#8377;33,9999</strong>
-                            <p>FULL NIGHT</p>
-                        </span>
-                    </div>
-                    <div class="price-partition" style="border-bottom: 1px solid var(--border);"><small>Full Night 3 Sessions</small></div>
-                    <div class="price-partition"><small>&#8377;23,999 - &#8377;33,999</small></div>
-                    <div class="price-partition"><button>WHATSAPP</button></div>
-                </div>
-            </div>
-        </div>
-    </section>
+    <?php include '../common-price.php' ?>
     <?php include '../footer.php' ?>
 </body>
 

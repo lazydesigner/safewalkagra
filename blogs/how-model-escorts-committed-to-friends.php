@@ -25,7 +25,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
     <link rel="canonical" href="<?= get_url() ?>blogs/how-model-escorts-committed-to-friends.html" />
     <!-- apart -->
     <link rel="stylesheet" href="<?= get_url() ?>css/index.css">
-    <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css">
+    <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css?v=1">
     <style>
         .content-section .content-area a {
             font-weight: bold;
@@ -141,7 +141,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <div class="date-of-post"><?= $user ?><small style="margin: 0;">By Agra Partner</small></div>
 
 
-        <p>Staying mute and lonely is not a good way to live your life according to your terms and conditions. From per logical point of view, staying static is one of the hurdles to get progress in your life. Reviving your subconscious mind is imperative for you, and you should seek a cooperating friend to share their grief and ongoing troubles in your life. Anyway, having a friendship with the opposite gender helps you a lot to stay away from the unexpected conundrum. Keep patience, and think about the <b>professional model escort</b>.  By the way, they are dedicated and devoted creatures to bring your love splash in the next direction. If you do not restrict the kinky flow, then interact with the valuable escort to experience exceptional and quality sexual service.</p>
+        <p>Staying mute and lonely is not a good way to live your life according to your terms and conditions. From per logical point of view, staying static is one of the hurdles to get progress in your life. Reviving your subconscious mind is imperative for you, and you should seek a cooperating friend to share their grief and ongoing troubles in your life. Anyway, having a friendship with the opposite gender helps you a lot to stay away from the unexpected conundrum. Keep patience, and think about the <a href="<?=get_url() ?>blogs/top-model-escorts-in-agra.html">professional model escort</a>.  By the way, they are dedicated and devoted creatures to bring your love splash in the next direction. If you do not restrict the kinky flow, then interact with the valuable escort to experience exceptional and quality sexual service.</p>
 
         <h2>Maintain the feasibility with a model escort</h2>
         <p>Selling the sex service to required and lustful customers is not a cup of tea.  That’s why escort females all deserve traits to allure their respective customers. Among the crows of the pretty face escort, you hardly determine the pick of the pro name for getting the ultimate pleasure pulse.</p>
