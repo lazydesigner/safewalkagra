@@ -195,68 +195,140 @@
     </div>
 
     <div class="container">
-        <div class="grid-of-profiles">
+    <div class="grid-of-profiles">
             <div class="grid-item">
-                <div class="profiles">
+               <a href="<?=get_url()?>models/russian-escort-in-agra-ahana.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/ahana russian escort.png" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
                             <span>
-                                <p>Noza</p>
+                                <p>Ahana</p>
                                 <button>RUSSIAN MODEL</button>
                             </span>
                         </div>
                     </div>
-                </div>
+                </div></a>
             </div>
             <div class="grid-item">
-                <div class="profiles">
+            <a href="<?=get_url()?>models/best-price-russian-call-girl-in-agra.html"> <div class="profiles">
+                    <img src="<?=get_url() ?>images/Julia russian escort.png" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
-                            <p>Noza</p>
+                            <p>Julia</p>
                             <button>RUSSIAN MODEL</button>
                         </div>
                     </div>
-                </div>
+                </div></a>
             </div>
             <div class="grid-item">
-                <div class="profiles">
+            <a href="<?=get_url()?>models/shalini-premium-bdsm-escort.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/Shalini russian Escort.png" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
-                            <p>Noza</p>
-                            <button>RUSSIAN MODEL</button>
+                            <p>Shalini</p>
+                            <button>BDSM</button>
                         </div>
                     </div>
-                </div>
+                </div></a>
             </div>
             <div class="grid-item">
-                <div class="profiles">
+            <a href="<?=get_url() ?>models/young-college-call-girl-in-agra.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/Dolly Sharma college escorts.png" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
-                            <p>Noza</p>
-                            <button>RUSSIAN MODEL</button>
+                            <p>Dolly Sharma</p>
+                            <button>COLLEGE ESCORT</button>
                         </div>
                     </div>
-                </div>
+                </div></a>
             </div>
             <div class="grid-item">
-                <div class="profiles">
+            <a href="<?=get_url() ?>models/avanya-college-escort-in-agra.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/Avanya college call girl.png" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
-                            <p>Noza</p>
-                            <button>RUSSIAN MODEL</button>
+                            <p>Avanya</p>
+                            <button>COLLEGE ESCORT</button>
                         </div>
                     </div>
-                </div>
+                </div></a>
             </div>
             <div class="grid-item">
-                <div class="profiles">
+            <a href="<?=get_url() ?>models/high-profile-escort-in-agra-kamayani.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/kamayani  college escorts.png" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
-                            <p>Noza</p>
-                            <button>RUSSIAN MODEL</button>
+                            <p>kamayani</p>
+                            <button>HIGH PROFILE</button>
                         </div>
                     </div>
-                </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href="<?=get_url() ?>models/independent-escort-service-in-agra.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/Ritika escorts.png" loading="lazy" width="100%" height="100%" alt="Independent Escort">
+                    <div class="profile-band">
+                        <div>
+                            <p>Ritika</p>
+                            <button>INDEPENDENT ESCORT</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href="<?=get_url() ?>models/best-punjabi-call-girl-in-agra.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/jasleen Kaur call girl service.png" loading="lazy" width="100%" height="100%" alt="punjabi Escort service">
+                    <div class="profile-band">
+                        <div>
+                            <p>Jasleen Kaur</p>
+                            <button>PUNJABI</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href="<?=get_url() ?>models/mature-housewife-escort-near-agra.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/Anshiat pandey escorts service.png" loading="lazy" width="100%" height="100%" alt="Housewife Escort">
+                    <div class="profile-band">
+                        <div>
+                            <p>Anshiat Pandey</p>
+                            <button>HOUSEWIFE ESCORT</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href="<?=get_url() ?>models/akannki-is-a-premium-mature-milf.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/Akannki housewife call girl.png" loading="lazy" width="100%" height="100%" alt="Housewife escort Provider">
+                    <div class="profile-band">
+                        <div>
+                            <p>Akannki</p>
+                            <button>HOUSEWIFE ESCORT</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href="<?=get_url() ?>models/best-model-escort-in-agra.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/Afsana model call girl service.png" loading="lazy" width="100%" height="100%" alt="model Escort">
+                    <div class="profile-band">
+                        <div>
+                            <p>Afsana</p>
+                            <button>MODEL ESCORT</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href="<?=get_url() ?>models/agra-escort-service-provider-anastasia.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/Puja model call girl.png" loading="lazy" width="100%" height="100%" alt="Russian Model Escort">
+                    <div class="profile-band">
+                        <div>
+                            <p>Anastasia</p>
+                            <button>MODEL ESCORT</button>
+                        </div>
+                    </div>
+                </div></a>
             </div>
         </div>
     </div>
