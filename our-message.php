@@ -123,9 +123,9 @@
 
 <p>Nowadays, It is very common to hear about fake customers, fake providers, and frauds by different escorts. So we have a grievance form here where you can share all your problems. Our local agents are always ready to listen and solve it as soon as possible.</p>
 
-<p>Safewalk is a reputed agency working in Bangalore, Goa and Agra. We need to take care of our customers and their issues.</p>
+<p>Safewalk is a reputed agency working in <a href="https://www.safewalkbangalore.com/" target="_blank" rel="nofollow">Bangalore</a>, <a href="https://www.safewalkgoa.com/" target="_blank" rel="nofollow">Goa</a> and <a href="<?=get_url() ?>">Agra</a>. We need to take care of our customers and their issues.</p>
 
-<p>If you feel Cheated by any means you can contact our head office. We will be there to solve the issues as soon as possible. Feel free and comfortable to contact via this form with solid proofs like  Screenshot, payment proofs etc. If this is about the bad behaviour of our escort then we might ask for a video or audio recording. Safewalkagra is a reputed agency in India, we make loyal and privileged customers. </p>
+<p>If you feel Cheated by any means you can contact our head office. We will be there to solve the same issue as soon as possible. Feel free and comfortable to contact via this form with solid proofs like  Screenshot, payment proofs etc. If this is about the bad behaviour of our escort then we might ask for a video or audio recording. Safewalkagra is a reputed agency in India, we make loyal and privileged customers. </p>
 
 <p>We secure your identity and personal information</p>
 
