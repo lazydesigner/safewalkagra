@@ -52,7 +52,9 @@
 .profiles img{
     position: absolute;
     top: 0;
+    z-index: -1;
     left: 0;
+    object-fit: cover;
 }
 
 .profile-band{
