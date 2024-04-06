@@ -28,8 +28,8 @@
                 <a aria-label="navlink" href="<?=get_url()?>booking.html">
                     <div>Booking</div>
                 </a>
-                <a aria-label="navlink" href="<?=get_url()?>blog.html">
-                    <div>Blog</div>
+                <a aria-label="navlink" href="<?=get_url()?>call-girls-in-agra.html">
+                    <div>Call Girls</div>
                 </a>
                 <a aria-label="navlink" href="<?=get_url()?>contact-us.html">
                     <div>Contact us</div>

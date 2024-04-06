@@ -11,7 +11,7 @@
                     </ul>
                 </div>
                 <div class="footer-col">
-                    <p>TAGS</p>
+                    <p>Blogs</p>
                     <ul>
                         <li><a href="<?=get_url() ?>blogs/top-model-escorts-in-agra.html">Top Model Escorts in Agra</a></li>
                         <li><a href="<?=get_url() ?>blogs/benefits-of-hiring-high-profile-escorts-in-agra.html">Benefits of Hiring High Profile Escorts in Agra</a></li>
