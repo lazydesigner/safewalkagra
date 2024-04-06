@@ -135,7 +135,7 @@
         }
     </style>
 
-    <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css">
+    <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css?v=1">
     <style>
         .below-text h1 {
             font-size: 2.2rem;

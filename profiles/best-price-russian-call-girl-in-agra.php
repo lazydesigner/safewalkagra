@@ -135,7 +135,7 @@
             border-radius: 5px;
         }
     </style>
-    <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css">
+    <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css?v=1">
     <style>
         .profile-flex {
             width: 100%;

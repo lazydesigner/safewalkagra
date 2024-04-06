@@ -23,7 +23,7 @@
     <link rel="canonical" href="<?= get_url() ?>" />
     <!-- apart -->
     <link rel="stylesheet" href="<?= get_url() ?>css/index.css">
-    <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css">
+    <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css?v=1">
     <style>
         body{
             font-family:Arial, Helvetica, sans-serif;

@@ -27,7 +27,7 @@ $phone_number = 0000000000;
     <link rel="canonical" href="<?= get_url() ?>location/dayal-bagh.html" />
     <!-- apart -->
     <link rel="stylesheet" href="<?= get_url() ?>css/index.css">
-    <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css">
+    <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css?v=1">
     <style>
          .content-section .content-area a {
             font-weight: bold;
