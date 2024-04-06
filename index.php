@@ -398,7 +398,7 @@
                         <h4>1 Shot</h4>
                     </div>
                     <div class="price-rate">
-                        <span><strong>&#8377;3000 / &#8377;50000 / &#8377;,10000 </strong>
+                        <span><strong>&#8377;3000 / &#8377;5000 / &#8377;10,000 </strong>
                             <p>1 SESSION</p>
                         </span>
                     </div>
