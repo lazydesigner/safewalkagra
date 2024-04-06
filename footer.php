@@ -26,6 +26,7 @@
                     <ul>
                         <li><?=$phone_number ?></li>
                         <li>ramanarora7869@gmail.com</li>
+                        <li><a href="//www.dmca.com/Protection/Status.aspx?ID=16321de9-a9a4-4373-ae9a-691d86e0fd82" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/_dmca_premi_badge_5.png?ID=16321de9-a9a4-4373-ae9a-691d86e0fd82"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script></li>
                     </ul>
                 </div>
                 <!-- <div class="footer-col">
@@ -48,7 +49,6 @@
                     <a href="<?=get_url()?>page-faq.html"><small>FAQ's</small></a>
                     <a href="<?=get_url()?>sitemap.xml"><small>Sitemap</small></a>
                     <a href="<?=get_url()?>contact-us.html"><small>Contact Us</small></a>
-                    <a href="">DMCA</a>
                 </div>
             </div>
         </div>
