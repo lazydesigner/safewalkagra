@@ -114,7 +114,7 @@
     </div>
     <div class="container">
         <div class="message-flex">
-            <div class="message-info">
+            <div class="message-info"  style="padding: 0 1%;">
             <p><b>Dear Visitors,</b></p>
 
 <p>Welcome to Safe walk Agra web portal</p>
