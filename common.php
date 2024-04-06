@@ -9,7 +9,7 @@ $noindex = '<meta name="robots" content="noindex, nofollow, max-snippet:-1, max-
     ';
 $pages_css = ' <link rel="stylesheet" href="'.get_url().'assets/css/header.css">
 <link rel="stylesheet" href="'.get_url().'assets/css/pages.css">
-<link rel="stylesheet" href="'.get_url().'assets/css/footer.css">';
+<link rel="stylesheet" href="'.get_url().'assets/css/footer.css?v=1">';
 
 $schema = '<script type="application/ld+json">
 {
