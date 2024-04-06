@@ -232,13 +232,13 @@
                     <h3><span style="font-weight: normal;">OUR</span> OFFICE</h3>
                     <div class="contact-info">
                         <div class="contact-info-flex">
-                            <div><?= $phone ?></div><b>Phone:</b> +91 <?= $phone_number ?>
+                            <div><?= $phone ?></div><b>Phone:</b><?= $phone_number ?>
                         </div>
                         <div class="contact-info-flex">
-                            <div><?= $whatsapp ?></div><b>Whatsapp:</b> +91 <?= $phone_number ?>
+                            <div><?= $whatsapp ?></div><b>Whatsapp:</b><?= $phone_number ?>
                         </div>
                         <div class="contact-info-flex">
-                            <div><?= $email ?></div><b>Email:</b> safewalkagra@gmail.com
+                            <div><?= $email ?></div><b>Email:</b> sramanarora7869@gmail.com
                         </div>
                     </div>
                 </div>
