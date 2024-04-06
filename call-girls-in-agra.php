@@ -1,7 +1,7 @@
 <?php include './common.php' ?>
 <?php
 $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor"><path d="M11.9999 10.8284L7.0502 15.7782L5.63599 14.364L11.9999 8L18.3639 14.364L16.9497 15.7782L11.9999 10.8284Z"></path></svg>';
-$phone_number = 0000000000;
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -178,7 +178,7 @@ $phone_number = 0000000000;
             }
         }
     </style>
-    <?=$schema ?>
+    <?= $schema ?>
 </head>
 
 <body>
@@ -198,177 +198,148 @@ $phone_number = 0000000000;
         <h3>Book high-profile Agra call girls for temporary relationships: </h3>
         <p>No many how much work you evolved, your mind suddenly stuck on making the love session only. It means you are in quest of exceptional quality extramarital affairs that you hardly retain from your girlfriend and religion. Do not equal this incidence that our trained Agra escort provides you the sensation beam as you ever thought. That’s why your preference is to select the high-profile Agra escort. They cater with extraordinary skills to let you concisely love requests.</p>
 
-        <div class="long-profiles">
-            <div class="long-profile-img">
-            <a href="<?=get_url() ?>models/russian-escort-in-agra-ahana.html">
-                <img src="./images/ahana russian escort.png" width="100%" height="100%" loading="lazy" alt="A russian escort girl sitting on the bed wearing black nighty dress">            
-                </a></div>
-            <div class="long-profile-txt">
-                <h3>Call me Russian blonde to enjoy the mind-blowing sensual experience</h3>
-                <p class="just-two-line">I Am Ahana and have the sincerity to expose my love beam. My age is 24 years, and fond of the conversations young boys and gentlemen.  Book my escort service if you cannot take your mind to do the immense love game with the strange women.  By birth, I belong to the Russian category and hold the blessing record to please many horny people. It is up to you how you can treat me for your sensual purpose.  I have not expressed any objection to the multiple attempts for the romance. Now, you can take me in your arms, and enjoy your private moment as much as you can.</p>
-                <small>Ahana | 24 years</small>
-                <div class="long-profile-btn">
-                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
-                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
-                </div>
+<!-- PROFILES -->
+<!-- <div class="container"> -->
+        <div class="grid-of-profiles">
+            <div class="grid-item">
+               <a href="<?=get_url()?>models/russian-escort-in-agra-ahana.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/ahana russian escort.png" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
+                    <div class="profile-band">
+                        <div>
+                            <span>
+                                <p>Ahana</p>
+                                <button>RUSSIAN MODEL</button>
+                            </span>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href="<?=get_url()?>models/best-price-russian-call-girl-in-agra.html"> <div class="profiles">
+                    <img src="<?=get_url() ?>images/Julia russian escort.png" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
+                    <div class="profile-band">
+                        <div>
+                            <p>Julia</p>
+                            <button>RUSSIAN MODEL</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href="<?=get_url()?>models/shalini-premium-bdsm-escort.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/Shalini russian Escort.png" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
+                    <div class="profile-band">
+                        <div>
+                            <p>Shalini</p>
+                            <button>BDSM</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href="<?=get_url() ?>models/young-college-call-girl-in-agra.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/Dolly Sharma college escorts.png" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
+                    <div class="profile-band">
+                        <div>
+                            <p>Dolly Sharma</p>
+                            <button>COLLEGE ESCORT</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href="<?=get_url() ?>models/avanya-college-escort-in-agra.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/Avanya college call girl.png" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
+                    <div class="profile-band">
+                        <div>
+                            <p>Avanya</p>
+                            <button>COLLEGE ESCORT</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href="<?=get_url() ?>models/high-profile-escort-in-agra-kamayani.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/kamayani  college escorts.png" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
+                    <div class="profile-band">
+                        <div>
+                            <p>kamayani</p>
+                            <button>HIGH PROFILE</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href="<?=get_url() ?>models/independent-escort-service-in-agra.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/Ritika escorts.png" loading="lazy" width="100%" height="100%" alt="Independent Escort">
+                    <div class="profile-band">
+                        <div>
+                            <p>Ritika</p>
+                            <button>INDEPENDENT ESCORT</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href="<?=get_url() ?>models/best-punjabi-call-girl-in-agra.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/jasleen Kaur call girl service.png" loading="lazy" width="100%" height="100%" alt="punjabi Escort service">
+                    <div class="profile-band">
+                        <div>
+                            <p>Jasleen Kaur</p>
+                            <button>PUNJABI</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href="<?=get_url() ?>models/mature-housewife-escort-near-agra.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/Anshiat pandey escorts service.png" loading="lazy" width="100%" height="100%" alt="Housewife Escort">
+                    <div class="profile-band">
+                        <div>
+                            <p>Anshiat Pandey</p>
+                            <button>HOUSEWIFE ESCORT</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href="<?=get_url() ?>models/akannki-is-a-premium-mature-milf.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/Akannki housewife call girl.png" loading="lazy" width="100%" height="100%" alt="Housewife escort Provider">
+                    <div class="profile-band">
+                        <div>
+                            <p>Akannki</p>
+                            <button>HOUSEWIFE ESCORT</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href="<?=get_url() ?>models/best-model-escort-in-agra.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/Afsana model call girl service.png" loading="lazy" width="100%" height="100%" alt="model Escort">
+                    <div class="profile-band">
+                        <div>
+                            <p>Afsana</p>
+                            <button>MODEL ESCORT</button>
+                        </div>
+                    </div>
+                </div></a>
+            </div>
+            <div class="grid-item">
+            <a href="<?=get_url() ?>models/agra-escort-service-provider-anastasia.html"><div class="profiles">
+                    <img src="<?=get_url() ?>images/Puja model call girl.png" loading="lazy" width="100%" height="100%" alt="Russian Model Escort">
+                    <div class="profile-band">
+                        <div>
+                            <p>Anastasia</p>
+                            <button>MODEL ESCORT</button>
+                        </div>
+                    </div>
+                </div></a>
             </div>
         </div>
-        <div class="long-profiles">
-            <div class="long-profile-img">
-            <a href="<?=get_url() ?>models/best-price-russian-call-girl-in-agra.html"><img src="./images/Julia russian escort.png" width="100%" height="100%" loading="lazy" alt="A russian escort girl wearing black net panty standing lean to the wall"></a>
-            </div>
-            <div class="long-profile-txt">
-                <h3>Join the company of Russian escort to make your day much different</h3>
-                <p class="just-two-line">I am Julia, and fall in the Russian category.  I know this fact that I am awaiting personality for many horny guys how to explore more happiness in their life. I am your ideal partner if you are looking forward to adorable and soft-touch hot call girls to fulfill your fetish dream. I am quite young and hold the full-fledged stamina to bear the sensual pleasure of many people.</p>
-                <small>Julia | 23 years</small>
-                <div class="long-profile-btn">
-                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
-                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
-                </div>
-            </div>
-        </div>
-        <div class="long-profiles">
-            <div class="long-profile-img">
-            <a href="<?=get_url() ?>models/shalini-premium-bdsm-escort.html"><img src="./images/Shalini russian girl.png" width="100%" height="100%" loading="lazy" alt="A russian escorts girl lying on the bed wearing black bra"></a>
-            </div>
-            <div class="long-profile-txt">
-                <h3>Chase your erotic dream with super active Russian escort performer  </h3>
-                <p class="just-two-line">Are you eager to live your life in your condition?  Then, you do not mind taking the hot call girls service In Agra. I am Shalini and have the 34 C figure. Once you have insight into my body figure, you cannot control for making the love-making session. So, you should leave your hesitation, and enjoy the exciting loving companion in my hot body.</p>
-                <small>Shalini | 25 years</small>
-                <div class="long-profile-btn">
-                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
-                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
-                </div>
-            </div>
-        </div>
-        <div class="long-profiles">
-            <div class="long-profile-img">
-            <a href="<?=get_url() ?>models/young-college-call-girl-in-agra.html"><img src="./images/Dolly Sharma college escorts.png" width="100%" height="100%" loading="lazy" alt=" a college call girl wearing while color bra lying on bed showing this small tits "></a>
-            </div>
-            <div class="long-profile-txt">
-                <h3>Get In touch with an Agra college escort to enjoy the real pleasure of sexual desire</h3>
-                <p class="just-two-line">I am Dolly Sharma, and live in a modern city namely Agra.  Here, I come to retain a high-quality education to do something that excels in my life.  But, the expanses of this city are not as normal as other cities require.  In am, 21 years old, and fair skin hypnotizes me lustfully.  For the sake of earning potential income, I land in the women’s prostitution.</p>
-                <small>Dolly Sharma | 21 years</small>
-                <div class="long-profile-btn">
-                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
-                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
-                </div>
-            </div>
-        </div>
-        <div class="long-profiles">
-            <div class="long-profile-img">
-            <a href="<?=get_url() ?>models/avanya-college-escort-in-agra.html"><img src="./images/Avanya college call girl.png" width="100%" height="100%" loading="lazy" alt="Avanya college call girl standing on stairs wearing black bra and grey pants to get fucked by mens"></a>
-            </div>
-            <div class="long-profile-txt">
-                <h3>Spend quality with the Agra College going escort for a nonstop sensual experience</h3>
-                <p class="just-two-line">Do not think you as you a useless person as your spouse and loving girlfriend leave your company.  I, Avanya, am doing my graduation in Bachelor of Science from Agra College University. But, I become sad as I Become alone. To get the right solution to the problem, I become a part-time employee of the resulting escort agency. After engaging in this service, I can benefit from the dual-level service.</p>
-                <small>Avanya | 23 years</small>
-                <div class="long-profile-btn">
-                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
-                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
-                </div>
-            </div>
-        </div>
-        <div class="long-profiles">
-            <div class="long-profile-img">
-            <a href="<?=get_url() ?>models/high-profile-escort-in-agra-kamayani.html"><img src="./images/kamayani  college escorts.png" width="100%" height="100%" loading="lazy" alt="A college escort girl wearing black dress"></a>
-            </div>
-            <div class="long-profile-txt">
-                <h3>Capture your dream of having a romance with a young college girl</h3>
-                <p class="just-two-line">Why do you feel tired and want to access real-time enjoyment?  I kamayani is a dedicated call girl living in the tourist hub of Agra. I have the full command of how to treat the lustful man. Now, you do not mind more what you ask for the sexual urge. I am always ready to provide you the invincible sexual sensation.?</p>
-                <small>kamayani | 24 years</small>
-                <div class="long-profile-btn">
-                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
-                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
-                </div>
-            </div>
-        </div>
-        <div class="long-profiles">
-            <div class="long-profile-img">
-            <a href="<?=get_url() ?>models/independent-escort-service-in-agra.html"><img src="./images/Ritika idependent girl.png" width="100%" height="100%" loading="lazy" alt="A independent escort girl sitting on the sofa wearing black dress showing her big boobs"></a>
-            </div>
-            <div class="long-profile-txt">
-                <h3>Appealing of the Independent escort to absorb in happiness aura</h3>
-                <p class="just-two-line">Hi, young guys, I am Ritika for providing your external affairs service and does not let you tense for establishing a personal relationship.  Since I love to meet with a young buddy, I work as an independent escort in Agra.</p>
-                <small>Ritika | 27 years</small>
-                <div class="long-profile-btn">
-                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
-                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
-                </div>
-            </div>
-        </div>
-        <div class="long-profiles">
-            <div class="long-profile-img">
-            <a href="<?=get_url() ?>models/best-punjabi-call-girl-in-agra.html"><img src="./images/jasleen Kaur call girl service.png" width="100%" height="100%" loading="lazy" alt="a hot punjabi call girl wearing blue coat looking sexy and beautiful"></a>
-            </div>
-            <div class="long-profile-txt">
-                <h3>Book Hot Independent escort for experiencing the delightful experience</h3>
-                <p class="just-two-line">I am jasleen Kaur, and want to meet everyone to take different actions. I am the relaxing feeling of intimating with a lustful person. Do not feel degraded as you are looking forward to the pampering of the pleasing girl. My naughty body is always in the condition to begin the sensual body part.</p>
-                <small>jasleen Kaur | 25 years</small>
-                <div class="long-profile-btn">
-                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
-                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
-                </div>
-            </div>
-        </div>
-        <div class="long-profiles">
-            <div class="long-profile-img">
-            <a href="<?=get_url() ?>models/mature-housewife-escort-near-agra.html"><img src="./images/Anshiat pandey escorts service.png" width="100%" height="100%" loading="lazy" alt="A russian escort girl sitting on a chair wearing black dress"></a>
-            </div>
-            <div class="long-profile-txt">
-                <h3>Remove your all stress by booking my house escort service in Agra</h3>
-                <p class="just-two-line">I am Anshiat pandey, and people referred to me as the reedy cheek and bouncy personality for securing ultimate pleasure.  I am a housewife, and my age is 35 years, and know the real meaning of intimacy. ?</p>
-                <small>Anshiat pandey | 35 years</small>
-                <div class="long-profile-btn">
-                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
-                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
-                </div>
-            </div>
-        </div>
-        <div class="long-profiles">
-            <div class="long-profile-img">
-            <a href="<?=get_url() ?>models/akannki-is-a-premium-mature-milf.html"><img src="./images/Akannki housewife call girl.png" width="100%" height="100%" loading="lazy" alt="A Housewife escort girl standing near mirror taking phone and she is wearing creem color dress"></a>
-            </div>
-            <div class="long-profile-txt">
-                <h3>Conduct your romance trip with an affluent housewife escort In Agra </h3>
-                <p class="just-two-line">Feeling the romance vibes is the choice of everyone. If so, then you should connect with me. By the way, you can call me your sweetheart as you keep the desire to make the relationship with me.  People know me as the Akannki for catering to your physical needs.  </p>
-                <small>Akannki | 23 years</small>
-                <div class="long-profile-btn">
-                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
-                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
-                </div>
-            </div>
-        </div>
-        <div class="long-profiles">
-            <div class="long-profile-img">
-            <a href="<?=get_url() ?>models/best-model-escort-in-agra.html"><img src="./images/Afsana model call girl service.png" width="100%" height="100%" loading="lazy" alt="A russian model escort red bickney standing near pool"></a>
-            </div>
-            <div class="long-profile-txt">
-                <h3>Get the amazing sensual experience in the lap of a Model escort in Agra</h3>
-                <p class="just-two-line">I am Afsana, and have a curiosity about the lustful person. I love to like how my hot body helps provide you with the most suitable loving experience. Do not run towards the general girls as they do not perfect puppets for feeding your fantasy requirement. If you can expand your budget more, then you can hire me to cater to your physical desire. I never disappoint you when it comes to making a relationship.  ?</p>
-                <small>Afsana | 27 years</small>
-                <div class="long-profile-btn">
-                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
-                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
-                </div>
-            </div>
-        </div>
-        <div class="long-profiles">
-            <div class="long-profile-img">
-            <a href="<?=get_url() ?>models/agra-escort-service-provider-anastasia.html"><img src="./images/Puja model call girl.png" width="100%" height="100%" loading="lazy" alt="A Model escort girl sitting on the chair wearing black nighty dress"></a>
-            </div>
-            <div class="long-profile-txt">
-                <h3>Accept the treatment of Agra Model escort to expose the best sensual version</h3>
-                <p class="just-two-line">I am Puja, and like to glaze on the upper surface of the lustful person. I have a concise feeling about how to please their customer. My good-looking and bold personality lets you align how to serve you better. Since my appealing body lets you do more, I am always curious about romantic experiences as well.</p>
-                <small>Puja | 25 years</small>
-                <div class="long-profile-btn">
-                    <a href="tel:<?= $phone_number ?>"><button>Call Now</button></a>
-                    <a href="https://wa.me/<?= $phone_number ?>"><button>Whatsapp</button></a>
-                </div>
-            </div>
-        </div>
+    <!-- </div> -->
 
 
+<!-- PROFLES -->
 
         <h2>How can a high-profile escort be different from another escort?</h2>
         <p>Do not let the multiple love conditions at same. By the way, our hot babe knows better how to serve you well. Insight on some facts.</p>
@@ -487,40 +458,40 @@ $phone_number = 0000000000;
         });
     </script>
     <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [{
-    "@type": "Question",
-    "name": "How can you book call girls in Agra?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Booking call girls in Agra is not a tricky process and you should land on the relative websites. Click on the profile of your favorite actor and book their service in one mouse click."
-    }
-  },{
-    "@type": "Question",
-    "name": "What are the rates of the Agra call girls?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "The rate for call girls in Agar is not the same. It depends on various key factors what model and how long time to conduct the intercourse session."
-    }
-  },{
-    "@type": "Question",
-    "name": "Is it safe to hire call girls In Agra?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Hiring the call girls in Agra would be great if you have the full investigation regarding this service. Otherwise, you might come in the cop's company."
-    }
-  },{
-    "@type": "Question",
-    "name": "What types of Agra escort service provide you?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "While you are looking forward the Agra escort service, you can find the service page. Here, you can gain oral sex and other related service as well."
-    }
-  }]
-}
-</script>
+        {
+            "@context": "https://schema.org",
+            "@type": "FAQPage",
+            "mainEntity": [{
+                "@type": "Question",
+                "name": "How can you book call girls in Agra?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Booking call girls in Agra is not a tricky process and you should land on the relative websites. Click on the profile of your favorite actor and book their service in one mouse click."
+                }
+            }, {
+                "@type": "Question",
+                "name": "What are the rates of the Agra call girls?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "The rate for call girls in Agar is not the same. It depends on various key factors what model and how long time to conduct the intercourse session."
+                }
+            }, {
+                "@type": "Question",
+                "name": "Is it safe to hire call girls In Agra?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Hiring the call girls in Agra would be great if you have the full investigation regarding this service. Otherwise, you might come in the cop's company."
+                }
+            }, {
+                "@type": "Question",
+                "name": "What types of Agra escort service provide you?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "While you are looking forward the Agra escort service, you can find the service page. Here, you can gain oral sex and other related service as well."
+                }
+            }]
+        }
+    </script>
 </body>
 
 </html>
