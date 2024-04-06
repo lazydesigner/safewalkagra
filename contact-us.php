@@ -238,7 +238,7 @@
                             <div><?= $whatsapp ?></div><b>Whatsapp: </b> <?= $phone_number ?>
                         </div>
                         <div class="contact-info-flex">
-                            <div><?= $email ?></div><b>Email: </b> sramanarora7869@gmail.com
+                            <div><?= $email ?></div><b>Email: </b> ramanarora7869@gmail.com
                         </div>
                     </div>
                 </div>
