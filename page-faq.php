@@ -71,29 +71,38 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
     <div class="container">
         <div class="faq">
             <div class="faq-question">
-                <p>1. What are the advantages of independence?</p>
+                <p>1. How can you book call girls in Agra?</p>
                 <div class="faq-arrow"><?=$faq_arrow ?></div>
             </div>
             <div class="faq-answer">
-                <p>Your hours are more freely chosen. You are free to set your own conditions and speak with clients before they visit you.</p>
+                <p>Booking call girls in Agra is not a tricky process and you should land on the relative websites. Click on the profile of your favorite actor and book their service in one mouse click.</p>
             </div>
         </div>
         <div class="faq">
             <div class="faq-question">
-                <p>2. How can I be certain that an authentic independent escort will provide me with an enjoyable experience?</p>
+                <p>2. What are the rates of the Agra call girls?</p>
                 <div class="faq-arrow"><?=$faq_arrow ?></div>
             </div>
             <div class="faq-answer">
-                <p>Only the profiles that are displayed on my personal website are those of actual, independent escorts. You can tell how well-qualified they are by the way they communicate and handle their clients. The majority of them are employed professionals.</p>
+                <p>The rate for call girls in Agar is not the same. It depends on various key factors what model and how long time to conduct the intercourse session.</p>
             </div>
         </div>
         <div class="faq">
             <div class="faq-question">
-                <p>3. Will I receive the exact profile I selected?</p>
+                <p>3. Is it safe to hire call girls In Agra?</p>
                 <div class="faq-arrow"><?=$faq_arrow ?></div>
             </div>
             <div class="faq-answer">
-                <p>Please refrain from equating my services with those of any cheap escorts agency. I exclusively work with upper-class individuals, and I have many happy, loyal clients all across the city.</p>
+                <p>Hiring the call girls in Agra would be great if you have the full investigation regarding this service. Otherwise, you might come in the cop's company.</p>
+            </div>
+        </div>
+        <div class="faq">
+            <div class="faq-question">
+                <p>4. What types of Agra escort service provide you?</p>
+                <div class="faq-arrow"><?=$faq_arrow ?></div>
+            </div>
+            <div class="faq-answer">
+                <p>While you are looking forward the Agra escort service, you can find the service page. Here, you can gain oral sex and other related service as well.</p>
             </div>
         </div>
     </div>
