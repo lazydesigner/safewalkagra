@@ -46,7 +46,7 @@
         .price {
             width: 100%;
             height: 800px;
-            background-image: url('../images/charmy.webp');
+            background-image: url('../images/High profile models.webp');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% auto;
@@ -224,6 +224,10 @@
 
             /* grid-template-rows: auto; */
         }
+        .profile-image p{
+            font-size: 1.1rem;
+            line-height: 25px;
+        }
 
         .pro-images {
             width: auto;
@@ -244,7 +248,7 @@
     <div class="safewalkheading">
         <div class="video-below-text">
             <div class="below-text">
-                <h1>Profiles</h1>
+                <p>Profiles</p>
                 <p>Call Us For further details</p>
             </div>
             <div class="below-button">
@@ -277,6 +281,10 @@
                         </div>
                     </div>
                 </div>
+                <h1><a href="<?= get_url() ?>gallery">Join the company of Russian escort to make your day much different</a></h1>
+                                <p>I am Julia, and fall in the Russian category.  I know this fact that I am awaiting personality for many horny guys how to explore more happiness in their life. I am your ideal partner if you are looking forward to adorable and soft-touch hot call girls to fulfill your fetish dream. I am quite young and hold the full-fledged stamina to bear the sensual pleasure of many people.  So, you do not extend your sexual pleasure desire anymore as I know the genuine hack how to please the concerned person in no time. Now, that you are not restless how can you find real enjoyment in your personal life?</p><p>
+ I am your dream baby doll, and provide you with the best service you ever thought. Conquering your fetish wish is not my cup of tea, and that’s why I chose this professional to give the utmost happiness to you. There is no need to hear the tantrums of the general-purpose girls as I have a wide range of sensual actions. I am working as an independent escort in Agar for VIP customers.  Call us today.
+</p>
             </div>
             <div class="profile-details">
                 <a href="<?= get_url() ?>booking"><button class="profile-btn">BOOK NOW</button></a>
@@ -337,15 +345,12 @@
                             <td>FULL NIGHT 3 SESSIONS</td>
                             <td>35,000</td>
                         </tr>
-                        <tr>
+                        <!-- <tr>
                             <td colspan="2">
                                 <div style="margin: 4% 0;"><b>Service:</b></div>
-                                <a href="<?= get_url() ?>gallery">Join the company of Russian escort to make your day much different</a>
-                                <p>I am Julia, and fall in the Russian category.  I know this fact that I am awaiting personality for many horny guys how to explore more happiness in their life. I am your ideal partner if you are looking forward to adorable and soft-touch hot call girls to fulfill your fetish dream. I am quite young and hold the full-fledged stamina to bear the sensual pleasure of many people.  So, you do not extend your sexual pleasure desire anymore as I know the genuine hack how to please the concerned person in no time. Now, that you are not restless how can you find real enjoyment in your personal life?</p><p>
- I am your dream baby doll, and provide you with the best service you ever thought. Conquering your fetish wish is not my cup of tea, and that’s why I chose this professional to give the utmost happiness to you. There is no need to hear the tantrums of the general-purpose girls as I have a wide range of sensual actions. I am working as an independent escort in Agar for VIP customers.  Call us today.
-</p>
+                                
                             </td>
-                        </tr>
+                        </tr> -->
                     </table>
                 </div>
             </div>

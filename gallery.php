@@ -82,7 +82,7 @@
         .price {
             width: 100%;
             height: 800px;
-            /* background-image: url('../images/charmy.webp'); */
+            background-image: url('../images/High profile models.webp');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% auto;

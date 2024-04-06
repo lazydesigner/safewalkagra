@@ -46,7 +46,7 @@
         .price {
             width: 100%;
             height: 800px;
-            background-image: url('../images/charmy.webp');
+            background-image: url('../images/High profile models.webp');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% auto;
@@ -224,6 +224,10 @@
 
             /* grid-template-rows: auto; */
         }
+        .profile-image p{
+            font-size: 1.1rem;
+            line-height: 25px;
+        }
 
         .pro-images {
             width: auto;
@@ -244,7 +248,7 @@
     <div class="safewalkheading">
         <div class="video-below-text">
             <div class="below-text">
-                <h1>Profiles</h1>
+                <p>Profiles</p>
                 <p>Call Us For further details</p>
             </div>
             <div class="below-button">
@@ -277,6 +281,10 @@
                         </div>
                     </div>
                 </div>
+                <h1><a href="<?= get_url() ?>gallery"> Book Hot Independent escort for experiencing the delightful experience</a></h1>
+                                <p>I am jasleen Kaur, and want to meet everyone to take different actions. I am the relaxing feeling of intimating with a lustful person. Do not feel degraded as you are looking forward to the pampering of the pleasing girl. My naughty body is always in the condition to begin the sensual body part. It does not matter whether the body part shows the proper affection for this or not. I am active in all actions. So, you are not upset about this concern how do I do this for real-time enjoyment?  Apart from this, I am your perfect match as you like to share something with me. </p><p>
+Since pleasing the souls of my customers is my vision, I learned this skill by heart and how to offer this action to the desired customer.  I would love to give you a sensual treat whenever you like this. I act as the different escort profile as I have to provide it for real-time enjoyment. I am highly obliged to you as you take my service for real enjoyment. I bet you that you are in the epicure to more sensual love.
+</p>
             </div>
             <div class="profile-details">
                 <a href="<?= get_url() ?>booking"><button class="profile-btn">BOOK NOW</button></a>
@@ -337,15 +345,12 @@
                             <td>FULL NIGHT 3 SESSIONS</td>
                             <td>35,000</td>
                         </tr>
-                        <tr>
+                        <!-- <tr>
                             <td colspan="2">
                                 <div style="margin: 4% 0;"><b>Service:</b></div>
-                                <a href="<?= get_url() ?>gallery"> Book Hot Independent escort for experiencing the delightful experience</a>
-                                <p>I am jasleen Kaur, and want to meet everyone to take different actions. I am the relaxing feeling of intimating with a lustful person. Do not feel degraded as you are looking forward to the pampering of the pleasing girl. My naughty body is always in the condition to begin the sensual body part. It does not matter whether the body part shows the proper affection for this or not. I am active in all actions. So, you are not upset about this concern how do I do this for real-time enjoyment?  Apart from this, I am your perfect match as you like to share something with me. </p><p>
-Since pleasing the souls of my customers is my vision, I learned this skill by heart and how to offer this action to the desired customer.  I would love to give you a sensual treat whenever you like this. I act as the different escort profile as I have to provide it for real-time enjoyment. I am highly obliged to you as you take my service for real enjoyment. I bet you that you are in the epicure to more sensual love.
-</p>
+                                
                             </td>
-                        </tr>
+                        </tr> -->
                     </table>
                 </div>
             </div>

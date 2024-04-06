@@ -46,7 +46,7 @@
         .price {
             width: 100%;
             height: 800px;
-            background-image: url('../images/charmy.webp');
+            background-image: url('../images/High profile models.webp');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% auto;
@@ -224,6 +224,10 @@
 
             /* grid-template-rows: auto; */
         }
+        .profile-image p{
+            font-size: 1.1rem;
+            line-height: 25px;
+        }
 
         .pro-images {
             width: auto;
@@ -244,7 +248,7 @@
     <div class="safewalkheading">
         <div class="video-below-text">
             <div class="below-text">
-                <h1>Profiles</h1>
+                <p>Profiles</p>
                 <p>Call Us For further details</p>
             </div>
             <div class="below-button">
@@ -277,6 +281,9 @@
                         </div>
                     </div>
                 </div>
+                <h1><a href="<?= get_url() ?>gallery">Spend quality with the Agra College going escort for a nonstop sensual experience</a></h1>
+                                <p>Do not think you as you a useless person as your spouse and loving girlfriend leave your company.  I, Avanya, am doing my graduation in Bachelor of Science from Agra College University. But, I become sad as I Become alone. To get the right solution to the problem, I become a part-time employee of the resulting escort agency. After engaging in this service, I can benefit from the dual-level service.  I have the independence to earn some extra cash along with meeting new gentlemen and young age boys. I am open-minded minded to ready to serve you the fetish service from top to bottom level.  So, you are free to explore your sensual choice, and I never regret to you this purpose.</p><p>
+My naughty nature draws your attention toward me. So, you cannot prohibit yourself from stretching the unreligious affair with me.  No matter what time you book my erotic massage service, I never let you deprive you of loving expression.  Instead of moving here and there, you can hit your booking with my picture. I provide you the real enjoyment of life.</p>
             </div>
             <div class="profile-details">
                 <a href="<?= get_url() ?>booking"><button class="profile-btn">BOOK NOW</button></a>
@@ -337,15 +344,12 @@
                             <td>FULL NIGHT 3 SESSIONS</td>
                             <td>35,000</td>
                         </tr>
-                        <tr>
+                        <!-- <tr>
                             <td colspan="2">
                                 <div style="margin: 4% 0;"><b>Service:</b></div>
-                                <a href="<?= get_url() ?>gallery">Spend quality with the Agra College going escort for a nonstop sensual experience</a>
-                                <p>Do not think you as you a useless person as your spouse and loving girlfriend leave your company.  I, Avanya, am doing my graduation in Bachelor of Science from Agra College University. But, I become sad as I Become alone. To get the right solution to the problem, I become a part-time employee of the resulting escort agency. After engaging in this service, I can benefit from the dual-level service.  I have the independence to earn some extra cash along with meeting new gentlemen and young age boys. I am open-minded minded to ready to serve you the fetish service from top to bottom level.  So, you are free to explore your sensual choice, and I never regret to you this purpose.</p><p>
-My naughty nature draws your attention toward me. So, you cannot prohibit yourself from stretching the unreligious affair with me.  No matter what time you book my erotic massage service, I never let you deprive you of loving expression.  Instead of moving here and there, you can hit your booking with my picture. I provide you the real enjoyment of life.
-</p>
+                                
                             </td>
-                        </tr>
+                        </tr> -->
                     </table>
                 </div>
             </div>

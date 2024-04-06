@@ -43,7 +43,7 @@ RewriteRule ^blogs/safewalk-agra-and-other-agencies.html([/]?)$ blogs/safewalk-a
 RewriteRule ^blogs/how-vip-escort-service-will-give-full-satisfaction.html([/]?)$ blogs/how-vip-escort-service-will-give-full-satisfaction.php [NC,L]
 
 #PROFILES
-RewriteRule ^models/agra-escort-service-provider-puja.html([/]?)$ profiles/agra-escort-service-provider-puja.php [NC,L]         
+RewriteRule ^models/agra-escort-service-provider-anastasia.html([/]?)$ profiles/agra-escort-service-provider-puja.php [NC,L]         
 RewriteRule ^models/akannki-is-a-premium-mature-milf.html([/]?)$ profiles/akannki-is-a-premium-mature-milf.php [NC,L]         
 RewriteRule ^models/avanya-college-escort-in-agra.html([/]?)$ profiles/avanya-college-escort-in-agra.php [NC,L]         
 RewriteRule ^models/best-model-escort-in-agra.html([/]?)$ profiles/best-model-escort-in-agra.php [NC,L]         

@@ -46,7 +46,7 @@
         .price {
             width: 100%;
             height: 800px;
-            background-image: url('../images/charmy.webp');
+            background-image: url('../images/High profile models.webp');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% auto;
@@ -224,6 +224,10 @@
 
             /* grid-template-rows: auto; */
         }
+        .profile-image p{
+            font-size: 1.1rem;
+            line-height: 25px;
+        }
 
         .pro-images {
             width: auto;
@@ -244,7 +248,7 @@
     <div class="safewalkheading">
         <div class="video-below-text">
             <div class="below-text">
-                <h1>Profiles</h1>
+                <p>Profiles</p>
                 <p>Call Us For further details</p>
             </div>
             <div class="below-button">
@@ -277,6 +281,10 @@
                         </div>
                     </div>
                 </div>
+                <h1><a href="<?= get_url() ?>gallery">Remove your all stress by booking my housewife escort service in Agra</a></h1>
+                                <p>I am Anshiat pandey, and people referred to me as the reedy cheek and bouncy personality for securing ultimate pleasure.  I am a housewife, and my age is 35 years, and know the real meaning of intimacy. So, there is a rare chance to get a blank experience as you hire me for your attachment and affection. What if you do as you can shift your deed for making the relationship? I am your evergreen and loving partner to feed your desire.</p><p>
+Since I give the sensual dose every day, I claim to give you a happy experience at any cost.  Nevertheless, you are in the condition to change your mindset for exploring the never-ending fun. With the company of me, you do not bother achieving the personal affair is not bad for you. No matter what coding you ask, I never violate for you. I know this fact giving the ultimate pleasure to your soul is the final accountability.
+</p>
             </div>
             <div class="profile-details">
                 <a href="<?= get_url() ?>booking"><button class="profile-btn">BOOK NOW</button></a>
@@ -337,15 +345,12 @@
                             <td>FULL NIGHT 3 SESSIONS</td>
                             <td>35,000</td>
                         </tr>
-                        <tr>
+                        <!-- <tr>
                             <td colspan="2">
                                 <div style="margin: 4% 0;"><b>Service:</b></div>
-                                <a href="<?= get_url() ?>gallery">Remove your all stress by booking my housewife escort service in Agra</a>
-                                <p>I am Anshiat pandey, and people referred to me as the reedy cheek and bouncy personality for securing ultimate pleasure.  I am a housewife, and my age is 35 years, and know the real meaning of intimacy. So, there is a rare chance to get a blank experience as you hire me for your attachment and affection. What if you do as you can shift your deed for making the relationship? I am your evergreen and loving partner to feed your desire.</p><p>
-Since I give the sensual dose every day, I claim to give you a happy experience at any cost.  Nevertheless, you are in the condition to change your mindset for exploring the never-ending fun. With the company of me, you do not bother achieving the personal affair is not bad for you. No matter what coding you ask, I never violate for you. I know this fact giving the ultimate pleasure to your soul is the final accountability.
-</p>
+                                
                             </td>
-                        </tr>
+                        </tr> -->
                     </table>
                 </div>
             </div>

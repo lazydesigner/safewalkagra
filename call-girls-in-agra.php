@@ -355,7 +355,7 @@ $phone_number = 0000000000;
         </div>
         <div class="long-profiles">
             <div class="long-profile-img">
-            <a href="<?=get_url() ?>models/agra-escort-service-provider-puja.html"><img src="./images/Puja model call girl.png" width="100%" height="100%" loading="lazy" alt="A Model escort girl sitting on the chair wearing black nighty dress"></a>
+            <a href="<?=get_url() ?>models/agra-escort-service-provider-anastasia.html"><img src="./images/Puja model call girl.png" width="100%" height="100%" loading="lazy" alt="A Model escort girl sitting on the chair wearing black nighty dress"></a>
             </div>
             <div class="long-profile-txt">
                 <h3>Accept the treatment of Agra Model escort to expose the best sensual version</h3>

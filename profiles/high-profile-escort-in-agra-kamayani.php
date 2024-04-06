@@ -46,7 +46,7 @@
         .price {
             width: 100%;
             height: 800px;
-            background-image: url('../images/charmy.webp');
+            background-image: url('../images/High profile models.webp');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% auto;
@@ -224,6 +224,10 @@
 
             /* grid-template-rows: auto; */
         }
+        .profile-image p{
+            font-size: 1.1rem;
+            line-height: 25px;
+        }
 
         .pro-images {
             width: auto;
@@ -244,7 +248,7 @@
     <div class="safewalkheading">
         <div class="video-below-text">
             <div class="below-text">
-                <h1>Profiles</h1>
+                <p>Profiles</p>
                 <p>Call Us For further details</p>
             </div>
             <div class="below-button">
@@ -275,6 +279,10 @@
                         <div class="img-c"></div>
                     </div> -->
                 </div>
+                <h1><a href="<?= get_url() ?>gallery">Capture your dream of having a romance with a young college girl</a></h1>
+                                <p>Why do you feel tired and want to access real-time enjoyment?  I kamayani is a dedicated call girl living in the tourist hub of Agra. I have the full command of how to treat the lustful man. Now, you do not mind more what you ask for the sexual urge. I am always ready to provide you the invincible sexual sensation. As a result, you never sit in the imagination about how a particular action is completed in the dedicated time.  I have a bold desire and looking forward to having a happy moment with this particular man. When you gaze at my body, you do not have a valid reason to say no to causal relationship concerns. I am in this escort professional with my internal permission.</p><p> 
+I am quite happy that my hot body has the full stamina to hear sensual urges. So, you never discourage your intimate actions anymore. I am your true partner to cater to your emotions and never put you in a suspicious condition. MY red cheek is anxious about to treat you the well service. Book my service as quick as you can.
+</p>
             </div>
             <div class="profile-details">
                 <a href="<?= get_url() ?>booking"><button class="profile-btn">BOOK NOW</button></a>
@@ -335,15 +343,12 @@
                             <td>FULL NIGHT 3 SESSIONS</td>
                             <td>35,000</td>
                         </tr>
-                        <tr>
+                        <!-- <tr>
                             <td colspan="2">
                                 <div style="margin: 4% 0;"><b>Service:</b></div>
-                                <a href="<?= get_url() ?>gallery">Capture your dream of having a romance with a young college girl</a>
-                                <p>Why do you feel tired and want to access real-time enjoyment?  I kamayani is a dedicated call girl living in the tourist hub of Agra. I have the full command of how to treat the lustful man. Now, you do not mind more what you ask for the sexual urge. I am always ready to provide you the invincible sexual sensation. As a result, you never sit in the imagination about how a particular action is completed in the dedicated time.  I have a bold desire and looking forward to having a happy moment with this particular man. When you gaze at my body, you do not have a valid reason to say no to causal relationship concerns. I am in this escort professional with my internal permission.</p><p> 
-I am quite happy that my hot body has the full stamina to hear sensual urges. So, you never discourage your intimate actions anymore. I am your true partner to cater to your emotions and never put you in a suspicious condition. MY red cheek is anxious about to treat you the well service. Book my service as quick as you can.
-</p>
+                                
                             </td>
-                        </tr>
+                        </tr> -->
                     </table>
                 </div>
             </div>

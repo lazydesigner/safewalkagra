@@ -46,7 +46,7 @@
         .price {
             width: 100%;
             height: 800px;
-            background-image: url('../images/charmy.webp');
+            background-image: url('../images/High profile models.webp');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% auto;
@@ -224,6 +224,10 @@
 
             /* grid-template-rows: auto; */
         }
+        .profile-image p{
+            font-size: 1.1rem;
+            line-height: 25px;
+        }
 
         .pro-images {
             width: auto;
@@ -244,7 +248,7 @@
     <div class="safewalkheading">
         <div class="video-below-text">
             <div class="below-text">
-                <h1>Profiles</h1>
+                <p>Profiles</p>
                 <p>Call Us For further details</p>
             </div>
             <div class="below-button">
@@ -277,6 +281,10 @@
                         </div>
                     </div>
                 </div>
+                <h1><a href="<?= get_url() ?>models/independent-escort-service-in-agra.htmlgallery">Best russian escorts in Agra</a></h1>
+                                <p>Hi, young guys, I am Ritika for providing your external affairs service and does not let you tense for establishing a personal relationship.  Since I love to meet with a young buddy, I work as an independent escort in Agra. I am 27 age, and conduct personal meetings with various guys to provide the love-making session. So, you can book my hot erotic massage and experience how you can feel better. Do not mislead with the word independent as you have full confidence in how to please the concerned customers in no time. I am affluent to play the erotic game with the different types of sexual poses. </p><p>
+While making the sexual commitment to get rid of the anxiety, you are bound to achieve the first-class fetish experience. Nothing is impossible in the sexual commitment service as you gauge what you are looking for.  So, you do not need to give extra sessions on how can you access the best service. I know the intention behind the hiring of the escort service and offer you the same class service. I look like the perfect companion how can you enjoy the BDSM companion? Contact us today to book your sensual slots.
+</p>
             </div>
             <div class="profile-details">
                 <a href="<?= get_url() ?>models/independent-escort-service-in-agra.htmlbooking"><button class="profile-btn">BOOK NOW</button></a>
@@ -337,15 +345,12 @@
                             <td>FULL NIGHT 3 SESSIONS</td>
                             <td>35,000</td>
                         </tr>
-                        <tr>
+                        <!-- <tr>
                             <td colspan="2">
                                 <div style="margin: 4% 0;"><b>Service:</b></div>
-                                <a href="<?= get_url() ?>models/independent-escort-service-in-agra.htmlgallery">Best russian escorts in Agra</a>
-                                <p>Hi, young guys, I am Ritika for providing your external affairs service and does not let you tense for establishing a personal relationship.  Since I love to meet with a young buddy, I work as an independent escort in Agra. I am 27 age, and conduct personal meetings with various guys to provide the love-making session. So, you can book my hot erotic massage and experience how you can feel better. Do not mislead with the word independent as you have full confidence in how to please the concerned customers in no time. I am affluent to play the erotic game with the different types of sexual poses. </p><p>
-While making the sexual commitment to get rid of the anxiety, you are bound to achieve the first-class fetish experience. Nothing is impossible in the sexual commitment service as you gauge what you are looking for.  So, you do not need to give extra sessions on how can you access the best service. I know the intention behind the hiring of the escort service and offer you the same class service. I look like the perfect companion how can you enjoy the BDSM companion? Contact us today to book your sensual slots.
-</p>
+                                
                             </td>
-                        </tr>
+                        </tr> -->
                     </table>
                 </div>
             </div>

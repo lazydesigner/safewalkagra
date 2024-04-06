@@ -1,7 +1,7 @@
 <div class="header-email">
         <div class="container">
-            <a href="exaple@gmail.com">example2001@gmail.com</a>
-            <a href="tel:+91 000 000 0000">+91 000 000 0000</a>
+            <a href="exaple@gmail.com">ramanarora7869@gmail.com</a>
+            <a href="tel:+91 000 000 0000"><?=$phone_number ?></a>
         </div>
     </div>
     <nav class="nav" id="nav">

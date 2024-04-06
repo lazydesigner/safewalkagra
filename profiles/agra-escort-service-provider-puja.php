@@ -46,7 +46,7 @@
         .price {
             width: 100%;
             height: 800px;
-            background-image: url('../images/charmy.webp');
+            background-image: url('../images/High profile models.webp');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% auto;
@@ -146,6 +146,10 @@
         .profile-image {
             width: 65%;
         }
+        .profile-image p{
+            font-size: 1.1rem;
+            line-height: 25px;
+        }
 
         .profile-details {
             width: 45%;
@@ -244,7 +248,7 @@
     <div class="safewalkheading">
         <div class="video-below-text">
             <div class="below-text">
-                <h1>Profiles</h1>
+                <p>Profiles</p>
                 <p>Call Us For further details</p>
             </div>
             <div class="below-button">
@@ -277,6 +281,8 @@
                         </div>
                     </div>
                 </div>
+                <h1><a href="<?= get_url() ?>gallery">Accept the treatment of Agra Model escort to expose the best sensual version </a></h1>
+                                <p>I am Puja, and like to glaze on the upper surface of the lustful person. I have a concise feeling about how to please their customer. My good-looking and bold personality lets you align how to serve you better. Since my appealing body lets you do more, I am always curious about romantic experiences as well. Do not have the negative feelings as I am not complete in beauty. By the way, you can hire me as a dating partner. In this way, you can be free from loneliness feeling. No matter how long you pursue your love relationship, you can enjoy the jovial experience with all sensual actions.  I have learned all major erotic practices to bring you in a good mood.  So, I assure you that you never fed up with my soul-pleasing skill. I am committed to providing you the full enjoyment at any cost.</p>
             </div>
             <div class="profile-details">
                 <a href="<?= get_url() ?>booking"><button class="profile-btn">BOOK NOW</button></a>
@@ -337,13 +343,12 @@
                             <td>FULL NIGHT 3 SESSIONS</td>
                             <td>35,000</td>
                         </tr>
-                        <tr>
+                        <!-- <tr>
                             <td colspan="2">
                                 <div style="margin: 4% 0;"><b>Service:</b></div>
-                                <a href="<?= get_url() ?>gallery">Accept the treatment of Agra Model escort to expose the best sensual version </a>
-                                <p>I am Puja, and like to glaze on the upper surface of the lustful person. I have a concise feeling about how to please their customer. My good-looking and bold personality lets you align how to serve you better. Since my appealing body lets you do more, I am always curious about romantic experiences as well. Do not have the negative feelings as I am not complete in beauty. By the way, you can hire me as a dating partner. In this way, you can be free from loneliness feeling. No matter how long you pursue your love relationship, you can enjoy the jovial experience with all sensual actions.  I have learned all major erotic practices to bring you in a good mood.  So, I assure you that you never fed up with my soul-pleasing skill. I am committed to providing you the full enjoyment at any cost.</p>
+                               
                             </td>
-                        </tr>
+                        </tr> -->
                     </table>
                 </div>
             </div>

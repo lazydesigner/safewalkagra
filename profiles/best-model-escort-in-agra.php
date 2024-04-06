@@ -46,7 +46,7 @@
         .price {
             width: 100%;
             height: 800px;
-            background-image: url('../images/charmy.webp');
+            background-image: url('../images/High profile models.webp');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% auto;
@@ -224,6 +224,10 @@
 
             /* grid-template-rows: auto; */
         }
+        .profile-image p{
+            font-size: 1.1rem;
+            line-height: 25px;
+        }
 
         .pro-images {
             width: auto;
@@ -244,7 +248,7 @@
     <div class="safewalkheading">
         <div class="video-below-text">
             <div class="below-text">
-                <h1>Profiles</h1>
+                <p>Profiles</p>
                 <p>Call Us For further details</p>
             </div>
             <div class="below-button">
@@ -277,6 +281,10 @@
                         </div>
                     </div>
                 </div>
+                <h1><a href="<?= get_url() ?>gallery">Get the amazing sensual experience in the lap of a Model escort in Agra</a></h1>
+                                <p>I am Afsana, and have a curiosity about the lustful person. I love to like how my hot body helps provide you with the most suitable loving experience. Do not run towards the general girls as they do not perfect puppets for feeding your fantasy requirement. If you can expand your budget more, then you can hire me to cater to your physical desire. I never disappoint you when it comes to making a relationship.  I am a well-trained whore who to full the hidden sexual desire of particular men. I am a certified model escort to please your unsaturated mind.</p><p>
+I am confident that provide you the all-time satisfaction for exposing your sensual appearance.  Now, you do not regret hiring me is not a bad bargain for you.  The sole attention is provided to provide you to top-to-bottom level satisfaction. I take the nominal charge for this purpose as respecting your sensual demand is your priority.
+</p>
             </div>
             <div class="profile-details">
                 <a href="<?= get_url() ?>booking"><button class="profile-btn">BOOK NOW</button></a>
@@ -337,15 +345,12 @@
                             <td>FULL NIGHT 3 SESSIONS</td>
                             <td>35,000</td>
                         </tr>
-                        <tr>
+                        <!-- <tr>
                             <td colspan="2">
                                 <div style="margin: 4% 0;"><b>Service:</b></div>
-                                <a href="<?= get_url() ?>gallery">Get the amazing sensual experience in the lap of a Model escort in Agra</a>
-                                <p>I am Afsana, and have a curiosity about the lustful person. I love to like how my hot body helps provide you with the most suitable loving experience. Do not run towards the general girls as they do not perfect puppets for feeding your fantasy requirement. If you can expand your budget more, then you can hire me to cater to your physical desire. I never disappoint you when it comes to making a relationship.  I am a well-trained whore who to full the hidden sexual desire of particular men. I am a certified model escort to please your unsaturated mind.</p><p>
-I am confident that provide you the all-time satisfaction for exposing your sensual appearance.  Now, you do not regret hiring me is not a bad bargain for you.  The sole attention is provided to provide you to top-to-bottom level satisfaction. I take the nominal charge for this purpose as respecting your sensual demand is your priority.
-</p>
+                                
                             </td>
-                        </tr>
+                        </tr> -->
                     </table>
                 </div>
             </div>

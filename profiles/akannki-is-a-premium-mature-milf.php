@@ -46,7 +46,7 @@
         .price {
             width: 100%;
             height: 800px;
-            background-image: url('../images/charmy.webp');
+            background-image: url('../images/High profile models.webp');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% auto;
@@ -224,6 +224,10 @@
 
             /* grid-template-rows: auto; */
         }
+        .profile-image p{
+            font-size: 1.1rem;
+            line-height: 25px;
+        }
 
         .pro-images {
             width: auto;
@@ -244,7 +248,7 @@
     <div class="safewalkheading">
         <div class="video-below-text">
             <div class="below-text">
-                <h1>Profiles</h1>
+                <p>Profiles</p>
                 <p>Call Us For further details</p>
             </div>
             <div class="below-button">
@@ -277,6 +281,10 @@
                         </div>
                     </div>
                 </div>
+                <h1><a href="<?= get_url() ?>gallery"> Conduct your romance trip with an affluent housewife escort In Agra</a></h1>
+                                <p>Feeling the romance vibes is the choice of everyone. If so, then you should connect with me. By the way, you can call me your sweetheart as you keep the desire to make the relationship with me.  People know me as the Akannki for catering to your physical needs.  I have the affection to provide the imperative sensual behaviors that inspire you to do more sensual actions. Being a housewife and mother of two children, I know the art of pleasing several personas as I guess their erotic vibes. I provide you with the best foreplay action and bring you the zenith level of the sexual experience.</p><p>
+By the way, I choose the housewife escort service as I do not find satisfaction with my husband. Therefore, you have the surety to give the best version of sexual love. So, you do not dictate what the definition of a wow sexual experience is. Know the suitable hack and how to provide you with the most valuable service you to reduce your stress level.
+</p>
             </div>
             <div class="profile-details">
                 <a href="<?= get_url() ?>booking"><button class="profile-btn">BOOK NOW</button></a>
@@ -337,15 +345,12 @@
                             <td>FULL NIGHT 3 SESSIONS</td>
                             <td>35,000</td>
                         </tr>
-                        <tr>
+                        <!-- <tr>
                             <td colspan="2">
                                 <div style="margin: 4% 0;"><b>Service:</b></div>
-                                <a href="<?= get_url() ?>gallery"> Conduct your romance trip with an affluent housewife escort In Agra</a>
-                                <p>Feeling the romance vibes is the choice of everyone. If so, then you should connect with me. By the way, you can call me your sweetheart as you keep the desire to make the relationship with me.  People know me as the Akannki for catering to your physical needs.  I have the affection to provide the imperative sensual behaviors that inspire you to do more sensual actions. Being a housewife and mother of two children, I know the art of pleasing several personas as I guess their erotic vibes. I provide you with the best foreplay action and bring you the zenith level of the sexual experience.</p><p>
-By the way, I choose the housewife escort service as I do not find satisfaction with my husband. Therefore, you have the surety to give the best version of sexual love. So, you do not dictate what the definition of a wow sexual experience is. Know the suitable hack and how to provide you with the most valuable service you to reduce your stress level.
-</p>
+                                
                             </td>
-                        </tr>
+                        </tr> -->
                     </table>
                 </div>
             </div>

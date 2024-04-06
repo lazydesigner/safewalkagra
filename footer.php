@@ -4,7 +4,7 @@
                 <div class="get-in-touch">Get in Touch</div>
                 <div class="footer-col">
                     <p>NEWSLETTER</p>
-                    <small>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos non aliquam doloremque iste quaerat porro tempore veritatis maxime fuga assumenda?</small>
+                    <p>Join SafeWalka for exclusive updates, special offers, and insider tips. Sign up now at safewalkagra.com for safer adventures! </p>
                     <input type="email" name="" placeholder="Email Address" id="">
                 </div>
                 <div class="footer-col">
@@ -21,11 +21,11 @@
                 <div class="footer-col">
                     <p>CONTACT US</p>
                     <ul>
-                        <li>+91 000 000 0000</li>
-                        <li>example2001@gmail.com</li>
+                        <li><?=$phone_number ?></li>
+                        <li>ramanarora7869@gmail.com</li>
                     </ul>
                 </div>
-                <div class="footer-col">
+                <!-- <div class="footer-col">
                     <p>FOLLOW US</p>
                     <ul>
                         <li>INSTAGRAM</li>
@@ -33,9 +33,9 @@
                         <li>TWITTER</li>
                         <li>REDIT</li>
                         <li>PINTREST</li>
-                        <!-- <li></li> -->
+                        <li></li>
                     </ul>
-                </div>
+                </div> -->
             </div>
         </div>
         <div class="footer-bottom">

@@ -46,7 +46,7 @@
         .price {
             width: 100%;
             height: 800px;
-            background-image: url('../images/charmy.webp');
+            background-image: url('../images/High profile models.webp');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% auto;
@@ -146,6 +146,10 @@
         .profile-image {
             width: 65%;
         }
+        .profile-image p{
+            font-size: 1.1rem;
+            line-height: 25px;
+        }
 
         .profile-details {
             width: 45%;
@@ -244,7 +248,7 @@
     <div class="safewalkheading">
         <div class="video-below-text">
             <div class="below-text">
-                <h1>Profiles</h1>
+                <p>Profiles</p>
                 <p>Call Us For further details</p>
             </div>
             <div class="below-button">
@@ -277,6 +281,9 @@
                         </div>
                     </div>
                 </div>
+                <h1><a href="<?= get_url() ?>gallery"> Chase your erotic dream with super active Russian escort performer</a></h1>
+                                <p>Are you eager to live your life in your condition?  Then, you do not mind taking the hot call girls service In Agra. I am Shalini and have the 34 C figure. Once you have insight into my body figure, you cannot control for making the love-making session. So, you should leave your hesitation, and enjoy the exciting loving companion in my hot body. I am your reliable asset to give the fanatics sensual pleasure. No matter when you book my service, I never let go anytime waste for your time. With the association of my hot body, you never feel your money become wasted. I am your reliable sluts and offer you the big game for your peace of mind.  I am efficient doing cum in my mouth, assfuck, 69 positions, and many more.</p><p>
+                                But, I do not make the useless restriction to pamper your hot body.  Expose your desire, and I have the positive mindset to do something well. Being a Russian escort, many people use their private moments wisely to experience content themselves. To feel special, I use the same features to let you be good to others. I have a special obsession with creeping my soft finger on your body to feed the sizzling experience.</p>
             </div>
             <div class="profile-details">
                 <a href="<?= get_url() ?>booking"><button class="profile-btn">BOOK NOW</button></a>
@@ -337,14 +344,12 @@
                             <td>FULL NIGHT 3 SESSIONS</td>
                             <td>35,000</td>
                         </tr>
-                        <tr>
+                        <!-- <tr>
                             <td colspan="2">
                                 <div style="margin: 4% 0;"><b>Service:</b></div>
-                                <a href="<?= get_url() ?>gallery"> Chase your erotic dream with super active Russian escort performer</a>
-                                <p>Are you eager to live your life in your condition?  Then, you do not mind taking the hot call girls service In Agra. I am Shalini and have the 34 C figure. Once you have insight into my body figure, you cannot control for making the love-making session. So, you should leave your hesitation, and enjoy the exciting loving companion in my hot body. I am your reliable asset to give the fanatics sensual pleasure. No matter when you book my service, I never let go anytime waste for your time. With the association of my hot body, you never feel your money become wasted. I am your reliable sluts and offer you the big game for your peace of mind.  I am efficient doing cum in my mouth, assfuck, 69 positions, and many more.</p><p>
-                                But, I do not make the useless restriction to pamper your hot body.  Expose your desire, and I have the positive mindset to do something well. Being a Russian escort, many people use their private moments wisely to experience content themselves. To feel special, I use the same features to let you be good to others. I have a special obsession with creeping my soft finger on your body to feed the sizzling experience.</p>
+                                
                             </td>
-                        </tr>
+                        </tr> -->
                     </table>
                 </div>
             </div>

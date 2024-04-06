@@ -46,7 +46,7 @@
         .price {
             width: 100%;
             height: 800px;
-            background-image: url('../images/charmy.webp');
+            background-image: url('../images/High profile models.webp');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% auto;
@@ -146,6 +146,10 @@
         .profile-image {
             width: 65%;
         }
+        .profile-image p{
+            font-size: 1.1rem;
+            line-height: 25px;
+        }
 
         .profile-details {
             width: 45%;
@@ -244,7 +248,7 @@
     <div class="safewalkheading">
         <div class="video-below-text">
             <div class="below-text">
-                <h1>Profiles</h1>
+                <p>Profiles</p>
                 <p>Call Us For further details</p>
             </div>
             <div class="below-button">
@@ -277,6 +281,10 @@
                         </div>
                     </div>
                 </div>
+                <h1><a href="<?= get_url() ?>gallery">Call me Russian blonde to enjoy the mind-blowing sensual experience</a></h1>
+                                <p>I Am Ahana and have the sincerity to expose my love beam. My age is 24 years, and fond of the conversations young boys and gentlemen.  Book my escort service if you cannot take your mind to do the immense love game with the strange women.  By birth, I belong to the Russian category and hold the blessing record to please many horny people. It is up to you how you can treat me for your sensual purpose.  I have not expressed any objection to the multiple attempts for the romance. Now, you can take me in your arms, and enjoy your private moment as much as you can.</p><p>  
+I have a curvy figure and long body to impress you and a like-minded person. As per the different person’s mindset, I use my flexible body to behave the erotic action as per your demand. I have a great sense of how to speak to the concerned person to ignite their libido power. I am quite good at ball-sucking, and drench your soul with this action. So, you can get a jovial experience with this oral action. I have been waiting for a long to meet with an extraordinary person for making night.
+</p>
             </div>
             <div class="profile-details">
                 <a href="<?= get_url() ?>booking"><button class="profile-btn">BOOK NOW</button></a>
@@ -337,15 +345,12 @@
                             <td>FULL NIGHT 3 SESSIONS</td>
                             <td>35,000</td>
                         </tr>
-                        <tr>
+                        <!-- <tr>
                             <td colspan="2">
                                 <div style="margin: 4% 0;"><b>Service:</b></div>
-                                <a href="<?= get_url() ?>gallery">Call me Russian blonde to enjoy the mind-blowing sensual experience</a>
-                                <p>I Am Ahana and have the sincerity to expose my love beam. My age is 24 years, and fond of the conversations young boys and gentlemen.  Book my escort service if you cannot take your mind to do the immense love game with the strange women.  By birth, I belong to the Russian category and hold the blessing record to please many horny people. It is up to you how you can treat me for your sensual purpose.  I have not expressed any objection to the multiple attempts for the romance. Now, you can take me in your arms, and enjoy your private moment as much as you can.</p><p>  
-I have a curvy figure and long body to impress you and a like-minded person. As per the different person’s mindset, I use my flexible body to behave the erotic action as per your demand. I have a great sense of how to speak to the concerned person to ignite their libido power. I am quite good at ball-sucking, and drench your soul with this action. So, you can get a jovial experience with this oral action. I have been waiting for a long to meet with an extraordinary person for making night.
-</p>
+                                
                             </td>
-                        </tr>
+                        </tr> -->
                     </table>
                 </div>
             </div>

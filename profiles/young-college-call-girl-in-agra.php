@@ -46,7 +46,7 @@
         .price {
             width: 100%;
             height: 800px;
-            background-image: url('../images/charmy.webp');
+            background-image: url('../images/High profile models.webp');
             background-position: center;
             background-repeat: no-repeat;
             background-size: 100% auto;
@@ -146,6 +146,10 @@
         .profile-image {
             width: 65%;
         }
+        .profile-image p{
+            font-size: 1.1rem;
+            line-height: 25px;
+        }
 
         .profile-details {
             width: 45%;
@@ -244,7 +248,7 @@
     <div class="safewalkheading">
         <div class="video-below-text">
             <div class="below-text">
-                <h1>Profiles</h1>
+                <p>Profiles</p>
                 <p>Call Us For further details</p>
             </div>
             <div class="below-button">
@@ -277,6 +281,10 @@
                         </div>
                     </div>
                 </div>
+                <h1><a href="<?= get_url() ?>gallery">Get In touch with an Agra college escort to enjoy the real pleasure of sexual desire</a></h1>
+                                <p> I am Dolly Sharma, and live in a modern city namely Agra.  Here, I come to retain a high-quality education to do something that excels in my life.  But, the expanses of this city are not as normal as other cities require.  In am, 21 years old, and fair skin hypnotizes me lustfully.  For the sake of earning potential income, I land in the women’s prostitution. After concluding various facts and figures, I concluded providing an escort service is not a sin for me.  Along with my studies, I have gone to many visiting places. So, you can join my company if you are eager to experience the girlfriend experience. </p><p>
+Apart from this, you can expose the different affirmations for doing the causal relationship. By doing this, you do not feel the negative concern in your mind while doing the relationship. I am your lovely whore that never deny your sexual requests.  In comparison to another escort, you can find much pleasure beyond your imagination. If you have immense affection for doing long-lasting love, then my hot awaits a lot to pamper you. Now, there is no need to mislead with the commitment of another escort partner in Agra. Book my service quickly to begin naughty action as quickly as I can.
+</p>
             </div>
             <div class="profile-details">
                 <a href="<?= get_url() ?>booking"><button class="profile-btn">BOOK NOW</button></a>
@@ -337,15 +345,12 @@
                             <td>FULL NIGHT 3 SESSIONS</td>
                             <td>35,000</td>
                         </tr>
-                        <tr>
+                        <!-- <tr>
                             <td colspan="2">
                                 <div style="margin: 4% 0;"><b>Service:</b></div>
-                                <a href="<?= get_url() ?>gallery">Get In touch with an Agra college escort to enjoy the real pleasure of sexual desire</a>
-                                <p> I am Dolly Sharma, and live in a modern city namely Agra.  Here, I come to retain a high-quality education to do something that excels in my life.  But, the expanses of this city are not as normal as other cities require.  In am, 21 years old, and fair skin hypnotizes me lustfully.  For the sake of earning potential income, I land in the women’s prostitution. After concluding various facts and figures, I concluded providing an escort service is not a sin for me.  Along with my studies, I have gone to many visiting places. So, you can join my company if you are eager to experience the girlfriend experience. </p><p>
-Apart from this, you can expose the different affirmations for doing the causal relationship. By doing this, you do not feel the negative concern in your mind while doing the relationship. I am your lovely whore that never deny your sexual requests.  In comparison to another escort, you can find much pleasure beyond your imagination. If you have immense affection for doing long-lasting love, then my hot awaits a lot to pamper you. Now, there is no need to mislead with the commitment of another escort partner in Agra. Book my service quickly to begin naughty action as quickly as I can.
-</p>
+                                
                             </td>
-                        </tr>
+                        </tr> -->
                     </table>
                 </div>
             </div>
