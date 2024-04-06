@@ -264,7 +264,7 @@
                     </a>
                     <div class="blog-heading">
                         <a href="<?= get_url() ?>blogs/how-vip-escort-service-will-give-full-satisfaction.html">
-                            <h2>how-vip-escort-service-will-give-full-satisfaction</h2>
+                            <h2>Glance over the fact that can VIP escort offer you satisfaction</h2>
                         </a>
                     </div>
                     <div class="blog-para">

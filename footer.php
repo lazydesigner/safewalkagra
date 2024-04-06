@@ -3,9 +3,12 @@
             <div class="container footer-flex">
                 <div class="get-in-touch">Get in Touch</div>
                 <div class="footer-col">
-                    <p>NEWSLETTER</p>
-                    <p>Join SafeWalka for exclusive updates, special offers, and insider tips. Sign up now at safewalkagra.com for safer adventures! </p>
-                    <input type="email" name="" placeholder="Email Address" id="">
+                    <p>Category</p>
+                    <ul>
+                        <li><a href="<?=get_url() ?>college-escorts-in-agra.html">College Escorts In Agra</a></li>
+                        <li><a href="<?=get_url() ?>russian-escorts-in-goa.html">Russian Escorts In Goa</a></li>
+                        <li><a href="<?=get_url() ?>celebrity-escorts-service-in-agra.html">Celebrity Escorts Service In Agra</a></li>
+                    </ul>
                 </div>
                 <div class="footer-col">
                     <p>TAGS</p>
