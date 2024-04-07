@@ -67,7 +67,7 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
             </div>
             <div class="content-area">
                 <div class="content-area-img">
-                <img src="../images/3.png" width="100%" height="100%" loading="lazy" alt="">
+                <img src="../images/3.webp" width="100%" height="100%" loading="lazy" alt="">
                 </div>
             </div>
         </div>
@@ -81,7 +81,7 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
             </div>
             <div class="content-area">
                 <div class="content-area-img">
-                <img src="../images/Shalini russian Escort.png" width="100%" height="100%" loading="lazy" alt="">
+                <img src="../images/Shalini-russian-Escort.webp" width="100%" height="100%" loading="lazy" alt="">
                 </div>
             </div>
         </div>
@@ -95,7 +95,7 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
             </div>
             <div class="content-area">
                 <div class="content-area-img">
-                <img src="<?=get_url() ?>images/Anshiat pandey.png" width="100%" height="100%" loading="lazy" alt="">
+                <img src="<?=get_url() ?>images/Anshiat-pandey.webp" width="100%" height="100%" loading="lazy" alt="">
                 </div>
             </div>
         </div>

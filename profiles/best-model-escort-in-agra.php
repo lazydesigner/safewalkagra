@@ -262,22 +262,22 @@
                 <div class="grid-of-profile-images">
                     <div class="pro-images">
                         <div class="img-c">
-                            <img src="../images/Afsana model call girl service.png" width="100%" height="100%" loading="lazy" alt="Agra model call girl service">
+                            <img src="../images/Afsana-model-call-girl-service.webp" width="100%" height="100%" loading="lazy" alt="Agra model call girl service">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                            <img src="../images/Afsana model call girl.png" width="100%" height="100%" loading="lazy" alt="Agra model call girl">
+                            <img src="../images/Afsana-model-call-girl.webp" width="100%" height="100%" loading="lazy" alt="Agra model call girl">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Afsana model escorts.png" width="100%" height="100%" loading="lazy" alt="Agra model Escorts">
+                        <img src="../images/Afsana-model-escorts.webp" width="100%" height="100%" loading="lazy" alt="Agra model Escorts">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Afsana.png" width="100%" height="100%" loading="lazy" alt="Agra model escort service">
+                        <img src="../images/Afsana.webp" width="100%" height="100%" loading="lazy" alt="Agra model escort service">
                         </div>
                     </div>
                 </div>

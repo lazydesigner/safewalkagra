@@ -210,7 +210,7 @@
     <div class="grid-of-profiles">
             <div class="grid-item">
                <a href="<?=get_url()?>models/russian-escort-in-agra-ahana.html"><div class="profiles">
-                    <img src="<?=get_url() ?>images/ahana russian escort.png" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
+                    <img src="<?=get_url() ?>images/ahana-russian-escort.webp" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
                             <span>
@@ -223,7 +223,7 @@
             </div>
             <div class="grid-item">
             <a href="<?=get_url()?>models/best-price-russian-call-girl-in-agra.html"> <div class="profiles">
-                    <img src="<?=get_url() ?>images/Julia russian escort.png" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
+                    <img src="<?=get_url() ?>images/Julia-russian-escort.webp" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
                             <p>Julia</p>
@@ -234,7 +234,7 @@
             </div>
             <div class="grid-item">
             <a href="<?=get_url()?>models/shalini-premium-bdsm-escort.html"><div class="profiles">
-                    <img src="<?=get_url() ?>images/Shalini russian Escort.png" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
+                    <img src="<?=get_url() ?>images/Shalini-russian-Escort.webp" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
                             <p>Shalini</p>
@@ -245,7 +245,7 @@
             </div>
             <div class="grid-item">
             <a href="<?=get_url() ?>models/young-college-call-girl-in-agra.html"><div class="profiles">
-                    <img src="<?=get_url() ?>images/Dolly Sharma college escorts.png" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
+                    <img src="<?=get_url() ?>images/Dolly-Sharma-college-escorts.webp" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
                             <p>Dolly Sharma</p>
@@ -256,7 +256,7 @@
             </div>
             <div class="grid-item">
             <a href="<?=get_url() ?>models/avanya-college-escort-in-agra.html"><div class="profiles">
-                    <img src="<?=get_url() ?>images/Avanya college call girl.png" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
+                    <img src="<?=get_url() ?>images/Avanya-college-call-girl.webp" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
                             <p>Avanya</p>
@@ -267,7 +267,7 @@
             </div>
             <div class="grid-item">
             <a href="<?=get_url() ?>models/high-profile-escort-in-agra-kamayani.html"><div class="profiles">
-                    <img src="<?=get_url() ?>images/kamayani  college escorts.png" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
+                    <img src="<?=get_url() ?>images/kamayani-college-escorts.webp" loading="lazy" width="100%" height="100%" alt="Ahana Russian Escort">
                     <div class="profile-band">
                         <div>
                             <p>kamayani</p>
@@ -278,7 +278,7 @@
             </div>
             <div class="grid-item">
             <a href="<?=get_url() ?>models/independent-escort-service-in-agra.html"><div class="profiles">
-                    <img src="<?=get_url() ?>images/Ritika escorts.png" loading="lazy" width="100%" height="100%" alt="Independent Escort">
+                    <img src="<?=get_url() ?>images/Ritika-escorts.webp" loading="lazy" width="100%" height="100%" alt="Independent Escort">
                     <div class="profile-band">
                         <div>
                             <p>Ritika</p>
@@ -289,7 +289,7 @@
             </div>
             <div class="grid-item">
             <a href="<?=get_url() ?>models/best-punjabi-call-girl-in-agra.html"><div class="profiles">
-                    <img src="<?=get_url() ?>images/jasleen Kaur call girl service.png" loading="lazy" width="100%" height="100%" alt="punjabi Escort service">
+                    <img src="<?=get_url() ?>images/jasleen-Kaur-call-girl-service.webp" loading="lazy" width="100%" height="100%" alt="punjabi Escort service">
                     <div class="profile-band">
                         <div>
                             <p>Jasleen Kaur</p>
@@ -300,7 +300,7 @@
             </div>
             <div class="grid-item">
             <a href="<?=get_url() ?>models/mature-housewife-escort-near-agra.html"><div class="profiles">
-                    <img src="<?=get_url() ?>images/Anshiat pandey escorts service.png" loading="lazy" width="100%" height="100%" alt="Housewife Escort">
+                    <img src="<?=get_url() ?>images/Anshiat-pandey-escorts-service.webp" loading="lazy" width="100%" height="100%" alt="Housewife Escort">
                     <div class="profile-band">
                         <div>
                             <p>Anshiat Pandey</p>
@@ -311,7 +311,7 @@
             </div>
             <div class="grid-item">
             <a href="<?=get_url() ?>models/akannki-is-a-premium-mature-milf.html"><div class="profiles">
-                    <img src="<?=get_url() ?>images/Akannki housewife call girl.png" loading="lazy" width="100%" height="100%" alt="Housewife escort Provider">
+                    <img src="<?=get_url() ?>images/Akannki-housewife-call-girl.webp" loading="lazy" width="100%" height="100%" alt="Housewife escort Provider">
                     <div class="profile-band">
                         <div>
                             <p>Akannki</p>
@@ -322,7 +322,7 @@
             </div>
             <div class="grid-item">
             <a href="<?=get_url() ?>models/best-model-escort-in-agra.html"><div class="profiles">
-                    <img src="<?=get_url() ?>images/Afsana model call girl service.png" loading="lazy" width="100%" height="100%" alt="model Escort">
+                    <img src="<?=get_url() ?>images/Afsana-model-call-girl-service.webp" loading="lazy" width="100%" height="100%" alt="model Escort">
                     <div class="profile-band">
                         <div>
                             <p>Afsana</p>
@@ -333,7 +333,7 @@
             </div>
             <div class="grid-item">
             <a href="<?=get_url() ?>models/agra-escort-service-provider-anastasia.html"><div class="profiles">
-                    <img src="<?=get_url() ?>images/Puja model call girl.png" loading="lazy" width="100%" height="100%" alt="Russian Model Escort">
+                    <img src="<?=get_url() ?>images/Puja-model-call-girl.webp" loading="lazy" width="100%" height="100%" alt="Russian Model Escort">
                     <div class="profile-band">
                         <div>
                             <p>Anastasia</p>

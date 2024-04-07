@@ -116,15 +116,21 @@
         @media (max-width:600px) {
             .long-profiles {
                 flex-wrap: wrap;
+                height: auto;
+                margin: 4% 0;
             }
 
             .long-profile-txt {
-                width: 100%;
+                width: 69%;
             }
-
+            .long-profile-txt h3{font-size: 1.1rem;}
+            .long-profile-btn button{width: auto;height: 30px;}
             .long-profile-img {
-                width: 100%;
+                width: 30%;
+                height: auto;
             }
+            .long-profile-img img{object-fit: cover;}
+            .long-profile-txt p{display: none;}
         }
     </style>
     <?= $schema ?>
@@ -137,9 +143,13 @@
             <div class="overlay-txt">
                 <p>Best Escorts Providers</p> <span>Safe Walk Agra</span>
             </div>
-            <video id="myVideo" autoplay muted>
+            <video id="myVideo" class="video-js resp-img" preload="none" loop autoplay muted oncontextmenu="return false;" poster="https://res.cloudinary.com/dqdoczxoa/image/upload/v1702383407/bfuuagay0crdckygwhdn.webp" alt="A girl walking in a goa beach wearing white bickney and white panty" >
+            <source type="video/mp4"
+                src="<?= get_url() ?>images/mp4-teressa1.mp4">
+        </video>
+            <!-- <video id="myVideo" autoplay muted>
                 <source src="<?= get_url() ?>images/mp4-teressa1.mp4" type="video/mp4">
-            </video>
+            </video> -->
         </div>
         <div class="video-below-text">
             <div class="below-text">
@@ -161,7 +171,7 @@
                 <p>We plan your fantasy moment with the sure plan and provide you with the proper service in the 5-star escort service. Now, you have the proper authority to enhance your pleasure with a dedicated escort service. Our <a href="<?= get_url() ?>blogs/independent-agra-escorts-near-me.html">Independent escort service</a> is designed in such a way that you hardly peep into other escort services. We bet you this fact that our fetish and recreation experience is second to none. Anyway, we come in the escort business to fade out the depression rate among the youth. Once you find the foreplay service, your happy hormone ignites automatically.</p>
             </div>
             <div class="content-area">
-                <img src="<?= get_url() ?>images/home5.png" loading="lazy" width="100%" height="100%" alt="Escort Service in Agra">
+                <img src="<?= get_url() ?>images/home5.webp" loading="lazy" width="100%" height="100%" alt="Escort Service in Agra">
             </div>
         </div>
     </section>
@@ -192,7 +202,7 @@
     <div class="long-profiles">
         <div class="long-profile-img">
             <a href="<?= get_url() ?>models/russian-escort-in-agra-ahana.html">
-                <img src="./images/ahana russian escort.png" width="100%" height="100%" loading="lazy" alt="A russian escort girl sitting on the bed wearing black nighty dress">
+                <img src="./images/ahana-russian-escort.webp" width="100%" height="100%" loading="lazy" alt="A russian escort girl sitting on the bed wearing black nighty dress">
             </a>
         </div>
         <div class="long-profile-txt">
@@ -207,7 +217,7 @@
     </div>
     <div class="long-profiles">
         <div class="long-profile-img">
-            <a href="<?= get_url() ?>models/best-price-russian-call-girl-in-agra.html"><img src="./images/Julia russian escort.png" width="100%" height="100%" loading="lazy" alt="A russian escort girl wearing black net panty standing lean to the wall"></a>
+            <a href="<?= get_url() ?>models/best-price-russian-call-girl-in-agra.html"><img src="./images/Julia-russian-escort.webp" width="100%" height="100%" loading="lazy" alt="A russian escort girl wearing black net panty standing lean to the wall"></a>
         </div>
         <div class="long-profile-txt">
         <a href="<?= get_url() ?>models/best-price-russian-call-girl-in-agra.html"> <h3>Join the company of Russian escort to make your day much different</h3></a>
@@ -221,7 +231,7 @@
     </div>
     <div class="long-profiles">
         <div class="long-profile-img">
-            <a href="<?= get_url() ?>models/shalini-premium-bdsm-escort.html"><img src="./images/Shalini russian girl.png" width="100%" height="100%" loading="lazy" alt="A russian escorts girl lying on the bed wearing black bra"></a>
+            <a href="<?= get_url() ?>models/shalini-premium-bdsm-escort.html"><img src="./images/Shalini-russian-girl.webp" width="100%" height="100%" loading="lazy" alt="A russian escorts girl lying on the bed wearing black bra"></a>
         </div>
         <div class="long-profile-txt">
         <a href="<?= get_url() ?>models/shalini-premium-bdsm-escort.html"><h3>Chase your erotic dream with super active Russian escort performer</h3></a>
@@ -235,7 +245,7 @@
     </div>
     <div class="long-profiles">
         <div class="long-profile-img">
-            <a href="<?= get_url() ?>models/young-college-call-girl-in-agra.html"><img src="./images/Dolly Sharma college escorts.png" width="100%" height="100%" loading="lazy" alt=" a college call girl wearing while color bra lying on bed showing this small tits "></a>
+            <a href="<?= get_url() ?>models/young-college-call-girl-in-agra.html"><img src="./images/Dolly-Sharma-college-escorts.webp" width="100%" height="100%" loading="lazy" alt=" a college call girl wearing while color bra lying on bed showing this small tits "></a>
         </div>
         <div class="long-profile-txt">
         <a href="<?= get_url() ?>models/young-college-call-girl-in-agra.html"> <h3>Get In touch with an Agra college escort to enjoy the real pleasure of sexual desire</h3></a>
@@ -249,7 +259,7 @@
     </div>
     <div class="long-profiles">
         <div class="long-profile-img">
-            <a href="<?= get_url() ?>models/avanya-college-escort-in-agra.html"><img src="./images/Avanya college call girl.png" width="100%" height="100%" loading="lazy" alt="Avanya college call girl standing on stairs wearing black bra and grey pants to get fucked by mens"></a>
+            <a href="<?= get_url() ?>models/avanya-college-escort-in-agra.html"><img src="./images/Avanya-college-call-girl.webp" width="100%" height="100%" loading="lazy" alt="Avanya college call girl standing on stairs wearing black bra and grey pants to get fucked by mens"></a>
         </div>
         <div class="long-profile-txt">
         <a href="<?= get_url() ?>models/avanya-college-escort-in-agra.html"><h3>Spend quality with the Agra College going escort for a nonstop sensual experience</h3></a>
@@ -263,7 +273,7 @@
     </div>
     <div class="long-profiles">
         <div class="long-profile-img">
-            <a href="<?= get_url() ?>models/high-profile-escort-in-agra-kamayani.html"><img src="./images/kamayani  college escorts.png" width="100%" height="100%" loading="lazy" alt="A college escort girl wearing black dress"></a>
+            <a href="<?= get_url() ?>models/high-profile-escort-in-agra-kamayani.html"><img src="./images/kamayani-college-escorts.webp" width="100%" height="100%" loading="lazy" alt="A college escort girl wearing black dress"></a>
         </div>
         <div class="long-profile-txt">
         <a href="<?= get_url() ?>models/high-profile-escort-in-agra-kamayani.html"><h3>Capture your dream of having a romance with a young college girl</h3></a>
@@ -277,7 +287,7 @@
     </div>
     <div class="long-profiles">
         <div class="long-profile-img">
-            <a href="<?= get_url() ?>models/independent-escort-service-in-agra.html"><img src="./images/Ritika idependent girl.png" width="100%" height="100%" loading="lazy" alt="A independent escort girl sitting on the sofa wearing black dress showing her big boobs"></a>
+            <a href="<?= get_url() ?>models/independent-escort-service-in-agra.html"><img src="./images/Ritika-idependent-girl.webp" width="100%" height="100%" loading="lazy" alt="A independent escort girl sitting on the sofa wearing black dress showing her big boobs"></a>
         </div>
         <div class="long-profile-txt">
         <a href="<?= get_url() ?>models/independent-escort-service-in-agra.html"><h3>Appealing of the Independent escort to absorb in happiness aura</h3></a>
@@ -291,7 +301,7 @@
     </div>
     <div class="long-profiles">
         <div class="long-profile-img">
-            <a href="<?= get_url() ?>models/best-punjabi-call-girl-in-agra.html"><img src="./images/jasleen Kaur call girl service.png" width="100%" height="100%" loading="lazy" alt="a hot punjabi call girl wearing blue coat looking sexy and beautiful"></a>
+            <a href="<?= get_url() ?>models/best-punjabi-call-girl-in-agra.html"><img src="./images/jasleen-Kaur-call-girl-service.webp" width="100%" height="100%" loading="lazy" alt="a hot punjabi call girl wearing blue coat looking sexy and beautiful"></a>
         </div>
         <div class="long-profile-txt">
         <a href="<?= get_url() ?>models/best-punjabi-call-girl-in-agra.html"><h3>Book Hot Independent escort for experiencing the delightful experience</h3></a>
@@ -305,7 +315,7 @@
     </div>
     <div class="long-profiles">
         <div class="long-profile-img">
-            <a href="<?= get_url() ?>models/mature-housewife-escort-near-agra.html"><img src="./images/Anshiat pandey escorts service.png" width="100%" height="100%" loading="lazy" alt="A russian escort girl sitting on a chair wearing black dress"></a>
+            <a href="<?= get_url() ?>models/mature-housewife-escort-near-agra.html"><img src="./images/Anshiat-pandey-escorts-service.webp" width="100%" height="100%" loading="lazy" alt="A russian escort girl sitting on a chair wearing black dress"></a>
         </div>
         <div class="long-profile-txt">
         <a href="<?= get_url() ?>models/mature-housewife-escort-near-agra.html"> <h3>Remove your all stress by booking my house escort service in Agra</h3></a>
@@ -319,7 +329,7 @@
     </div>
     <div class="long-profiles">
         <div class="long-profile-img">
-            <a href="<?= get_url() ?>models/akannki-is-a-premium-mature-milf.html"><img src="./images/Akannki housewife call girl.png" width="100%" height="100%" loading="lazy" alt="A Housewife escort girl standing near mirror taking phone and she is wearing creem color dress"></a>
+            <a href="<?= get_url() ?>models/akannki-is-a-premium-mature-milf.html"><img src="./images/Akannki-housewife-call-girl.webp" width="100%" height="100%" loading="lazy" alt="A Housewife escort girl standing near mirror taking phone and she is wearing creem color dress"></a>
         </div>
         <div class="long-profile-txt">
         <a href="<?= get_url() ?>models/akannki-is-a-premium-mature-milf.html"><h3>Conduct your romance trip with an affluent housewife escort In Agra </h3></a>
@@ -333,7 +343,7 @@
     </div>
     <div class="long-profiles">
         <div class="long-profile-img">
-            <a href="<?= get_url() ?>models/best-model-escort-in-agra.html"><img src="./images/Afsana model call girl service.png" width="100%" height="100%" loading="lazy" alt="A russian model escort red bickney standing near pool"></a>
+            <a href="<?= get_url() ?>models/best-model-escort-in-agra.html"><img src="./images/Afsana-model-call-girl-service.webp" width="100%" height="100%" loading="lazy" alt="A russian model escort red bickney standing near pool"></a>
         </div>
         <div class="long-profile-txt">
         <a href="<?= get_url() ?>models/best-model-escort-in-agra.html"><h3>Get the amazing sensual experience in the lap of a Model escort in Agra</h3></a>
@@ -347,7 +357,7 @@
     </div>
     <div class="long-profiles">
         <div class="long-profile-img">
-            <a href="<?= get_url() ?>models/agra-escort-service-provider-anastasia.html"><img src="./images/Puja model call girl.png" width="100%" height="100%" loading="lazy" alt="A Model escort girl sitting on the chair wearing black nighty dress"></a>
+            <a href="<?= get_url() ?>models/agra-escort-service-provider-anastasia.html"><img src="./images/Puja-model-call-girl.webp" width="100%" height="100%" loading="lazy" alt="A Model escort girl sitting on the chair wearing black nighty dress"></a>
         </div>
         <div class="long-profile-txt">
         <a href="<?= get_url() ?>models/agra-escort-service-provider-anastasia.html"><h3>Accept the treatment of Agra Model escort to expose the best sensual version</h3></a>
@@ -371,7 +381,7 @@
                 <p>Our Agra escort does more than the common girl and teaches you the way how to live a carefree life. By the way, physical feeling intimates you are internally happy. Book our hot Agra escort as you become an active relationship companion.</p>
             </div>
             <div class="content-area">
-                <img src="<?= get_url() ?>images/home1.png" loading="lazy" width="100%" height="100%" alt="Agra Escorts">
+                <img src="<?= get_url() ?>images/home1.webp" loading="lazy" width="100%" height="100%" alt="Agra Escorts">
             </div>
         </div>
     </section>
@@ -383,7 +393,7 @@
                 <p>Anyway, you become fearless about making the relationship and sustain the quiet happiness during your relationship deal. From time to time, you never yes to in-call and out-call. As per the situation, your decision changes to be intimate with the bold-faced girl. No matter what type of relationship service you looking for, we provide you with a mind-blowing satisfaction experience. We are aware of the biological fact that the sizzling requirements of all persons are not the same.</p>
             </div>
             <div class="content-area">
-                <img src="<?= get_url() ?>images/home2.png" loading="lazy" width="100%" height="100%" alt="safewalkagra escort provider">
+                <img src="<?= get_url() ?>images/home2.webp" loading="lazy" width="100%" height="100%" alt="safewalkagra escort provider">
             </div>
         </div>
     </section>
@@ -464,7 +474,7 @@
                 </div> -->
             </div>
             <div class="content-area">
-                <img src="<?= get_url() ?>images/home3.png" loading="lazy" width="100%" height="100%" alt="escorts agency in Agra">
+                <img src="<?= get_url() ?>images/home3.webp" loading="lazy" width="100%" height="100%" alt="escorts agency in Agra">
             </div>
         </div>
     </section>
@@ -477,7 +487,7 @@
                 <p>After a while, you cannot escape from the process of hiring a lovely Agra escort to change your mood. Our Independent escort is never fed up to make multiple episodes of the fuck and fun. Now, you must take your time to conduct which beauty profiles. Anyway, you delight to serve your erotic.</p>
             </div>
             <div class="content-area">
-                <img src="<?= get_url() ?>images/home4.png" loading="lazy" width="100%" height="100%" alt="call girls in agra">
+                <img src="<?= get_url() ?>images/home4.webp" loading="lazy" width="100%" height="100%" alt="call girls in agra">
             </div>
         </div>
     </section>
@@ -493,7 +503,7 @@
                 <p><strong>Russian Escort Girls:</strong> The Russian escort is the win-win desire of many horny people as they know the excellent art to hypnotize. They have the optimum endurance to fulfill all customer's needs. They are superlative in mind and soul as well. If you have a warm wish to hire a <a href="<?= get_url() ?>russian-escorts-in-agra.html">Russian escort</a>, then you must know their availability. Otherwise, they are likely to be seductive partners of other men.</p>
             </div>
             <div class="content-area">
-                <img src="<?= get_url() ?>images/13.png" loading="lazy" width="100%" height="100%" alt="call girls in agra">
+                <img src="<?= get_url() ?>images/13.webp" loading="lazy" width="100%" height="100%" alt="call girls in agra">
             </div>
         </div>
     </section>

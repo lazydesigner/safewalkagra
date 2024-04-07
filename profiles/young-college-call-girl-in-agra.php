@@ -262,22 +262,22 @@
                 <div class="grid-of-profile-images">
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Dolly Sharma college escorts.png" width="100%" height="100%" loading="lazy" alt="Agra College call girl">
+                        <img src="../images/Dolly-Sharma-college-escorts.webp" width="100%" height="100%" loading="lazy" alt="Agra College call girl">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Dolly Sharma college.png" width="100%" height="100%" loading="lazy" alt="Agra College escort provider">
+                        <img src="../images/Dolly-Sharma-college.webp" width="100%" height="100%" loading="lazy" alt="Agra College escort provider">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Dolly Sharma escort.png" width="100%" height="100%" loading="lazy" alt="Agra College escort">
+                        <img src="../images/Dolly-Sharma-escort.webp" width="100%" height="100%" loading="lazy" alt="Agra College escort">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Dolly Sharma.png" width="100%" height="100%" loading="lazy" alt="Agra College call girl provider">
+                        <img src="../images/Dolly-Sharma.webp" width="100%" height="100%" loading="lazy" alt="Agra College call girl provider">
                         </div>
                     </div>
                 </div>

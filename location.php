@@ -230,7 +230,7 @@
         <div class="location-grid">
             <a href="<?= get_url() ?>location/fatehabad-road.html">
                 <div class="grid-items-one">
-                    <img src="./images/fatehabad road.webp" alt="fatehabad road">
+                    <img src="./images/fatehabad-road.webp" alt="fatehabad road">
                     <div class="grid-band">
                         <p>Fatehabad Road</p>
                         <button>Escrots</button>
@@ -239,7 +239,7 @@
             </a>
             <a href="<?= get_url() ?>location/kamla-nagar.html">
                 <div class="grid-items-one">
-                    <img src="./images/kamla nagar.webp" alt="kamla nagar">
+                    <img src="./images/kamla-nagar.webp" alt="kamla nagar">
                     <div class="grid-band">
                         <p>Kamla Nagar</p>
                         <button>Escrots</button>
@@ -257,7 +257,7 @@
             </a>
             <a href="<?= get_url() ?>location/dayal-bagh.html">
                 <div class="grid-items-one">
-                    <img src="./images/dayal bagh.webp" alt="dayal bagh">
+                    <img src="./images/dayal-bagh.webp" alt="dayal bagh">
                     <div class="grid-band">
                         <p>Dayal Bagh</p>
                         <button>Escrots</button>
@@ -266,7 +266,7 @@
             </a>
             <a href="<?= get_url() ?>location/trans-yamuna-colony.html">
                 <div class="grid-items-one">
-                    <img src="./images/trans yamuna.webp" alt="Trans Yamuna Colony">
+                    <img src="./images/trans-yamuna.webp" alt="Trans Yamuna Colony">
                     <div class="grid-band">
                         <p>Trans Yamuna Colony</p>
                         <button>Escrots</button>
@@ -293,7 +293,7 @@
             </a>
             <a href="<?= get_url() ?>location/raja-ki-mandi.html">
                 <div class="grid-items-one">
-                    <img src="./images/raja ki mandi.webp" alt="Raja Ki Mandi">
+                    <img src="./images/raja-ki-mandi.webp" alt="Raja Ki Mandi">
                     <div class="grid-band">
                         <p>Raja Ki Mandi</p>
                         <button>Escrots</button>
@@ -302,7 +302,7 @@
             </a>
             <a href="<?= get_url() ?>location/taj-ganj.html">
                 <div class="grid-items-one">
-                    <img src="./images/taj ganj.webp" alt="Taj Ganj">
+                    <img src="./images/taj-ganj.webp" alt="Taj Ganj">
                     <div class="grid-band">
                         <p>Taj Ganj</p>
                         <button>Escrots</button>

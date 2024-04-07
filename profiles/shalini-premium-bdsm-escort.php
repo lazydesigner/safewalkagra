@@ -262,22 +262,22 @@
                 <div class="grid-of-profile-images">
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Shalini russian Escort.png" width="100%" height="100%" loading="lazy" alt="Agra BDSM escort provider">
+                        <img src="../images/Shalini-russian-Escort.webp" width="100%" height="100%" loading="lazy" alt="Agra BDSM escort provider">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Shalini russian girl.png" width="100%" height="100%" loading="lazy" alt="Agra BDSM escort provider">
+                        <img src="../images/Shalini-russian-girl.webp" width="100%" height="100%" loading="lazy" alt="Agra BDSM escort provider">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Shalini russian.png" width="100%" height="100%" loading="lazy" alt="Agra russian call girl provider">
+                        <img src="../images/Shalini-russian.webp" width="100%" height="100%" loading="lazy" alt="Agra russian call girl provider">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Shalini.png" width="100%" height="100%" loading="lazy" alt="Agra Russian escort provider">
+                        <img src="../images/Shalini.webp" width="100%" height="100%" loading="lazy" alt="Agra Russian escort provider">
                         </div>
                     </div>
                 </div>

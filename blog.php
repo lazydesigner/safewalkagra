@@ -107,7 +107,7 @@
                 <div class="blog-card">
                     <a href="<?= get_url() ?>blogs/top-model-escorts-in-agra.html">
                         <div class="blog-image">
-                            <img src="./images/11.png" loading="lazy" width="100%" height="100%" alt="">
+                            <img src="./images/11.webp" loading="lazy" width="100%" height="100%" alt="">
                         </div>
                     </a>
                     <div class="blog-heading">
@@ -125,7 +125,7 @@
                 <div class="blog-card">
                     <a href="<?= get_url() ?>blogs/benefits-of-hiring-high-profile-escorts-in-agra.html">
                         <div class="blog-image">
-                            <img src="./images/17.png" loading="lazy" width="100%" height="100%" alt="">
+                            <img src="./images/17.webp" loading="lazy" width="100%" height="100%" alt="">
                         </div>
                     </a>
                     <div class="blog-heading">
@@ -144,7 +144,7 @@
                 <div class="blog-card">
                     <a href="<?= get_url() ?>blogs/how-model-escorts-committed-to-friends.html">
                         <div class="blog-image">
-                            <img src="./images/home1.png" loading="lazy" width="100%" height="100%" alt="">
+                            <img src="./images/home1.webp" loading="lazy" width="100%" height="100%" alt="">
                         </div>
                     </a>
                     <div class="blog-heading">
@@ -163,7 +163,7 @@
                 <div class="blog-card">
                     <a href="<?= get_url() ?>blogs/independent-agra-escorts-near-me.html">
                         <div class="blog-image">
-                            <img src="./images/Ritika independent escorts.png" loading="lazy" width="100%" height="100%" alt="">
+                            <img src="./images/Ritika-independent-escorts.webp" loading="lazy" width="100%" height="100%" alt="">
                         </div>
                     </a>
                     <div class="blog-heading">
@@ -180,7 +180,7 @@
             <div class="grid-items">
                 <div class="blog-card">
                     <a href="<?= get_url() ?>blogs/dirty-divas-from-safewalkagra.html">
-                        <div class="blog-image"> <img src="./images/14.png" loading="lazy" width="100%" height="100%" alt=""></div>
+                        <div class="blog-image"> <img src="./images/14.webp" loading="lazy" width="100%" height="100%" alt=""></div>
                     </a>
                     <div class="blog-heading">
                         <a href="<?= get_url() ?>blogs/dirty-divas-from-safewalkagra.html">
@@ -196,7 +196,7 @@
             <div class="grid-items">
                 <div class="blog-card">
                     <a href="<?= get_url() ?>blogs/find-best-female-companion-in-agra.html">
-                        <div class="blog-image"> <img src="./images/Puja model call girls.png" loading="lazy" width="100%" height="100%" alt=""></div>
+                        <div class="blog-image"> <img src="./images/Puja-model-call-girls.webp" loading="lazy" width="100%" height="100%" alt=""></div>
                     </a>
                     <div class="blog-heading">
                         <a href="<?= get_url() ?>blogs/find-best-female-companion-in-agra.html">
@@ -212,7 +212,7 @@
             <div class="grid-items">
                 <div class="blog-card">
                     <a href="<?= get_url() ?>blogs/enjoy-unlimited-love-session-with-young-escorts.html">
-                        <div class="blog-image"> <img src="./images/kamayani escorts service.png" loading="lazy" width="100%" height="100%" alt=""></div>
+                        <div class="blog-image"> <img src="./images/kamayani-escorts-service.webp" loading="lazy" width="100%" height="100%" alt=""></div>
                     </a>
                     <div class="blog-heading">
                         <a href="<?= get_url() ?>blogs/enjoy-unlimited-love-session-with-young-escorts.html">
@@ -228,7 +228,7 @@
             <div class="grid-items">
                 <div class="blog-card">
                     <a href="<?= get_url() ?>blogs/feel-safe-at-home-with-our-service.html">
-                        <div class="blog-image"> <img src="./images/Avanya.png" loading="lazy" width="100%" height="100%" alt=""></div>
+                        <div class="blog-image"> <img src="./images/Avanya.webp" loading="lazy" width="100%" height="100%" alt=""></div>
                     </a>
                     <div class="blog-heading">
                         <a href="<?= get_url() ?>blogs/feel-safe-at-home-with-our-service.html">
@@ -244,7 +244,7 @@
             <div class="grid-items">
                 <div class="blog-card">
                     <a href="<?= get_url() ?>blogs/safewalk-agra-and-other-agencies.html">
-                        <div class="blog-image"> <img src="./images/Ritika.png" loading="lazy" width="100%" height="100%" alt=""></div>
+                        <div class="blog-image"> <img src="./images/Ritika.webp" loading="lazy" width="100%" height="100%" alt=""></div>
                     </a>
                     <div class="blog-heading">
                         <a href="<?= get_url() ?>blogs/safewalk-agra-and-other-agencies.html">
@@ -260,7 +260,7 @@
             <div class="grid-items">
                 <div class="blog-card">
                     <a href="<?= get_url() ?>blogs/how-vip-escort-service-will-give-full-satisfaction.html">
-                        <div class="blog-image"> <img src="./images/18.png" loading="lazy" width="100%" height="100%" alt=""></div>
+                        <div class="blog-image"> <img src="./images/18.webp" loading="lazy" width="100%" height="100%" alt=""></div>
                     </a>
                     <div class="blog-heading">
                         <a href="<?= get_url() ?>blogs/how-vip-escort-service-will-give-full-satisfaction.html">

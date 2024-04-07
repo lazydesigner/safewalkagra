@@ -262,22 +262,22 @@
                 <div class="grid-of-profile-images">
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Ritika escorts.png" width="100%" height="100%" loading="lazy" alt="Agra idependent call girl">
+                        <img src="../images/Ritika-escorts.webp" width="100%" height="100%" loading="lazy" alt="Agra idependent call girl">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Ritika idependent girl.png" width="100%" height="100%" loading="lazy" alt="Agra idependent escort girl">
+                        <img src="../images/Ritika-idependent-girl.webp" width="100%" height="100%" loading="lazy" alt="Agra idependent escort girl">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Ritika independent escorts.png" width="100%" height="100%" loading="lazy" alt="Agra idependent call girl service">
+                        <img src="../images/Ritika-independent-escorts.webp" width="100%" height="100%" loading="lazy" alt="Agra idependent call girl service">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Ritika.png" width="100%" height="100%" loading="lazy" alt="Agra idependent escort">
+                        <img src="../images/Ritika.webp" width="100%" height="100%" loading="lazy" alt="Agra idependent escort">
                         </div>
                     </div>
                 </div>

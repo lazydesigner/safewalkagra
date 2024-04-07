@@ -149,7 +149,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p>From person to person, you can see that some people have an obsession to meet with advanced and stunning physical figures. They know this human tendency how much these ladies become the favored choice of the lustful customer. By the way, they put their self-interest to meet with these men. They never thought that their beauty fell in the irritating condition. Along with their beauty, they have the zeal to use beauty and enticing talent to earn some money as well.</p>
 
         <div class="blog-image-box">
-             <img src="../images/18.png" width="100%" height="100%" alt="">
+             <img src="../images/18.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
         <h2>Join the company of a suitable girl</h2>
         <p>If you are uncertain how to enjoy a causal friendship, then considering an escort service is not a bad idea. They become the real partner in the fantasy game in the alluring world. While staying with them for a certain time, you can find the story of pleasure, enigma, and elegance. Indeed, you experience the short time company of a VIP escort does not make you unhappy. If you want to achieve the general behavior of the escort above and beyond your description, then you can refine the VIP escort.</p>
@@ -158,7 +158,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <h3>Go through the detailed list to delegate the VIP escort better than others</h3>
         <p>The companionship time does not matter a lot. But, it matters a lot how long time they understand you’re hidden wishes. They use their all associated action to satisfy quickly. Indeed, what key characteristics do they adopt to survive well in the escort agency? Everything is described in the below-mentioned points.</p>
         <div class="blog-image-box">
-             <img src="../images/Akannki.png" width="100%" height="100%" alt="">
+             <img src="../images/Akannki.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
         <h4>Exclusively</h4>
         <p>VIP escort goes through the assembled downtime in the club. In this way, they have a neat and clear understanding to do well in the sexual dominance realm. In the initial round of the escort adoption process, they learn how to nurture special-class elite professionals. Anyway, they do not express their objection to shifting themselves in the tailor-made touch. In a more oriented perspective, you can see the image of the whore as the hand stitch prisoner.</p>
@@ -167,7 +167,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p>By the way, they never excuse to mingle in the glitch event, talk with new partners, and refine engagement. So, you have the full authority to do sparkle of the culture to get the praiseworthy appreciation.</p>
         
         <div class="blog-image-box">
-             <img src="../images/Shalini.png" width="100%" height="100%" alt="">
+             <img src="../images/Shalini.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
         <h2>Pursuit of cultivating bond, and connection</h2>
         <p>Do you ever though how can you get immediate satisfaction? Well, you do not think more, and make the immediate connection. How can escape from the unexpected challenge? Get in association with valuable VIP escort professionals. Our professional VIP escorts are far better at creating and cultivating bonds.  As a result, you can establish a causal relationship based on understanding, mutual respect, and profound connection.</p>
@@ -175,7 +175,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <?php include './common-price.php' ?>       
 
         <div class="blog-image-box">
-             <img src="../images/Puja model girl.png" width="100%" height="100%" alt="">
+             <img src="../images/Puja-model-girl.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
     </div>
     <div class="container">

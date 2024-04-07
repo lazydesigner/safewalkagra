@@ -262,22 +262,22 @@
                 <div class="grid-of-profile-images">
                     <div class="pro-images">
                         <div class="img-c">
-                            <img src="../images/Puja model call girl.png" width="100%" height="100%" alt="Puja model call girl">
+                            <img src="../images/Puja-model-call-girl.webp" width="100%" height="100%" alt="Puja model call girl">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                            <img src="../images/Puja model call girls.png" width="100%" height="100%" alt="Puja model call girls">
+                            <img src="../images/Puja-model-call-girls.webp" width="100%" height="100%" alt="Puja model call girls">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                            <img src="../images/Puja model girl.png" width="100%" height="100%" alt="Puja model girl">
+                            <img src="../images/Puja-model-girl.webp" width="100%" height="100%" alt="Puja model girl">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                            <img src="../images/Puja.png" width="100%" height="100%" alt="Agra Model escort">
+                            <img src="../images/Puja.webp" width="100%" height="100%" alt="Agra Model escort">
                         </div>
                     </div>
                 </div>

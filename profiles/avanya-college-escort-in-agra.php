@@ -262,22 +262,22 @@
                 <div class="grid-of-profile-images">
                     <div class="pro-images">
                         <div class="img-c">
-                            <img src="../images/Avanya college call girl.png" width="100%" height="100%" loading="lazy" alt="Agra college call girl">
+                            <img src="../images/Avanya-college-call-girl.webp" width="100%" height="100%" loading="lazy" alt="Agra college call girl">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                            <img src="../images/Avanya college escorts.png" width="100%" height="100%" loading="lazy" alt="Agra college escorts">
+                            <img src="../images/Avanya-college-escorts.webp" width="100%" height="100%" loading="lazy" alt="Agra college escorts">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                            <img src="../images/Avanya college girl.png" width="100%" height="100%" loading="lazy" alt="Agra college girl">
+                            <img src="../images/Avanya-college-girl.webp" width="100%" height="100%" loading="lazy" alt="Agra college girl">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                            <img src="../images/Avanya.png" width="100%" height="100%" loading="lazy" alt="Agra college girl Service Provider">
+                            <img src="../images/Avanya.webp" width="100%" height="100%" loading="lazy" alt="Agra college girl Service Provider">
                         </div>
                     </div>
                 </div>

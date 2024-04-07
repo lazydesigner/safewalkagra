@@ -262,22 +262,22 @@
                 <div class="grid-of-profile-images">
                     <div class="pro-images">
                         <div class="img-c">
-                            <img src="../images/ahana russian escort.png" width="100%" height="100%" loading="lazy" alt="Agra russian escort provider">
+                            <img src="../images/ahana-russian-escort.webp" width="100%" height="100%" loading="lazy" alt="Agra russian escort provider">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                            <img src="../images/ahana russian girl.png" width="100%" height="100%" loading="lazy" alt="Agra russian escort provider">
+                            <img src="../images/ahana-russian-girl.webp" width="100%" height="100%" loading="lazy" alt="Agra russian escort provider">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                            <img src="../images/ahana russina.png" width="100%" height="100%" loading="lazy" alt="Agra russian escort provider">
+                            <img src="../images/ahana-russina.webp" width="100%" height="100%" loading="lazy" alt="Agra russian escort provider">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                            <img src="../images/ahana.png" width="100%" height="100%" loading="lazy" alt="Agra russian escort provider">
+                            <img src="../images/ahana.webp" width="100%" height="100%" loading="lazy" alt="Agra russian escort provider">
                         </div>
                     </div>
                 </div>

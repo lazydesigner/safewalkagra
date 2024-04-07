@@ -262,22 +262,22 @@
                 <div class="grid-of-profile-images">
                     <div class="pro-images">
                         <div class="img-c">
-                            <img src="../images/Akannki housewife call girl.png" width="100%" height="100%" loading="lazy" alt="Akannki housewife call girl">
+                            <img src="../images/Akannki-housewife-call-girl.webp" width="100%" height="100%" loading="lazy" alt="Akannki housewife call girl">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                            <img src="../images/Akannki housewife escorts.png" width="100%" height="100%" loading="lazy" alt="Akannki housewife escorts">
+                            <img src="../images/Akannki-housewife-escorts.webp" width="100%" height="100%" loading="lazy" alt="Akannki housewife escorts">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                            <img src="../images/Akannki housewife.png" width="100%" height="100%" loading="lazy" alt="Housewife escorts service provider">
+                            <img src="../images/Akannki-housewife.webp" width="100%" height="100%" loading="lazy" alt="Housewife escorts service provider">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Akannki.png" width="100%" height="100%" loading="lazy" alt="Akannki housewife escorts">
+                        <img src="../images/Akannki.webp" width="100%" height="100%" loading="lazy" alt="Akannki housewife escorts">
                         </div>
                     </div>
                 </div>

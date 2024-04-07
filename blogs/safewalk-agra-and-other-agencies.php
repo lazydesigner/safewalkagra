@@ -150,7 +150,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
 </p>
 
         <div class="blog-image-box">
-             <img src="../images/Ritika.png" width="100%" height="100%" loading="lazy" alt="">
+             <img src="../images/Ritika.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
         <h2>Key aspect that makes Safewalk best from the rest of the competitors</h2>
         <p>We know this fact that Agra is one of the best tourist destinations.  All of them, does not have the same nature.  During their travelling time, they like to see the girl friend like service. To give their physical satisfaction and girlfriend choice, we land in the business to provide the intimacy services as per their dirty thought ability. </p>
@@ -168,7 +168,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p>Usage of the social media sites: If you are not comfortable to direct call, then you can use the social media site to send the direct message.  After doing the long lasting conversation, they can guess what is going in your mind.</p>
         
         <div class="blog-image-box">
-             <img src="../images/11.png" width="100%" height="100%" loading="lazy" alt="">
+             <img src="../images/11.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
 
 
@@ -178,7 +178,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p>Likewise the wild creators, our escorts are not for giving the fuck experience. They are highly educated, and multiple lingual proficiency.  In other words, understanding your erotic message is not difficult for you. So, you do not consider our girls only for the satisfaction objection.  They have the courage to do everything that feel you special from the rest of the competitors.  Thereby, there is zero chance to become rude with you.</p>
 
         <div class="blog-image-box">
-             <img src="../images/Shalini russian.png" width="100%" height="100%" loading="lazy" alt="">
+             <img src="../images/Shalini-russian.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
         <h2>Pay only after getting the fantasy experience</h2>
         <p>Do not have the dual mind set up how you benefits can form their erotic message service. The stunning and sexy girls are available to give the desired satisfaction only. If you want to check their truthiness, then you can take the service. After that, you can pay for her for cumshot and cuckold experience.</p>

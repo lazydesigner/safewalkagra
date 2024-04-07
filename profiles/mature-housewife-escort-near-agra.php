@@ -262,22 +262,22 @@
                 <div class="grid-of-profile-images">
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="<?= get_url() ?>images/Anshiat pandey escorts service.png" width="100%" height="100%" loading="lazy" alt="Agra Housewife escort provider">
+                        <img src="<?= get_url() ?>images/Anshiat-pandey-escorts-service.webp" width="100%" height="100%" loading="lazy" alt="Agra Housewife escort provider">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="<?= get_url() ?>images/Anshiat pandey independent call gir.png" width="100%" height="100%" loading="lazy" alt="call girls in agra">
+                        <img src="<?= get_url() ?>images/Anshiat-pandey-independent-call-gir.webp" width="100%" height="100%" loading="lazy" alt="call girls in agra">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="<?= get_url() ?>images/Anshiat pandey independent escorts.png" width="100%" height="100%" loading="lazy" alt="Agra Independent escort provider">
+                        <img src="<?= get_url() ?>images/Anshiat-pandey-independent-escorts.webp" width="100%" height="100%" loading="lazy" alt="Agra Independent escort provider">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="<?= get_url() ?>images/Anshiat pandey.png" width="100%" height="100%" loading="lazy" alt="Agra call girl">
+                        <img src="<?= get_url() ?>images/Anshiat-pandey.webp" width="100%" height="100%" loading="lazy" alt="Agra call girl">
                         </div>
                     </div>
                 </div>

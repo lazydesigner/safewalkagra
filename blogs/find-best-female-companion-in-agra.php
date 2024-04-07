@@ -149,7 +149,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p>As you cast the genuine view throughout the different locations, you find a multitude of adult entertainment destinations. But, there is sure assurance of the honest commitment to their customers. By the way, the oscillation of erotic thought matters a lot. So, you have the definite privilege to choose the busty, slim, desi, foreigh, high profile, and cheap escort. Do not be frustrated how can let groom your enjoyment to the next level?  By the way, share your dignity and find the admired company of the careful girls.</p>
 
         <div class="blog-image-box">
-             <img src="../images/Shalini russian girl.png" width="100%" height="100%" alt="">
+             <img src="../images/Shalini-russian-girl.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
         <h2>What is the love making intensity of the Agra call girl?  </h2>
         <p>Understanding sensual expectations is not the business of the common girls, and there is an absolute rise in the number of call girls regardless of location. They are never depressed as you have equal devotion and dedication to love you. Hence, you do not take the private companionship of this call girl as the apple of the discord. They never make a false commitment to you as they have the surety to love you unconditionally.  So, you are not bewildered to figure out how a company of this escort can fulfill your tired soul.</p>
@@ -160,7 +160,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p>Casting your dirty message on the call girls tells how much extent you take interest in the hot presence of the concerned slut. They never deny accepting your friendship. They have a high curiosity to hug your body.  Along with the true curtain of the Agra escorts, they never stop their body from overlooking you. Our Agra call girls never mind how you can treat her in the message as luring you to do the intimation action is their super most priority.
 </p>
         <div class="blog-image-box">
-             <img src="../images/Puja model call girls.png" width="100%" height="100%" alt="">
+             <img src="../images/Puja-model-call-girls.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
 
         <h3>High-profile Agra escorts to rejuvenate your hidden youth: </h3>
@@ -178,7 +178,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <?php include './common-price.php' ?>
 
         <!-- <div class="blog-image-box">
-             <img src="../images/ahana russina.png" width="100%" height="100%" alt="">
+             <img src="../images/ahana russina.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
         <h2>Book a suitable partner for real enjoyment</h2>
         <p>Do you dare to pass the sexual urge to a concerned blonde? If you cannot do this, you can end your search with me. I am flexible and explain my mind to serve your sensual duties is my responsibility.  No matter which profile picture you like for the intimacy program, you can call on that number. They will depict a clear picture of the romantic game or not. If they are occupied with other customers, they will inform you. Now, you can narrate the conventional time for making the erotic action without any compromise.</p> -->

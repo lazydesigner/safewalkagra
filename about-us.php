@@ -70,7 +70,7 @@
             </div>
             <div class="content-area">
                 <div class="content-area-img">
-                <img src="<?=get_url() ?>images/14.png" width="100%" height="100%" loading="lazy" alt="">
+                <img src="<?=get_url() ?>images/14.webp" width="100%" height="100%" loading="lazy" alt="">
                 </div>
             </div>
         </div>
@@ -86,7 +86,7 @@
             </div>
             <div class="content-area">
                 <div class="content-area-img">
-                <img src="<?=get_url() ?>images/18.png" width="100%" height="100%" loading="lazy" alt="">
+                <img src="<?=get_url() ?>images/18.webp" width="100%" height="100%" loading="lazy" alt="">
                 </div>
             </div>
         </div>
@@ -102,7 +102,7 @@
             </div>
             <div class="content-area">
                 <div class="content-area-img">
-                <img src="<?=get_url() ?>images/4.png" width="100%" height="100%" loading="lazy" alt="">
+                <img src="<?=get_url() ?>images/4.webp" width="100%" height="100%" loading="lazy" alt="">
                 </div>
             </div>
         </div>
@@ -117,7 +117,7 @@
             </div>
             <div class="content-area">
                 <div class="content-area-img">
-                <img src="<?=get_url() ?>images/17.png" width="100%" height="100%" loading="lazy" alt="">
+                <img src="<?=get_url() ?>images/17.webp" width="100%" height="100%" loading="lazy" alt="">
                 </div>
             </div>
         </div>
@@ -131,7 +131,7 @@
             </div>
             <div class="content-area">
                 <div class="content-area-img">
-                <img src="<?=get_url() ?>images/11.png" width="100%" height="100%" loading="lazy" alt="">
+                <img src="<?=get_url() ?>images/11.webp" width="100%" height="100%" loading="lazy" alt="">
                 </div>
             </div>
         </div>

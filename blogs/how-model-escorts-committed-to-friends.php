@@ -149,7 +149,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p>Likewise, in other living entities, you can notice the oscillation in the behaviors and client-serving attitude.  The bold, hot, and attractive are basic parameters to make the stunning night slots. Now, you do not need to use your sense of how the model escort showcases their talent alike a pro. In the presence of the model escort. You do not divert your mind to take service from them or not.</p>
 
         <div class="blog-image-box">
-             <img src="../images/home1.png" width="100%" height="100%" alt="">
+             <img src="../images/home1.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
 
         <h2>How can model escorts perform their duty for enjoyment?</h2>
@@ -166,7 +166,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p>Now, it is up to how long you want to hug and fuck. By the way, you are not bound to do the fantasy action. The attractive physical presence permits you to have fun and make a stormy night. In this way, you can make the normal night into a gala day. They have high endurance to bear your sensual pressure. The moral of the story is that the naughty action of the model escort is worth paying for. </p>
 
         <div class="blog-image-box">
-             <img src="../images/home4.png" width="100%" height="100%" alt="">
+             <img src="../images/home4.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
 
         <?php include './common-price.php' ?>
@@ -175,7 +175,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p>Do not regret this statement that you do not have a friend for walking to outdoor and party events. If you have been in this dilemma for a long time, then you reach out to our escort agency. When it comes to becoming a polite friend, our model escort never plays with your feelings. They have the genuine feeling to cheer your distressed mind.</p>
         
         <div class="blog-image-box">
-             <img src="../images/Afsana model escorts.png" width="100%" height="100%" alt="">
+             <img src="../images/Afsana-model-escorts.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
         <h3>Conduct the erotic move:</h3>
         <p>Handling the erotic move demand is not easy for your partner. Then, you can handle this accountability of better stimulation with our passionate model escort. They do not leave you helpless verge and are committed to providing definite affection.</p>

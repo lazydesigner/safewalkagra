@@ -262,22 +262,22 @@
                 <div class="grid-of-profile-images">
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Julia russian escort.png" width="100%" height="100%" loading="lazy" alt="Julia russian escort provider">
+                        <img src="../images/Julia-russian-escort.webp" width="100%" height="100%" loading="lazy" alt="Julia russian escort provider">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Julia russian girl.png" width="100%" height="100%" loading="lazy" alt="Agra russian call girl">
+                        <img src="../images/Julia-russian-girl.webp" width="100%" height="100%" loading="lazy" alt="Agra russian call girl">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Julia.png" width="100%" height="100%" loading="lazy" alt="Agra russian escort">
+                        <img src="../images/Julia.webp" width="100%" height="100%" loading="lazy" alt="Agra russian escort">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/Julia russian escort.png" width="100%" height="100%" loading="lazy" alt="Agra russian escort">
+                        <img src="../images/Julia-russian-escort.webp" width="100%" height="100%" loading="lazy" alt="Agra russian escort">
                         </div>
                     </div>
                 </div>

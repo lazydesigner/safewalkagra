@@ -148,7 +148,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p> Instead of figuring out the best destination, you can reach our escort agency in Agra.  They are extraordinary personalities and never get the weird feeling of making a causal relationship.  We have a long database of passionate call girls. Suppose, you have the imagination for a certain model escort, then you can narrate to us.</p>
 
         <div class="blog-image-box">
-             <img src="../images/Ritika independent escorts.png" width="100%" height="100%" alt="">
+             <img src="../images/Ritika-independent-escorts.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
         <h2>How can the heredity of the Independent call girls in Agra safeguard society?</h2>
         <p>Do not take the professional of the escort as the wrong concept as it does something well in the society.  Due to this reason, lustful persons do not cast an evil eye on the reluctant girls. Apart from this, you are not in the condition to cage the erotic desire in your brain. Whenever you have the feeling for this purpose, you have the candid facility to approach the call girls. The core concept of the human being is that youthful and energetic girls are apt to give the best enjoyment as you ever thought.</p>
@@ -158,7 +158,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p>The reflection of your dirty imagination must end at one specific place. Do not be ashamed of how to interact with the Agar escort while ending the tours of the different Agra places. Meeting with the charming d attraction is not a big deal as some desire is going in your mind. Playing fantasy games offers you the intense players for you. One should make the proper plan for how one can involve in the pounding and cumshot to relax your tired eyes.  Before entering the sure sexual play, you ought to figure out which personality gives you the ultimate pleasure. </p>
         
         <div class="blog-image-box">
-             <img src="../images/Puja.png" width="100%" height="100%" alt="">
+             <img src="../images/Puja.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
 
         <h3> Go through the details of the different Agra escorts:</h3>
@@ -172,7 +172,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <?php include './common-price.php' ?>
 
         <div class="blog-image-box">
-             <img src="../images/home1.png" width="100%" height="100%" alt="">
+             <img src="../images/home1.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
         <h2>Book a suitable partner for real enjoyment</h2>
         <p>Do you dare to pass the sexual urge to a concerned blonde? If you cannot do this, you can end your search with me. I am flexible and explain my mind to serve your sensual duties is my responsibility.  No matter which profile picture you like for the intimacy program, you can call on that number. They will depict a clear picture of the romantic game or not. If they are occupied with other customers, they will inform you. Now, you can narrate the conventional time for making the erotic action without any compromise.</p>

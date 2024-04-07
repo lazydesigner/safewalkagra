@@ -67,7 +67,7 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
             </div>
             <div class="content-area">
                 <div class="content-area-img">
-                <a href="<?=get_url() ?>models/best-price-russian-call-girl-in-agra.html"><img src="<?=get_url() ?>images/Julia russian escort.png" width="100%" height="100%" loading="lazy" alt=""></a>
+                <a href="<?=get_url() ?>models/best-price-russian-call-girl-in-agra.html"><img src="<?=get_url() ?>images/Julia-russian-escort.webp" width="100%" height="100%" loading="lazy" alt=""></a>
                 </div>
             </div>
         </div>
@@ -81,7 +81,7 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
             </div>
             <div class="content-area">
                 <div class="content-area-img">
-                <a href="<?=get_url() ?>models/russian-escort-in-agra-ahana.html"><img src="<?=get_url() ?>images/ahana russian escort.png" width="100%" height="100%" loading="lazy" alt=""></a>
+                <a href="<?=get_url() ?>models/russian-escort-in-agra-ahana.html"><img src="<?=get_url() ?>images/ahana-russian-escort.webp" width="100%" height="100%" loading="lazy" alt=""></a>
                 </div>
             </div>
         </div>
@@ -105,7 +105,7 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
             </div>
             <div class="content-area">
                 <div class="content-area-img">
-                <img src="<?=get_url() ?>images/Shalini russian girl.png" width="100%" height="100%" loading="lazy" alt="">
+                <img src="<?=get_url() ?>images/Shalini-russian-girl.webp" width="100%" height="100%" loading="lazy" alt="">
                 </div>
             </div>
         </div>
@@ -126,7 +126,7 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
             </div>
             <div class="content-area">
                 <div class="content-area-img">
-                <img src="<?=get_url() ?>images/ahana russian girl.png" width="100%" height="100%" loading="lazy" alt="">
+                <img src="<?=get_url() ?>images/ahana-russian-girl.webp" width="100%" height="100%" loading="lazy" alt="">
                 </div>
             </div>
         </div>
@@ -139,7 +139,7 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
             </div>
             <div class="content-area">
                 <div class="content-area-img">
-                <img src="<?=get_url() ?>images/Shalini russian.png" width="100%" height="100%" loading="lazy" alt="">
+                <img src="<?=get_url() ?>images/Shalini-russian.webp" width="100%" height="100%" loading="lazy" alt="">
                 </div>
             </div>
         </div>

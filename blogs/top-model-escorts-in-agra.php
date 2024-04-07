@@ -148,7 +148,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p> Do not be sad as they are well educated and know the sure art of how to conduct an impressive conversation. So, you find beauty figures more than to quench your sexual threat only. Their short time conversation implies how she can put their interest to seduce you. They do not take much time to provide you the high-quality sex service. Their bold figure lets you do a suitable sensual game as you have the imagination for this.</p>
 
         <div class="blog-image-box">
-             <img src="../images/home5.png" width="100%" height="100%" alt="">
+             <img src="../images/home5.webp" loading="lazy" width="100%" height="100%" alt="">
         </div>
         <h3>Do the role play sex with Model call girls in Agra</h3>
         <p>Likewise the other business professions, you can find the deep variety in their attire and professionalism as well. Taking their sensual service with the passionate tv models is not hard for you. If you have a high curiosity to find out first-class love-making services, then you can go ahead with them.</p>
@@ -158,7 +158,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p>No matter what do you ask her to do, they offer you an incredible romantic session. It impacts the great change in your personal life. As a result, you have a second chance to meet such an impressive love-making session again and again. If you want to pursue hardcore sex, then do not hunt for the ideal hardcore service.</p>
         
         <div class="blog-image-box">
-             <img src="../images/11.png" width="100%" height="100%" alt="">
+             <img src="../images/11.webp" loading="lazy" width="100%" height="100%" alt="">
         </div>
         <h3>Enjoy the short company</h3>
         <p>Do you have the dire desire to stretch your love as much as you can? Then, you should take the full investigation to get the better quality sensual service from where. To cool down your sexual feelings, you ought to scrutinize how the particular girl can offer you the best quality sexual pleasure. If you find it great, then you do not stay in the unexpected illusion. They offer you 100 percent satisfaction beyond your expectations.</p>
@@ -167,7 +167,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <?php include './common-price.php' ?>
 
         <div class="blog-image-box">
-             <img src="../images/18.png" width="100%" height="100%" alt="">
+             <img src="../images/18.webp" loading="lazy" width="100%" height="100%" alt="">
         </div>
         <h2>What do you find your Model call girls in Agra?</h2>
         <p>The discrimination of <a href="<?=get_url() ?>call-girls-in-agra.html">call girls in Agra</a> is obvious from the regular purpose escort. Their seducing style impresses you in the personal intimacy session. As a result, you hardly deny their love and affection service as you look for the next one. Their dress style is quite impressive which shocks you how can she be good in the intimacy performance? If you are going to select the beautiful darling for an intimacy perspective, our hot blonde Model escort service in Agra is the perfect choice for you.</p>

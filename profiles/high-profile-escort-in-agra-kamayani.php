@@ -262,17 +262,17 @@
                 <div class="grid-of-profile-images">
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/kamayani  college escorts.png" width="100%" height="100%" loading="lazy" alt="Agra College call girl">
+                        <img src="../images/kamayani-college-escorts.webp" width="100%" height="100%" loading="lazy" alt="Agra College call girl">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/kamayani escorts service.png" width="100%" height="100%" loading="lazy" alt="Agra College escort girl">
+                        <img src="../images/kamayani-escorts-service.webp" width="100%" height="100%" loading="lazy" alt="Agra College escort girl">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/kamayani.png" width="100%" height="100%" loading="lazy" alt="Agra College escort">
+                        <img src="../images/kamayani.webp" width="100%" height="100%" loading="lazy" alt="Agra College escort">
                         </div>
                     </div>
                     <!-- <div class="pro-images">

@@ -147,7 +147,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p>Exploring the sensation game is not a big deal if you know better your organ is stimulated in which way.  In comparison to common call girls in Agra, you ought to stay connected with the different partners for more enjoyment.  The intensity for making the sexual practice does not have the same amplitude. If you do not find time satisfaction with your spouse and common call girl, then BDSM is the better sexual practice to dominate other partners as much as you can.</p>
 
         <div class="blog-image-box">
-             <img src="../images/14.png" width="100%" height="100%" alt="">
+             <img src="../images/14.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
         <h2>Know the real meaning of BDSM</h2>
         <p>If your lustful desire does not end at one extreme point, then you should take the next-level adventure.  For instance, you can whore will workshop the foot. If you try the different versions of the sexual attempts, then you can go ahead with the highest, and robust vocabulary of sex practice. By the way, this new sexual terminology excites the new guys a lot. So, one should have a crystal clear picture to access the BDSM game. </p>
@@ -157,7 +157,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p>None of you should take sexual practice for granted.  As per your dirty imagination and body language, you should make a solid proof aura for the impact of sensory enjoyment. Therefore, it is imperative how in the going the health and wealth of your submissive slut.  If they are ok with the physical practice, then you need to deny this. Without making a second thought, they act with you the best to perform the better service.</p>
         
         <div class="blog-image-box">
-             <img src="../images/Shalini.png" width="100%" height="100%" alt="">
+             <img src="../images/Shalini.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
 
         <h3>Go through the broad description to see some prevailing attributes</h3>
@@ -175,7 +175,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <?php include './common-price.php' ?>
 
         <div class="blog-image-box">
-             <img src="../images/ahana russina.png" width="100%" height="100%" alt="">
+             <img src="../images/ahana-russina.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
         <h2>Book a suitable partner for real enjoyment</h2>
         <p>Do you dare to pass the sexual urge to a concerned blonde? If you cannot do this, you can end your search with me. I am flexible and explain my mind to serve your sensual duties is my responsibility.  No matter which profile picture you like for the intimacy program, you can call on that number. They will depict a clear picture of the romantic game or not. If they are occupied with other customers, they will inform you. Now, you can narrate the conventional time for making the erotic action without any compromise.</p>

@@ -262,22 +262,22 @@
                 <div class="grid-of-profile-images">
                     <div class="pro-images">
                         <div class="img-c">
-                            <img src="../images/jasleen Kaur call girl service.png" width="100%" height="100%" loading="lazy" alt="Agra call girl service">
+                            <img src="../images/jasleen-Kaur-call-girl-service.webp" width="100%" height="100%" loading="lazy" alt="Agra call girl service">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/jasleen Kaur escorts girl.png" width="100%" height="100%" loading="lazy" alt="Agra escort girl service">
+                        <img src="../images/jasleen-Kaur-escorts-girl.webp" width="100%" height="100%" loading="lazy" alt="Agra escort girl service">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/jasleen Kaur independent escorts.png" width="100%" height="100%" loading="lazy" alt="Agra independent call girl">
+                        <img src="../images/jasleen-Kaur-independent-escorts.webp" width="100%" height="100%" loading="lazy" alt="Agra independent call girl">
                         </div>
                     </div>
                     <div class="pro-images">
                         <div class="img-c">
-                        <img src="../images/jasleen Kaur.png" width="100%" height="100%" loading="lazy" alt="Agra independent Escorts">
+                        <img src="../images/jasleen-Kaur.webp" width="100%" height="100%" loading="lazy" alt="Agra independent Escorts">
                         </div>
                     </div>
                 </div>

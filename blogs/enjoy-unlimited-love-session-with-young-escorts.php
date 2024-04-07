@@ -151,7 +151,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p>The best reason is that you find the high volume of the defloration girl. But, they take excessive charge for this purpose rather than a common escort. While intimating with the bachelor escort, you are bound to see the yelling experience. As a result, you find much pleasure in gaining the causal relationship. Take the relationship practice with the skinny girl as you know their objective is to double your pleasure without spoiling your budget.</p>
 
         <div class="blog-image-box">
-             <img src="../images/kamayani escorts service.png" width="100%" height="100%" alt="">
+             <img src="../images/kamayani-escorts-service.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
         <h2>Be practical while choosing the young College girls escort in Agra</h2>
         <p>Retaining your desire is your utmost responsibility, and none of you should break your natural desire.  If you are looking forward to their real heroine for a fantasy game,   then you take some real points in your account. Otherwise, you are forced to reside in the overwhelmed and underwhelmed love experience. First and foremost toe gaze at the physical appearance of your hired sexual divas. </p>
@@ -165,7 +165,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <p> Taking the love-making service is not a big deal as our hot and young escort measures the love intensity to proffer you the best coupling experience.  Our Agra escort is a master in all sexual poses. Therefore, they bring you to the arousal stage.  We bet this statement that you become sense less while taking the erotic massage. They know the better state-of-the-art how to impress your first-time customer. As a result, you do not feel difficulty converting their first-time customer into long-term customers. Their polite behaviors are the greatest parameter to provide you with a fun and loving experience. Now, you do not drain your energy to seek the genuine purpose escort.</p>
         
         <div class="blog-image-box">
-             <img src="../images/home2.png" width="100%" height="100%" alt="">
+             <img src="../images/home2.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
 
         <h2>What type of service you can expect from a young college girl? </h2>
@@ -182,7 +182,7 @@ $user = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="curre
         <?php include './common-price.php' ?>
 
         <div class="blog-image-box">
-             <img src="../images/ahana russina.png" width="100%" height="100%" alt="">
+             <img src="../images/ahana-russina.webp" width="100%" height="100%" loading="lazy" alt="">
         </div>
         <h3>Stay tuned with our attractive and mind-pleasing escort</h3>
         <p>Why do you make the limitless request to maintain the fantasy? Without taking more time, you can take the service of our escort to push the boredom feeling.  Contact us today to know more information.
