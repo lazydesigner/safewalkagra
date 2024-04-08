@@ -143,7 +143,7 @@
             <div class="overlay-txt">
                 <p>Best Escorts Providers</p> <span>Safe Walk Agra</span>
             </div>
-            <video id="myVideo" class="video-js resp-img" preload="none" loop autoplay muted oncontextmenu="return false;" poster="https://res.cloudinary.com/dqdoczxoa/image/upload/v1702383407/bfuuagay0crdckygwhdn.webp" alt="A girl walking in a goa beach wearing white bickney and white panty" >
+            <video id="myVideo" class="video-js resp-img" preload="none" loop autoplay muted oncontextmenu="return false;" poster="" alt="A girl walking in a goa beach wearing white bickney and white panty" >
             <source type="video/mp4"
                 src="<?= get_url() ?>images/mp4-teressa1.mp4">
         </video>
