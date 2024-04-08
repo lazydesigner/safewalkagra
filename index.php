@@ -143,17 +143,14 @@
             <div class="overlay-txt">
                 <p>Best Escorts Providers</p> <span>Safe Walk Agra</span>
             </div>
-            <video id="myVideo" class="video-js resp-img" preload="none" loop autoplay muted oncontextmenu="return false;" poster="" alt="a young escort wearing black bickney" >
+            <video id="myVideo" class="video-js resp-img" preload="none" loop autoplay muted oncontextmenu="return false;" defer poster="" alt="a young escort wearing black bickney" >
             <source type="video/mp4"
                 src="<?= get_url() ?>images/mp4-teressa1.mp4">
         </video>
-            <!-- <video id="myVideo" autoplay muted>
-                <source src="<?= get_url() ?>images/mp4-teressa1.mp4" type="video/mp4">
-            </video> -->
         </div>
         <div class="video-below-text">
             <div class="below-text">
-                <h1 style="color: #e6ecf1;display:block;font-size:2rem">Introduction to Safewalk Agra Escort Service</h1>
+                <h1 style="color: black;display:block;font-size:2rem">Introduction to Safewalk Agra Escort Service</h1>
                 <p>Call Us For further details</p>
             </div>
             <div class="below-button">
