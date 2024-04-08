@@ -485,7 +485,11 @@ a {
     .footer-col:nth-child(4) {
         flex: 1 0 100%;
     }
-
+    .footer-col ul li a{font-size: 1.1rem;}
+    .footer-bottom-flex div {
+    flex: 100%;
+    text-align: start;
+    }
     /* FOOTER */
 
 
