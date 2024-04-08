@@ -153,7 +153,7 @@
         </div>
         <div class="video-below-text">
             <div class="below-text">
-                <h1 style="color: #e6ecf1;">Introduction to Safewalk Agra Escort Service</h1>
+                <h1 style="color: #e6ecf1;display:block;font-size:2rem">Introduction to Safewalk Agra Escort Service</h1>
                 <p>Call Us For further details</p>
             </div>
             <div class="below-button">
