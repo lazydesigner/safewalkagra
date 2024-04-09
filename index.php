@@ -134,6 +134,18 @@
         }
     </style>
     <?= $schema ?>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "safewalkagra",
+  "description": "Safewalkagra is an escort service provider that provides call girls.",
+  "thumbnailUrl": "https://safewalkagra.com/images/High-profile-models.webp",
+  "uploadDate": "2024-04-08",
+  "contentUrl": "https://safewalkagra.com",
+  "embedUrl": "https://safewalkagra.com"
+}
+</script>
 </head>
 
 <body>
@@ -524,6 +536,7 @@
             };
         };
     </script>
+
 
 </body>
 
