@@ -154,7 +154,7 @@
             <div class="overlay-txt">
                 <p>Best Escorts Providers</p> <span>Safe Walk Agra</span>
             </div>
-            <video id="myVideo" class="video-js resp-img" preload="none" loop autoplay muted oncontextmenu="return false;" defer poster="https://safewalkagra.com/images/High-profile-models.webp" alt="a young escort wearing black bickney" >
+            <video id="myVideo" class="video-js resp-img" preload="none" loop autoplay muted oncontextmenu="return false;" defer poster="https://safewalkagra.com/images/High-profile-models.webp" aria-label="a young escort wearing black bickney" >
             <source type="video/mp4"
                 src="<?= get_url() ?>images/mp4-teressa1.mp4">
         </video>
