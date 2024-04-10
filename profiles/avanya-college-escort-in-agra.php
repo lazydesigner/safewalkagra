@@ -240,6 +240,7 @@
             width: 100%;
             height: 100%;
         }
+        .video-below-text .below-text{color: white;}
     </style>
 </head>
 

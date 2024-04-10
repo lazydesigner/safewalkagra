@@ -102,6 +102,7 @@
             display: grid;
             place-items: center;
         }
+        .video-below-text .below-text{color: white;}
 
         .price-flex {
             display: flex;

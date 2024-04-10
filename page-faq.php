@@ -45,6 +45,7 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
             cursor: pointer;
             border-left: 3px solid var(--link-color);
         }
+        .video-below-text .below-text{color: white;}
         .faq{margin:2% 0;
             border-radius: 10px;}
         .upgrate_faq_question{

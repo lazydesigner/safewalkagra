@@ -208,6 +208,7 @@
             background-color: var(--link-color);
             color: white;
         }
+        .video-below-text .below-text{color: white;}
     </style>
     <?= $schema ?>
 </head>

@@ -23,6 +23,7 @@
     <link rel="canonical" href="<?= get_url() ?>booking.html" />
     <!-- apart -->
     <style>
+        .video-below-text .below-text{color: white;}
         .price-section {
             width: 100%;
             height: auto;

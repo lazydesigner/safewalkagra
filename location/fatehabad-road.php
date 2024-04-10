@@ -45,6 +45,7 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
         }
         .content-area-img{padding: 2%;}
         .content-area-flex{align-items: center;}
+        .video-below-text .below-text{color: white;}
     </style>
     <?=$schema ?>
 </head>

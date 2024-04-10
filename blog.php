@@ -83,6 +83,7 @@
             font-size: x-small;
             color: var(--text-color);
         }
+        .video-below-text .below-text{color: white;}
     </style>
     <?= $schema ?>
 </head>

@@ -51,6 +51,7 @@ $faq_arrow = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="
             line-height: 27px;
             margin: 1% 0;
         }
+        .video-below-text .below-text{color: white;}
     </style>
     <style>
         .faq p {

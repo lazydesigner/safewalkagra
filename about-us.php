@@ -41,6 +41,7 @@
         }
         .content-area-img{padding: 2%;}
         .content-area-flex{align-items: center;}
+        .video-below-text .below-text{color: white;}
     </style>
     <?=$schema ?>
 </head>

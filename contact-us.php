@@ -38,6 +38,7 @@
         .form-group {
             margin: 2% 0;
         }
+        .video-below-text .below-text{color: white;}
 
         .message-flex {
             width: 100%;

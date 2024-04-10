@@ -134,6 +134,7 @@
             border: 0;
             border-radius: 5px;
         }
+        .video-below-text .below-text{color: white;}
     </style>
     <link rel="stylesheet" href="<?= get_url() ?>css/navbar.css?v=1">
     <style>

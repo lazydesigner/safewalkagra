@@ -132,6 +132,7 @@
             .long-profile-img img{object-fit: cover;}
             .long-profile-txt p{display: none;}
         }
+        .video-below-text .below-text{color: white;}
     </style>
     <?= $schema ?>
     <script type="application/ld+json">
