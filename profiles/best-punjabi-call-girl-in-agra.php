@@ -288,7 +288,7 @@ Since pleasing the souls of my customers is my vision, I learned this skill by h
 </p>
             </div>
             <div class="profile-details">
-                <a href="<?= get_url() ?>booking"><button class="profile-btn">BOOK NOW</button></a>
+                <a href="<?= get_url() ?>booking.html"><button class="profile-btn">BOOK NOW</button></a>
 
                 <div class="profile-btn" style="cursor: auto;">Jasleen Kaur</div>
 
